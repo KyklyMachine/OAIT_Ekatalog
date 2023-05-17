@@ -1,0 +1,3670 @@
+category_id,brand_id,name,date_added
+0,0,Asus TUF Gaming F15 FX506HCB,2014-9-2
+0,1,Huawei MateBook D 15 2021,2023-6-26
+0,2,Acer Nitro 5 AN515-57,2021-10-7
+0,0,Asus ROG Zephyrus G14 (2022) GA402RJ,2010-4-28
+0,3,Lenovo ThinkBook 15 G2 ITL,2021-2-6
+0,2,Acer Aspire 3 A315-56,2019-1-4
+0,1,Huawei MateBook D 15 2021,2010-10-15
+0,0,Asus TUF Gaming F15 FX506LH,2017-11-18
+0,4,HP Victus 15-fa0000,2015-8-1
+0,2,Acer Extensa 215-52,2014-9-28
+0,3,Lenovo ThinkBook 15 G2 ITL,2012-12-18
+0,2,Acer Extensa 215-52,2012-10-12
+0,3,Lenovo V15 G2 ALC,2010-2-22
+0,0,Asus TUF Gaming F15 FX506HC,2017-2-4
+0,4,HP Victus 15-fa0000,2015-9-6
+0,3,Lenovo V15 G2 ALC,2011-6-8
+0,2,Acer Aspire 3 A315-56,2022-6-10
+0,4,HP Victus 16-e0000,2019-9-16
+0,5,Apple MacBook Air 13 (2020) M1,2013-7-8
+0,6,MSI Pulse GL66 11UEK,2015-8-24
+0,0,Asus X515EA,2018-11-14
+0,3,Lenovo ThinkBook 15 G3 ACL,2017-9-20
+0,0,Asus Vivobook Pro 15 OLED M3500QC,2015-6-23
+0,3,Lenovo ThinkBook 15 G2 ITL,2021-12-23
+0,3,Lenovo ThinkBook 15 G2 ITL,2013-9-25
+0,2,Acer Swift 3 SF314-43,2021-3-28
+0,3,Lenovo IdeaPad Gaming 3 15IHU6,2016-3-24
+0,0,Asus ROG Strix G15 (2022) G513RM,2014-8-19
+0,2,Acer Aspire 3 A315-56,2014-8-28
+0,0,Asus Vivobook Pro 14 OLED M3401QA,2022-4-7
+0,0,Asus ROG Strix G17 (2022) G713RM,2012-7-19
+0,3,Lenovo IdeaPad 3 15IIL05,2023-6-18
+0,3,Lenovo V15 G2 ALC,2015-11-11
+0,2,Acer Aspire 3 A315-34,2022-1-9
+0,3,Lenovo IdeaPad 3 15IGL05,2013-5-2
+0,3,Lenovo V15 G2 ALC,2018-7-2
+0,3,Lenovo IdeaPad 3 15ALC6,2022-5-11
+0,0,Asus TUF Gaming F17 FX706HC,2019-9-20
+0,0,Asus TUF Dash F15 (2022) FX517ZM,2017-4-4
+0,4,HP OMEN 16-c0000,2016-5-25
+0,2,Acer Nitro 5 AN515-45,2020-4-5
+0,5,Apple MacBook Pro 13 (2022),2018-1-28
+0,0,Asus TUF Gaming F15 FX506HM,2022-10-9
+0,0,Asus Vivobook Pro 15 OLED K6500ZC,2022-10-9
+0,3,Lenovo IdeaPad 3 15IIL05,2013-6-20
+0,5,Apple MacBook Pro 14 (2021),2014-9-22
+0,2,Acer Aspire 3 A315-34,2019-11-24
+0,2,Acer Swift 3 SF314-43,2020-3-16
+0,5,Apple MacBook Air 13 (2020) M1,2023-4-7
+0,0,Asus TUF Gaming F17 FX706HEB,2022-8-3
+0,0,Asus TUF Gaming A15 (2022) FA507RE,2011-1-18
+0,3,Lenovo ThinkBook 15 G3 ACL,2014-6-10
+0,0,Asus ROG Strix G15 G513IE,2017-3-19
+0,5,Apple MacBook Pro 13 (2022),2010-4-23
+0,4,HP 15s-eq1000,2023-1-4
+0,3,Lenovo ThinkBook 15 G3 ACL,2019-5-18
+0,5,Apple MacBook Air (2022),2020-4-18
+0,3,Lenovo ThinkBook 15 G2 ITL,2018-1-24
+0,2,Acer Nitro 5 AN515-57,2015-10-4
+0,5,Apple MacBook Pro 13 (2022),2019-6-10
+0,4,HP Pavilion 14-ec0000,2010-4-11
+0,5,Apple MacBook Air 13 (2020) M1,2011-7-28
+0,5,Apple MacBook Pro 13 (2022),2012-8-27
+0,4,HP Pavilion 14-ec0000,2011-9-11
+0,3,Lenovo IdeaPad 3 15IGL05,2022-12-13
+0,5,Apple MacBook Air 13 (2020) M1,2017-7-1
+0,3,Lenovo ThinkBook 15 G3 ACL,2017-2-22
+0,7,Razer Blade 14 2022,2011-1-22
+0,0,Asus X515JA,2010-1-23
+0,0,Asus VivoBook 15 OLED K513EA,2021-1-7
+0,7,Razer Blade 15 2022,2017-4-18
+0,0,Asus ROG Strix Scar 15 (2022) G533ZS,2013-2-10
+0,5,Apple MacBook Air (2022),2010-6-3
+0,2,Acer Extensa 215-22,2013-8-9
+0,4,HP 15s-eq1000,2020-11-15
+0,4,HP 15s-eq2000,2016-9-24
+0,3,Lenovo ThinkBook 15 G2 ITL,2019-1-23
+0,5,Apple MacBook Pro 16 (2021),2011-7-18
+0,0,Asus TUF Gaming A15 (2022) FA507RM,2015-6-20
+0,3,Lenovo ThinkBook 15 G2 ITL,2016-8-25
+0,5,Apple MacBook Pro 14 (2021),2013-2-17
+0,0,Asus VivoBook 15 OLED K513EA,2017-1-9
+0,2,Acer Swift 3 SF316-51,2018-7-23
+0,5,Apple MacBook Air (2022),2022-6-7
+0,2,Acer Nitro 5 AN515-46,2010-3-12
+0,3,Lenovo ThinkBook 15 G2 ITL,2016-2-27
+0,5,Apple MacBook Pro 14 (2021),2013-7-23
+0,2,Acer Aspire 5 A515-56,2021-1-17
+0,5,Apple MacBook Air (2022),2018-6-21
+0,8,Dream Machines RG3060-17 GS7AG0R,2021-5-4
+0,2,Acer Aspire 3 A315-58,2022-12-18
+0,0,Asus X515EA,2013-2-17
+0,3,Lenovo ThinkPad E15 Gen 2 Intel,2019-8-1
+0,5,Apple MacBook Pro 14 (2021),2022-6-11
+0,5,Apple MacBook Air (2022),2014-9-4
+0,3,Lenovo ThinkBook 15 G3 ACL,2018-5-16
+0,7,Razer Blade 15 2022,2015-1-28
+0,5,Apple MacBook Pro 16 (2021),2017-5-8
+0,4,HP 15s-eq1000,2013-9-1
+0,0,Asus ROG Zephyrus G14 (2022) GA402RJ,2016-11-11
+0,0,Asus ROG Zephyrus G14 (2022) GA402RJ,2023-4-13
+0,5,Apple MacBook Pro 16 (2021),2011-4-3
+0,6,MSI Modern 14 C12M,2018-8-15
+0,5,Apple MacBook Pro 16 (2021),2010-5-8
+0,3,Lenovo ThinkBook 15 G2 ITL,2020-3-25
+0,5,Apple MacBook Air (2022),2015-3-7
+0,5,Apple MacBook Air (2022),2011-11-28
+0,0,Asus VivoBook S14 S435EA,2010-2-24
+0,5,Apple MacBook Air (2022),2023-1-20
+0,4,HP 15s-fq2000,2020-11-3
+0,3,Lenovo IdeaPad L340 15,2022-5-23
+0,3,Lenovo V15 15,2016-12-5
+0,2,Acer Aspire 3 A315-23,2010-6-28
+0,5,Apple MacBook Air 13 (2020) M1,2015-10-23
+0,5,Apple MacBook Pro 16 (2021),2017-2-9
+0,5,Apple MacBook Pro 16 (2019),2019-3-21
+0,5,Apple MacBook Pro 16 (2021),2019-5-28
+0,5,Apple MacBook Pro 16 (2021),2011-7-20
+0,8,Dream Machines RG3060-15 GS5AG0V,2018-8-14
+0,2,Acer TravelMate P2 TMP214-53,2016-12-12
+0,3,Lenovo ThinkBook 15 G2 ITL,2021-11-28
+0,0,Asus ROG Flow X16 (2022) GV601RM,2013-7-27
+0,3,Lenovo IdeaPad 3 14ITL05,2010-4-1
+0,0,Asus X515MA,2017-5-24
+0,2,Acer Extensa 215-54,2015-11-2
+0,2,Acer Swift 3 SF314-511,2012-12-11
+0,5,Apple MacBook Pro 16 (2023),2023-8-9
+0,5,Apple MacBook Pro 13 (2020) M1,2023-5-18
+0,5,Apple MacBook Pro 16 (2023),2012-9-14
+0,5,Apple MacBook Pro 16 (2023),2023-2-16
+0,9,Microsoft Surface Laptop 5 15 inch,2020-5-14
+0,3,Lenovo ThinkBook 15 G3 ACL,2014-9-26
+0,2,Acer Extensa 215-52,2018-8-26
+0,9,Microsoft Surface Laptop 5 15 inch,2022-7-21
+0,2,Acer Extensa 15 EX215-32,2020-11-27
+0,9,Microsoft Surface Laptop 5 13.5 inch,2015-2-17
+0,5,Apple MacBook Pro 16 (2023),2012-7-9
+0,10,Dell Latitude 14 5430,2016-8-22
+0,3,Lenovo ThinkPad E14 Gen 4 AMD,2020-12-2
+0,0,Asus Y1511CDA,2019-4-4
+0,4,HP 15s-eq1000,2013-2-20
+0,0,Asus X515EA,2013-7-10
+0,5,Apple MacBook Pro 14 (2023),2014-12-11
+0,5,Apple MacBook Pro 16 (2019),2022-1-18
+0,2,Acer Nitro 5 AN515-46,2018-3-22
+0,5,Apple MacBook Pro 14 (2023),2020-5-15
+0,5,Apple MacBook Pro 16 (2023),2019-2-28
+0,5,Apple MacBook Pro 16 (2023),2015-10-23
+0,11,Gigabyte AORUS 15 XE4,2010-9-1
+0,0,Asus X515EA,2010-7-24
+0,4,HP 15s-eq1000,2022-5-9
+0,5,Apple MacBook Pro 14 (2023),2021-6-23
+0,5,Apple MacBook Pro 14 (2023),2022-7-1
+0,0,Asus ROG Zephyrus M16 (2023) GU604VI,2010-12-5
+0,5,Apple MacBook Pro 14 (2023),2010-7-20
+0,5,Apple MacBook Pro 14 (2023),2020-11-7
+0,0,Asus ExpertBook B1 B1400CEAE,2023-5-17
+0,0,Asus ExpertBook B1 B1500CEAE,2014-6-4
+0,7,Razer Blade 17 2022,2019-4-18
+0,0,Asus ExpertBook B1 B1400CEAE,2014-2-4
+0,0,Asus ExpertBook B1 B1500CEAE,2011-2-6
+0,0,Asus ExpertBook B1 B1500CEAE,2011-7-4
+0,7,Razer Blade 17 2022,2020-9-8
+0,7,Razer Blade 17 2022,2016-6-17
+0,2,Acer Extensa 215-52,2018-8-3
+0,12,Xiaomi Mi Notebook Pro X 15 2021,2018-7-1
+0,6,MSI Katana GF76 12UE,2021-8-12
+0,2,Acer Predator Helios 300 PH315-55,2012-8-13
+0,2,Acer Nitro 5 AN515-58,2015-8-17
+0,6,MSI Katana GF76 12UE,2011-11-7
+0,3,Lenovo Yoga 7 15ITL5,2019-12-26
+0,2,Acer Aspire 3 A315-34,2020-8-16
+0,13,Realme realme Book,2013-9-20
+0,3,Lenovo IdeaPad 5 Pro 16ACH6,2015-7-21
+0,11,Gigabyte AERO 16 KE5,2016-8-24
+0,1,Huawei MateBook 16s,2012-11-18
+0,6,MSI Pulse GL66 12UEK,2015-6-27
+0,5,Apple MacBook Air 13 (2020) M1,2019-3-2
+0,6,MSI Katana GF76 12UE,2013-3-11
+0,0,Asus Zenbook S 13 OLED UM5302TA,2016-9-22
+0,5,Apple MacBook Pro 16 (2021),2013-7-18
+0,7,Razer Blade 17 2022,2016-3-3
+0,11,Gigabyte G5 GE,2014-8-27
+0,1,Huawei MateBook D 16,2012-7-8
+0,4,HP 15s-eq1000,2016-2-8
+0,4,HP Victus 15-fa0000,2020-8-25
+0,1,Huawei MateBook D 16,2023-6-23
+0,4,HP Elite x2 G8,2020-9-22
+0,5,Apple MacBook Air 13 (2020) M1,2022-6-8
+0,6,MSI Modern 14 B11MOU,2020-5-21
+0,6,MSI Pulse GL66 12UEK,2019-3-22
+0,5,Apple MacBook Air 13 (2020) M1,2015-6-25
+0,14,2E Complex Pro 17 NS70PU,2016-4-2
+0,12,Xiaomi RedmiBook 15,2015-12-18
+0,11,Gigabyte G7 KE,2013-5-3
+0,10,Dell XPS 15 9510,2018-10-6
+0,5,Apple MacBook Pro 14 (2021),2021-7-19
+0,5,Apple MacBook Air 13 (2020) M1,2014-9-11
+0,6,MSI Alpha 15 B5EEK,2023-3-27
+0,3,Lenovo IdeaPad 3 15IGL05,2022-9-19
+0,5,Apple MacBook Pro 16 (2021),2011-4-27
+0,5,Apple MacBook Air (2022),2016-3-2
+0,6,MSI Pulse GL66 12UEK,2015-12-11
+0,7,Razer Blade 15 2022,2018-2-22
+0,5,Apple MacBook Air (2022),2021-10-5
+0,6,MSI Alpha 15 B5EEK,2016-11-22
+0,5,Apple MacBook Air (2022),2016-10-13
+0,5,Apple MacBook Pro 16 (2021),2011-1-2
+0,7,Razer Blade 17 2022,2011-8-5
+0,11,Gigabyte AERO 5 KE4,2023-5-20
+0,0,Asus Vivobook S 16X M5602QA,2012-4-1
+0,7,Razer Blade 14 2022,2015-12-8
+0,11,Gigabyte G5 KD,2019-11-11
+0,3,Lenovo IdeaPad 3 15IGL05,2018-12-11
+0,5,Apple MacBook Air 13 (2020) M1,2018-9-12
+0,4,HP ENVY 13-ba1000,2014-7-4
+0,4,HP 15s-eq2000,2021-6-12
+0,0,Asus ROG Strix Scar 17 SE (2022) G733CX,2012-12-12
+0,10,Dell Vostro 15 3500,2021-2-25
+0,10,Dell Inspiron 15 3525,2011-6-14
+0,9,Microsoft Surface Laptop 5 15 inch,2018-9-1
+0,1,Huawei MateBook D 16,2022-6-13
+0,4,HP Victus 16-e0000,2021-10-19
+0,2,Acer Nitro 5 AN515-55,2010-1-19
+0,10,Dell Vostro 15 3525,2017-5-13
+0,5,Apple MacBook Air (2022),2020-5-7
+0,5,Apple MacBook Air 13 (2020) M1,2019-4-10
+0,10,Dell Vostro 15 3525,2017-4-12
+0,0,Asus Vivobook S 15 OLED K3502ZA,2017-1-6
+0,0,Asus ROG Zephyrus Duo 16 (2022) GX650RW,2011-5-16
+0,11,Gigabyte G7 ME,2011-5-16
+0,8,Dream Machines RG3050-17 2022,2012-8-6
+0,8,Dream Machines RG3050TI-17 V170PNKQ,2013-6-6
+0,3,Lenovo Yoga 7 14IAL7,2019-10-27
+0,10,Dell Vostro 15 3500,2011-11-20
+0,0,Asus TUF Gaming A15 (2022) FA507RE,2017-9-6
+0,5,Apple MacBook Air (2022),2017-3-5
+0,10,Dell Vostro 16 5625,2010-12-12
+0,7,Razer Blade 17 2022,2017-8-26
+0,10,Dell Vostro 15 3500,2022-2-21
+0,10,Dell Vostro 15 3525,2015-11-2
+0,0,Asus Zenbook S 13 OLED UM5302TA,2015-4-18
+0,14,2E Complex Pro 17 NS70PU,2019-7-15
+0,11,Gigabyte G5 KE,2010-2-14
+0,4,HP 250 G8,2023-2-23
+0,14,2E Complex Pro 17 NS70PU,2021-2-23
+0,7,Razer Blade 15 Advanced 2021 10th Gen Intel,2023-4-9
+0,4,HP 250 G8,2014-7-18
+0,10,Dell Inspiron 15 3525,2016-10-3
+0,8,Dream Machines RG3060-15 2022,2014-8-15
+0,14,2E Complex Pro 15 NS51PU,2017-6-20
+0,0,Asus ROG Zephyrus G14 (2022) GA402RJ,2022-4-4
+0,4,HP ENVY 13-ay0000 x360,2020-5-22
+0,3,Lenovo IdeaPad Gaming 3 15IAH7,2012-4-2
+0,2,Acer Aspire 3 A315-59,2011-7-24
+0,8,Dream Machines RS3070-17 PD70PNN,2016-7-20
+0,11,Gigabyte AERO 16 KE5,2013-6-14
+0,5,Apple MacBook Air 13 (2020) M1,2016-12-16
+0,2,Acer Swift X SFX16-52G,2022-1-19
+0,2,Acer Swift 3 SF314-57G,2015-5-19
+0,8,Dream Machines RG3050-17 2022,2017-9-10
+0,5,Apple MacBook Pro 13 (2020) M1,2011-3-19
+0,9,Microsoft Surface Laptop 5 13.5 inch,2018-4-25
+0,6,MSI Pulse GL66 12UEK,2017-10-13
+0,2,Acer Nitro 5 AN515-58,2022-12-26
+0,14,2E Complex Pro 17 NS70PU,2010-1-3
+0,4,HP 250 G8,2014-10-12
+0,2,Acer Nitro 5 AN515-46,2014-11-21
+0,2,Acer ConceptD 3 Ezel CC314-72,2022-5-2
+0,8,Dream Machines RG3050-17 2022,2012-5-28
+0,14,2E Complex Pro 15 NS51PU,2020-3-11
+0,12,Xiaomi RedmiBook 15,2020-10-1
+0,0,Asus TUF Gaming A15 (2022) FA507RE,2015-6-7
+0,2,Acer Nitro 5 AN517-55,2021-4-12
+0,8,Dream Machines RG3070TI-15 GM5AG7W,2016-9-1
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2013-6-15
+0,8,Dream Machines RG3050-15 GM5AGEV,2022-7-12
+0,14,2E Complex Pro 15 NS51PU,2016-2-10
+0,3,Lenovo IdeaPad 5 Pro 14ITL6,2012-1-9
+0,5,Apple MacBook Air 13 (2020) M1,2016-5-26
+0,5,Apple MacBook Air 13 (2020) M1,2021-4-18
+0,0,Asus TUF Gaming A15 (2022) FA507RM,2015-5-27
+0,5,Apple MacBook Pro 13 (2020) M1,2015-7-18
+0,0,Asus ROG Strix G17 (2022) G713RM,2012-6-19
+0,3,Lenovo IdeaPad Gaming 3 15IAH7,2018-6-3
+0,8,Dream Machines RS3080-15 PD50PNT,2017-2-17
+0,9,Microsoft Surface Laptop 5 15 inch,2021-5-10
+0,14,2E Complex Pro 17 NS70PU,2023-1-4
+0,9,Microsoft Surface Laptop 5 15 inch,2011-6-12
+0,9,Microsoft Surface Laptop 5 13.5 inch,2013-3-11
+0,4,HP 250 G8,2012-10-25
+0,13,Realme Book,2015-7-19
+0,9,Microsoft Surface Laptop 5 13.5 inch,2010-1-11
+0,9,Microsoft Surface Laptop 5 13.5 inch,2020-12-28
+0,2,Acer Nitro 5 AN515-58,2017-5-3
+0,2,Acer Predator Triton 500 SE PT516-52s,2014-3-25
+0,3,Lenovo ThinkPad X1 Carbon Gen9,2017-8-16
+0,7,Razer Blade 14 2022,2010-1-15
+0,14,2E Complex Pro 17 NS70PU,2010-10-23
+0,14,2E Complex Pro 17 NS70PU,2016-10-1
+0,5,Apple MacBook Pro 13 (2020) M1,2014-3-21
+0,14,2E Complex Pro 17 NS70PU,2017-5-7
+0,4,HP 250 G8,2017-11-27
+0,4,HP 250 G8,2016-9-19
+0,0,Asus Vivobook S 15 OLED K3502ZA,2011-8-24
+0,5,Apple MacBook Pro 14 (2021),2012-3-24
+0,0,Asus Vivobook Pro 15 K6500ZH,2014-10-13
+0,3,Lenovo V15 15,2016-7-22
+0,2,Acer Nitro 5 AN517-55,2019-1-5
+0,2,Acer Predator Helios 300 PH317-56,2019-11-23
+0,3,Lenovo V15 15,2020-3-7
+0,0,Asus ROG Strix G17 (2022) G713RM,2018-3-28
+0,2,Acer Nitro 5 AN517-54,2015-2-21
+0,2,Acer Nitro 5 AN517-55,2020-12-19
+0,2,Acer Aspire 5 A515-47,2019-5-7
+0,4,HP 255 G8,2016-3-6
+0,2,Acer Predator Helios 300 PH317-56,2022-10-22
+0,4,HP 250 G8,2016-9-4
+0,4,HP 250 G8,2018-8-25
+0,9,Microsoft Surface Laptop 5 15 inch,2012-5-13
+0,4,HP 250 G8,2022-10-28
+0,3,Lenovo IdeaPad 3 15IGL05,2012-2-20
+0,7,Razer Blade 17 2022,2020-4-27
+0,7,Razer Blade 15 2022,2016-12-5
+0,10,Dell Latitude 14 5430,2017-4-2
+0,0,Asus TUF Gaming A15 (2022) FA507RM,2023-10-5
+0,2,Acer Swift 3 SF314-57G,2011-6-15
+0,4,HP 250 G8,2012-2-6
+0,0,Asus ZenBook 14 UM425QA,2020-6-17
+0,2,Acer Predator Helios 300 PH315-55,2019-6-19
+0,2,Acer Nitro 5 AN515-58,2012-12-8
+0,4,HP 250 G8,2015-8-5
+0,9,Microsoft Surface Laptop 5 13.5 inch,2015-8-13
+0,2,Acer Aspire 7 A715-51G,2014-5-25
+0,0,Asus Zenbook S 13 OLED UM5302TA,2019-5-3
+0,2,Acer Nitro 5 AN515-58,2015-5-27
+0,4,HP 250 G8,2011-6-7
+0,5,Apple MacBook Pro 14 (2021),2016-11-1
+0,2,Acer Aspire 3 A315-59G,2023-2-3
+0,10,Dell Vostro 16 5625,2010-9-7
+0,4,HP 250 G8,2020-1-25
+0,4,HP 250 G8,2014-2-5
+0,6,MSI Bravo 15 B5DD,2019-6-9
+0,0,Asus ROG Strix G17 (2022) G713RM,2015-8-13
+0,6,MSI Pulse GL66 12UEK,2018-7-2
+0,2,Acer Swift 3 SF314-512,2015-3-17
+0,4,HP 250 G8,2011-3-4
+0,3,Lenovo ThinkPad X1 Extreme Gen 5,2015-2-15
+0,0,Asus Zenbook Pro 14 Duo OLED UX8402ZE,2018-3-22
+0,2,Acer Nitro 5 AN517-55,2014-7-24
+0,2,Acer Swift 3 SF314-512,2023-5-1
+0,3,Lenovo IdeaPad 3 15IGL05,2023-3-15
+0,2,Acer TravelMate P2 TMP215-53,2021-12-26
+0,0,Asus Vivobook Pro 15 K6500ZC,2021-1-9
+0,7,Razer Blade 15 2022,2023-9-20
+0,2,Acer Nitro 5 AN515-58,2017-5-13
+0,5,Apple MacBook Pro 13 (2020) M1,2022-4-6
+0,9,Microsoft Surface Laptop 5 13.5 inch,2015-3-9
+0,6,MSI Katana 15 B12VFK,2017-2-21
+0,3,Lenovo ThinkPad T15p Gen 3,2014-1-24
+0,3,Lenovo ThinkPad T15p Gen 3,2019-5-2
+0,0,Asus ExpertBook B1 B1400CEAE,2010-10-22
+0,5,Apple MacBook Pro 14 (2021),2013-5-4
+0,5,Apple MacBook Pro 14 (2021),2012-9-20
+0,2,Acer Aspire 3 A315-59G,2018-11-27
+0,0,Asus Vivobook S 15 OLED K3502ZA,2012-9-4
+0,3,Lenovo IdeaPad Gaming 3 15IAH7,2011-7-6
+0,5,Apple MacBook Air (2022),2021-11-6
+0,4,HP ZBook Firefly 14 G9,2018-5-21
+0,5,Apple MacBook Pro 13 (2020) M1,2022-2-20
+0,6,MSI Bravo 15 B5DD,2020-2-13
+0,2,Acer Swift 1 SF114-33,2014-5-18
+0,0,Asus Zenbook Pro 14 Duo OLED UX8402ZA,2016-5-19
+0,2,Acer Nitro 5 AN515-46,2017-12-8
+0,0,Asus ROG Zephyrus Duo 16 (2022) GX650RW,2015-3-2
+0,3,Lenovo V14 G2 ALC,2022-2-26
+0,2,Acer Nitro 5 AN517-55,2014-4-3
+0,5,Apple MacBook Pro 13 (2020) M1,2019-3-17
+0,0,Asus Vivobook S 15 OLED K3502ZA,2022-4-25
+0,2,Acer Swift 1 SF114-33,2012-12-8
+0,7,Razer Blade 17 2022,2022-11-22
+0,0,Asus TUF Dash F15 (2022) FX517ZM,2018-11-10
+0,4,HP 255 G8,2017-8-1
+0,4,HP Victus 16-e0000,2020-6-3
+0,3,Lenovo ThinkPad Z16 Gen 1,2011-9-24
+0,5,Apple MacBook Pro 13 (2020) M1,2012-9-3
+0,5,Apple MacBook Pro 13 (2020) M1,2018-5-17
+0,2,Acer Swift 1 SF114-33,2013-1-11
+0,3,Lenovo ThinkPad X1 Extreme Gen 5,2017-5-3
+0,0,Asus Vivobook 17X K1703ZA,2018-10-12
+0,0,Asus ROG Zephyrus Duo 16 (2022) GX650RW,2013-11-9
+0,3,Lenovo ThinkPad X1 Extreme Gen 5,2021-11-24
+0,0,Asus ROG Zephyrus G14 (2022) GA402RJ,2015-4-14
+0,2,Acer Nitro 5 AN517-55,2015-1-8
+0,2,Acer Nitro 5 AN517-55,2012-5-16
+0,0,Asus TUF Gaming A17 (2022) FA707RE,2015-3-11
+0,0,Asus Vivobook 17X K1703ZA,2020-2-6
+0,10,Dell Latitude 15 5531,2014-9-19
+0,10,Dell Latitude 14 5480,2016-1-26
+0,0,Asus ROG Strix G17 (2022) G713RM,2016-4-8
+0,0,Asus ROG Strix G17 (2022) G713RM,2023-4-7
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2018-5-22
+0,2,Acer Nitro 5 AN515-58,2013-9-24
+0,2,Acer Predator Helios 300 PH317-56,2010-2-2
+0,8,Dream Machines RG3060-15 GS5AG0V,2020-8-10
+0,0,Asus ROG Zephyrus G14 (2022) GA402RJ,2021-2-12
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2014-1-4
+0,7,Razer Blade 15 2022,2021-12-7
+0,0,Asus TUF Gaming A17 (2022) FA707RE,2019-12-19
+0,4,HP ProBook 450 G8,2022-4-26
+0,7,Razer Blade 14 2022,2019-3-11
+0,0,Asus Vivobook Pro 15 OLED K6500ZC,2017-7-12
+0,5,Apple MacBook Pro 13 (2020) M1,2017-1-9
+0,2,Acer Predator Helios 300 PH315-52,2020-8-18
+0,8,Dream Machines RG3060-15 GS5AG0V,2016-11-5
+0,3,Lenovo ThinkPad T16 Gen 1 (Intel),2014-3-22
+0,7,Razer Blade 15 2022,2023-3-8
+0,0,Asus Vivobook Pro 15 OLED K6500ZE,2012-10-11
+0,2,Acer Nitro 5 AN517-55,2023-6-23
+0,3,Lenovo V14 IML,2011-5-27
+0,7,Razer Blade 15 2022,2012-9-7
+0,0,Asus Vivobook Pro 15 OLED K6500ZE,2010-5-3
+0,2,Acer Nitro 5 AN517-55,2016-12-25
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2012-12-6
+0,0,Asus TUF Gaming A17 (2022) FA707RE,2012-3-4
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2017-1-6
+0,0,Asus Vivobook S 15 OLED K3502ZA,2022-1-3
+0,2,Acer Aspire 3 A315-59,2011-8-13
+0,4,HP 255 G8,2023-5-18
+0,2,Acer Predator Triton 300 SE PT316-51s,2018-9-18
+0,2,Acer Aspire 5 A515-57,2016-8-17
+0,0,Asus Zenbook S 13 OLED UM5302TA,2021-1-7
+0,4,HP 250 G8,2020-10-26
+0,6,MSI Katana 17 B12VFK,2010-5-4
+0,2,Acer Aspire 3 A315-59,2023-9-12
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2016-2-5
+0,0,Asus TUF Dash F15 (2022) FX517ZM,2015-9-28
+0,2,Acer Aspire 5 A515-57G,2016-12-10
+0,2,Acer Predator Triton 300 SE PT316-51s,2022-8-5
+0,0,Asus Vivobook Pro 15 OLED K6500ZE,2022-4-28
+0,2,Acer Nitro 5 AN517-55,2017-2-14
+0,2,Acer ConceptD 3 CN314-72,2019-2-19
+0,0,Asus Vivobook Pro 15 OLED K6500ZE,2011-6-12
+0,8,Dream Machines RT3070Ti-15 GM5RG7W,2011-10-24
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2019-9-18
+0,2,Acer Predator Triton 300 SE PT316-51s,2023-10-1
+0,5,Apple MacBook Air 13 (2020) M1,2018-5-27
+0,0,Asus Vivobook 17X K1703ZA,2016-3-17
+0,2,Acer Aspire 3 A315-59G,2014-3-2
+0,7,Razer Blade 14 2022,2014-12-18
+0,2,Acer TravelMate P2 TMP215-54,2010-3-2
+0,11,Gigabyte AORUS 17H BXF,2020-9-1
+0,0,Asus ROG Strix G16 (2023) G614JV,2012-1-26
+0,4,HP EliteBook 820 G1,2020-9-10
+0,0,Asus ExpertBook B9 B9400CEA,2022-10-7
+0,7,Razer Blade 14 2022,2022-6-11
+0,3,Lenovo ThinkPad X1 Carbon Gen5,2021-6-11
+0,2,Acer Aspire 5 A515-57,2011-12-15
+0,2,Acer Nitro 5 AN515-58,2010-3-5
+0,2,Acer Nitro 5 AN515-58,2018-1-2
+0,2,Acer Nitro 5 AN517-55,2014-2-16
+0,2,Acer Predator Triton 500 SE PT516-52s,2016-2-9
+0,2,Acer Nitro 5 AN515-58,2010-3-1
+0,2,Acer Nitro 5 AN515-58,2014-10-18
+0,7,Razer Blade 17 2022,2013-11-14
+0,4,HP ProBook 450 G8,2017-7-4
+0,5,Apple MacBook Air 13 (2018),2021-8-28
+0,2,Acer Swift 1 SF114-34,2021-4-19
+0,2,Acer Nitro 5 AN515-58,2020-4-23
+0,4,HP EliteBook 850 G8,2023-12-20
+0,0,Asus Vivobook S 15 OLED K3502ZA,2022-4-17
+0,0,Asus Vivobook S 15 OLED K3502ZA,2012-12-1
+0,3,Lenovo IdeaPad Gaming 3 15IAH7,2020-3-6
+0,7,Razer Blade 17 2022,2023-10-27
+0,10,Dell Latitude 15 5531,2023-10-9
+0,7,Razer Blade 17 2022,2019-11-15
+0,4,HP 245 G8,2014-12-21
+0,4,HP 255 G8,2018-9-5
+0,4,HP 255 G8,2014-11-15
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2011-1-1
+0,0,Asus Zenbook S 13 OLED UM5302TA,2014-5-10
+0,2,Acer Swift 3 SF314-44,2014-9-6
+0,2,Acer TravelMate P2 TMP215-54,2017-1-21
+0,3,Lenovo ThinkPad X1 Extreme Gen 5,2011-8-18
+0,0,Asus Vivobook Pro 15 K6500ZH,2020-5-4
+0,0,Asus Zenbook S 13 OLED UM5302TA,2020-2-10
+0,5,Apple MacBook Air 13 (2018),2012-8-26
+0,0,Asus Vivobook Pro 15 OLED K6500ZE,2020-7-10
+0,7,Razer Blade 17 2022,2018-2-24
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2012-10-25
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2020-9-16
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2020-10-24
+0,6,MSI Modern 14 C12M,2012-7-1
+0,7,Razer Blade 17 2022,2014-8-5
+0,4,HP 255 G8,2014-1-21
+0,3,Lenovo ThinkPad X1 Carbon Gen5,2016-10-9
+0,2,Acer Aspire 5 A515-57G,2015-2-11
+0,2,Acer Aspire 5 A515-57G,2017-4-7
+0,0,Asus TUF Gaming A15 (2022) FA507RE,2022-6-7
+0,2,Acer Aspire 5 A515-57,2014-1-14
+0,7,Razer Blade 17 2022,2023-1-21
+0,2,Acer Aspire 5 A515-57,2022-3-2
+0,3,Lenovo ThinkPad T16 Gen 1 (Intel),2012-5-17
+0,3,Lenovo ThinkPad T16 Gen 1 (Intel),2014-9-4
+0,2,Acer Nitro 5 AN517-55,2012-5-6
+0,2,Acer Nitro 5 AN517-55,2017-7-20
+0,2,Acer Nitro 5 AN517-55,2019-6-1
+0,3,Lenovo IdeaPad Gaming 3 15IAH7,2021-1-10
+0,3,Lenovo IdeaPad Gaming 3 15IAH7,2021-11-4
+0,2,Acer Nitro 5 AN517-55,2023-6-11
+0,2,Acer Nitro 5 AN517-55,2010-1-20
+0,2,Acer Nitro 5 AN515-58,2014-10-13
+0,10,Dell Vostro 14 3400,2012-8-11
+0,2,Acer Predator Helios 300 PH317-56,2010-12-6
+0,2,Acer Predator Helios 300 PH317-56,2022-6-8
+0,2,Acer Predator Helios 300 PH317-56,2016-8-3
+0,7,Razer Blade 15 2022,2013-9-8
+0,4,HP 240 G8,2011-10-1
+0,4,HP ProBook 650 G8,2010-12-4
+0,2,Acer Aspire 5 A517-53G,2011-5-22
+0,7,Razer Blade 15 2022,2013-4-15
+0,7,Razer Blade 17 2022,2020-9-9
+0,4,HP ProBook 650 G8,2019-8-19
+0,4,HP ProBook 450 G8,2011-10-18
+0,2,Acer Aspire 5 A515-57,2022-11-22
+0,2,Acer Aspire 5 A517-53,2023-5-15
+0,2,Acer Swift 3 SF314-44,2011-5-27
+0,0,Asus Vivobook Pro 15 K6500ZC,2017-11-7
+0,10,Dell Latitude 15 5530,2022-12-9
+0,0,Asus Vivobook 17X K1703ZA,2022-7-7
+0,2,Acer Aspire 5 A517-53G,2021-10-20
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2018-2-17
+0,7,Razer Blade 17 2022,2014-3-25
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2015-11-9
+0,2,Acer Swift 3 SF314-512,2019-1-17
+0,4,HP ProBook 650 G8,2011-3-19
+0,2,Acer Aspire 5 A517-53,2012-11-6
+0,3,Lenovo ThinkPad T16 Gen 1 (Intel),2017-9-1
+0,2,Acer Aspire 5 A515-57G,2021-4-27
+0,7,Razer Blade 15 2022,2023-6-2
+0,2,Acer Aspire 5 A515-57G,2015-4-24
+0,3,Lenovo ThinkPad T16 Gen 1 (AMD),2023-6-13
+0,4,HP ProBook 450 G5,2023-3-7
+0,0,Asus X540MB,2022-1-20
+0,4,HP 15-rb000,2019-12-17
+0,4,HP 470 G8,2013-3-7
+0,2,Acer Nitro 5 AN515-58,2013-12-13
+0,3,Lenovo IdeaPad Gaming 3 15IAH7,2021-4-3
+0,10,Dell Latitude 15 3520,2019-4-10
+0,4,HP 250 G8,2011-1-24
+0,4,HP 250 G8,2016-8-25
+0,4,HP 240 G8,2016-8-1
+0,2,Acer Aspire 3 A315-22,2019-8-22
+0,2,Acer Nitro 5 AN515-58,2018-4-9
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2023-9-17
+0,4,HP ProBook 430 G8,2012-11-27
+0,10,Dell Latitude 15 5530,2013-9-11
+0,2,Acer Predator Helios 300 PH315-55,2014-1-23
+0,4,HP ProBook 440 G8,2022-1-14
+0,0,Asus TUF Gaming A15 (2022) FA507RM,2017-12-5
+0,4,HP ProBook 440 G8,2021-12-2
+0,0,Asus TUF Gaming A15 (2022) FA507RM,2016-12-13
+0,4,HP 240 G7,2018-5-15
+0,4,HP 255 G8,2022-1-26
+0,2,Acer Predator Helios 300 PH315-55,2014-4-10
+0,4,HP ProBook 450 G8,2011-6-1
+0,2,Acer Predator Helios 300 PH315-55,2023-3-26
+0,2,Acer Aspire 5 A515-57,2011-4-15
+0,0,Asus Vivobook 15X OLED X1503ZA,2023-11-27
+0,5,Apple MacBook Air 13 (2020) M1,2013-12-28
+0,5,Apple MacBook Air 13 (2020) M1,2018-2-1
+0,0,Asus Vivobook 15 X1502ZA,2017-5-8
+0,0,Asus Vivobook 15X OLED X1503ZA,2021-4-16
+0,2,Acer Aspire 7 A715-51G,2022-12-16
+0,0,Asus Vivobook 15X OLED X1503ZA,2018-2-11
+0,2,Acer Predator Triton 300 SE PT316-51s,2016-10-12
+0,4,HP EliteBook 850 G8,2023-5-5
+0,0,Asus Vivobook Pro 15 K6500ZC,2018-6-7
+0,2,Acer Aspire 5 A515-57G,2021-1-11
+0,2,Acer Swift 3 SF314-44,2016-6-4
+0,2,Acer Aspire 5 A515-57G,2022-1-3
+0,2,Acer Swift 3 SF314-44,2020-11-23
+0,2,Acer Aspire 5 A515-57G,2012-5-11
+0,4,HP 470 G8,2014-10-2
+0,0,Asus Vivobook 17X K1703ZA,2022-8-19
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2016-9-10
+0,0,Asus Vivobook 17X K1703ZA,2019-10-10
+0,2,Acer Swift 1 SF114-33,2023-10-20
+0,2,Acer Aspire 5 A515-57,2019-11-7
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2014-2-7
+0,4,HP ProBook 450 G5,2020-9-7
+0,0,Asus TUF Gaming A15 (2022) FA507RE,2023-12-1
+0,8,Dream Machines RS3070-17 PD70PNN,2014-6-22
+0,8,Dream Machines RG3070TI-15 GM5AG7W,2019-3-8
+0,0,Asus Vivobook 15X OLED X1503ZA,2013-2-14
+0,2,Acer Aspire 5 A515-57G,2013-4-27
+0,0,Asus Vivobook 17X K1703ZA,2019-11-6
+0,8,Dream Machines RS3070-15 PD50PNN,2023-8-20
+0,2,Acer Aspire 5 A515-57,2016-11-27
+0,2,Acer Aspire 5 A515-57,2022-8-22
+0,0,Asus Vivobook Pro 15 OLED K6500ZE,2013-3-26
+0,0,Asus X515FA,2022-7-23
+0,3,Lenovo ThinkPad T16 Gen 1 (AMD),2014-7-22
+0,9,Microsoft Surface Laptop 5 13.5 inch,2014-4-16
+0,7,Razer Blade 17 2022,2015-7-12
+0,9,Microsoft Surface Laptop 5 15 inch,2013-12-1
+0,7,Razer Blade 17 2022,2023-6-11
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2020-1-9
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2014-4-16
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2022-8-21
+0,8,Dream Machines RS3080-17 PD70PNT,2012-9-21
+0,8,Dream Machines RS3080-15 PD50PNT,2016-9-28
+0,2,Acer Nitro 5 AN517-55,2012-5-16
+0,7,Razer Blade 17 2022,2011-2-11
+0,2,Acer Nitro 5 AN517-55,2016-3-22
+0,7,Razer Blade 15 2022,2012-4-13
+0,7,Razer Blade 17 2022,2011-8-17
+0,8,Dream Machines RG3050Ti-15 GM5AGFV,2010-7-6
+0,0,Asus ROG Strix G15 (2022) G513RS,2019-2-1
+0,5,Apple MacBook Pro 14 (2023),2010-11-14
+0,7,Razer Blade 17 2022,2019-1-12
+0,8,Dream Machines RG3050Ti-15 GM5AGFV,2016-9-3
+0,7,Razer Blade 15 2022,2023-11-14
+0,4,HP 250 G8,2010-4-3
+0,0,Asus ROG Strix G15 (2022) G513RS,2011-4-18
+0,5,Apple MacBook Pro 14 (2023),2013-7-16
+0,3,Lenovo ThinkPad Z16 Gen 1,2019-7-13
+0,7,Razer Blade 17 2022,2011-5-20
+0,4,HP EliteBook 850 G8,2023-8-21
+0,2,Acer Predator Helios 300 PH317-56,2022-7-4
+0,0,Asus ROG Strix G15 (2022) G513RS,2010-12-1
+0,0,Asus ROG Strix G15 (2022) G513RS,2016-10-22
+0,14,2E Complex Pro 15 NS51PU,2023-9-4
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2023-1-3
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2021-10-23
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2012-3-3
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2019-5-13
+0,4,HP 250 G8,2010-1-19
+0,14,2E Complex Pro 15 NS51PU,2018-1-4
+0,4,HP ProBook 650 G8,2018-5-9
+0,4,HP 250 G8,2015-1-7
+0,4,HP ProBook 650 G8,2023-1-21
+0,2,Acer Predator Helios 300 PH315-55,2019-3-2
+0,2,Acer Aspire Vero AV15-51,2021-4-17
+0,2,Acer Predator Helios 300 PH315-55,2023-4-14
+0,0,Asus TUF Gaming A15 (2022) FA507RM,2015-2-22
+0,0,Asus Vivobook 15 X1502ZA,2020-11-14
+0,2,Acer Swift 3 SF314-512,2023-11-11
+0,0,Asus Vivobook 17X K1703ZA,2010-7-24
+0,0,Asus Vivobook Pro 15 OLED K6500ZE,2016-4-25
+0,0,Asus Vivobook Pro 15 OLED K6500ZE,2021-5-7
+0,3,Lenovo ThinkPad T14s Gen 3 (Intel),2011-11-26
+0,8,Dream Machines G1650-15 GM5AG5O,2014-7-6
+0,0,Asus Vivobook Pro 15 OLED K6500ZC,2021-7-11
+0,8,Dream Machines RS3070-17 PD70PNN,2019-6-8
+0,2,Acer Predator Helios 300 PH315-55,2017-10-24
+0,3,Lenovo V14 14,2015-2-21
+0,8,Dream Machines RT3080-15 GM5RGIW,2022-5-3
+0,2,Acer Aspire 5 A515-57G,2017-9-22
+0,8,Dream Machines RS3080-15 PD50PNT,2015-12-7
+0,8,Dream Machines RS3070-15 PD50PNN,2012-8-11
+0,8,Dream Machines RG3080Ti-15 GM5AG8W,2012-7-11
+0,2,Acer Aspire 5 A515-57G,2020-4-23
+0,8,Dream Machines RG3060-15 GM5AG0W,2014-2-7
+0,2,Acer Aspire 5 A515-57,2012-11-9
+0,8,Dream Machines RG3060-15 GS5AG0V,2021-8-19
+0,8,Dream Machines RG3060-15 GS5AG0V,2020-9-27
+0,8,Dream Machines RG3050Ti-15 GM5AGFV,2012-11-26
+0,8,Dream Machines G1650-17 V170PNHQ,2022-6-5
+0,7,Razer Blade 17 2022,2019-8-17
+0,7,Razer Blade 17 2022,2014-5-25
+0,10,Dell Latitude 15 5530,2018-2-14
+0,3,Lenovo IdeaPad 3 17ADA05,2022-4-7
+0,9,Microsoft Surface Laptop 5 13.5 inch,2021-9-12
+0,5,Apple MacBook Pro 16 (2023),2018-3-25
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2016-3-17
+0,4,HP ZBook Power G9,2023-1-14
+0,8,Dream Machines RT3080-15 GM5RGIW,2021-5-9
+0,8,Dream Machines RT3080-15 GM5RGIW,2021-11-23
+0,8,Dream Machines RT3070Ti-15 GM5RG7W,2011-11-15
+0,8,Dream Machines RT3080-15 GM5RGIW,2017-11-25
+0,8,Dream Machines RT3070Ti-15 GM5RG7W,2019-8-11
+0,8,Dream Machines RT3070Ti-15 GM5RG7W,2013-12-17
+0,8,Dream Machines RS3080-17 PD70PNT,2023-8-16
+0,8,Dream Machines RS3080-15 PD50PNT,2014-8-5
+0,8,Dream Machines RS3070-15 PD50PNN,2019-12-21
+0,2,Acer Nitro 5 AN517-55,2011-11-16
+0,8,Dream Machines RG3060-15 V155PNPQ,2020-5-19
+0,0,Asus ROG Strix SCAR 18 (2023) G834JZ,2014-9-24
+0,7,Razer Blade 17 2022,2019-7-10
+0,2,Acer Nitro 5 AN517-55,2023-2-8
+0,8,Dream Machines RG3060-15 V155PNPQ,2014-10-27
+0,7,Razer Blade 17 2022,2019-3-27
+0,4,HP ProBook 440 G8,2018-7-16
+0,7,Razer Blade 15 2022,2011-9-13
+0,7,Razer Blade 15 2022,2012-2-6
+0,7,Razer Blade 15 2022,2016-2-4
+0,0,Asus X509FA,2023-6-16
+0,10,Dell Latitude 15 5530,2015-9-20
+0,4,HP 255 G7,2022-12-27
+0,7,Razer Blade 15 2022,2013-12-6
+0,7,Razer Blade 15 2022,2018-7-6
+0,0,Asus X509FA,2018-4-25
+0,10,Dell Latitude 15 5530,2019-1-3
+0,3,Lenovo V14 14,2015-4-24
+0,5,Apple MacBook Pro 14 (2023),2019-11-20
+0,5,Apple MacBook Pro 14 (2023),2016-4-17
+0,5,Apple MacBook Pro 14 (2023),2012-5-6
+0,3,Lenovo ThinkPad X1 Carbon Gen 10,2021-12-20
+0,4,HP ProBook 430 G8,2023-6-25
+0,3,Lenovo IdeaPad 3 17ADA05,2013-3-18
+0,4,HP 255 G7,2018-12-22
+0,10,Dell Vostro 14 5402,2020-3-6
+0,3,Lenovo V14 14,2021-4-25
+0,4,HP 250 G8,2017-6-23
+0,4,HP 250 G8,2019-1-2
+0,10,Dell Latitude 15 5530,2021-1-18
+0,10,Dell Latitude 15 5530,2011-6-13
+0,10,Dell Latitude 15 5530,2011-4-22
+0,10,Dell Latitude 15 5530,2020-6-21
+0,10,Dell Latitude 15 5530,2015-9-7
+0,10,Dell Latitude 15 5530,2021-11-4
+0,10,Dell Latitude 15 5530,2015-10-1
+0,10,Dell Latitude 15 5530,2012-3-5
+0,4,HP ProBook 440 G8,2021-11-18
+0,0,Asus Vivobook 15 X1502ZA,2022-5-25
+0,0,Asus Vivobook 15 X1502ZA,2017-12-3
+0,2,Acer TravelMate P2 TMP215-54,2011-1-6
+0,8,Dream Machines RG3060-15 GM5AG0W,2018-9-15
+0,8,Dream Machines RG3080Ti-15 GM5AG8W,2020-10-18
+0,8,Dream Machines RG3080Ti-15 GM5AG8W,2010-2-20
+0,8,Dream Machines RG3060-15 GS5AG0V,2019-1-22
+0,0,Asus Zenbook Pro 14 Duo OLED UX8402ZA,2021-12-26
+0,8,Dream Machines RG3050-15 GM5AGEV,2011-10-28
+0,4,HP 255 G7,2012-7-25
+0,8,Dream Machines G1650-17 V170PNHQ,2023-9-12
+0,8,Dream Machines G1650-15 GM5AG5O,2013-4-10
+0,0,Asus TUF Dash F15 (2022) FX517ZM,2010-3-23
+0,8,Dream Machines RG3050-17 V170PNJQ,2011-11-18
+0,10,Dell Latitude 15 5530,2010-1-9
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2012-8-18
+0,8,Dream Machines RG3060-17 GS7AG0R,2016-4-21
+0,9,Microsoft Surface Laptop 5 13.5 inch,2012-5-12
+0,9,Microsoft Surface Laptop 5 15 inch,2011-4-4
+0,9,Microsoft Surface Laptop 5 13.5 inch,2022-9-24
+0,9,Microsoft Surface Laptop 5 13.5 inch,2013-7-18
+0,9,Microsoft Surface Laptop 5 15 inch,2010-4-19
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2016-9-2
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2020-1-21
+0,3,Lenovo ThinkPad E14 Gen 3 AMD,2013-6-25
+0,9,Microsoft Surface Laptop 5 15 inch,2018-3-12
+0,4,HP ProBook 450 G4,2022-3-28
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2011-9-4
+0,8,Dream Machines RT3080Ti-15 GM5RG8W,2013-8-19
+0,8,Dream Machines RS3070-17 PD70PNN,2020-2-17
+0,8,Dream Machines RS3070-15 PD50PNN,2014-10-8
+0,8,Dream Machines RS3070-15 PD50PNN,2019-2-16
+0,3,Lenovo ThinkPad E14 Gen 3 AMD,2017-7-11
+0,3,Lenovo ThinkPad Z16 Gen 1,2012-3-7
+0,5,Apple MacBook Pro 14 (2023),2011-9-14
+0,3,Lenovo ThinkPad Z16 Gen 1,2018-4-15
+0,2,Acer Aspire 5 A517-53,2013-12-2
+0,3,Lenovo ThinkPad Z16 Gen 1,2019-6-16
+0,7,Razer Blade 14 2022,2017-5-8
+0,7,Razer Blade 15 2022,2015-5-27
+0,7,Razer Blade 17 2022,2013-9-22
+0,7,Razer Blade 17 2022,2016-3-16
+0,5,Apple MacBook Pro 14 (2023),2019-11-2
+0,7,Razer Blade 15 2022,2017-9-3
+0,10,Dell Latitude 15 5530,2022-12-9
+0,10,Dell Latitude 15 5530,2019-11-2
+0,10,Dell Latitude 15 5530,2021-1-3
+0,3,Lenovo ThinkPad Z16 Gen 1,2021-12-7
+0,5,Apple MacBook Pro 14 (2023),2015-11-10
+0,5,Apple MacBook Pro 14 (2023),2017-10-9
+0,9,Microsoft Surface Laptop 5 13.5 inch,2015-8-21
+0,9,Microsoft Surface Laptop 5 13.5 inch,2014-6-24
+0,9,Microsoft Surface Laptop 5 13.5 inch,2017-1-16
+0,9,Microsoft Surface Laptop 5 13.5 inch,2012-11-22
+0,5,Apple MacBook Pro 14 (2023),2011-7-16
+0,9,Microsoft Surface Laptop 5 13.5 inch,2014-4-7
+0,5,Apple MacBook Pro 14 (2023),2022-2-10
+0,9,Microsoft Surface Laptop 5 13.5 inch,2020-8-27
+0,9,Microsoft Surface Laptop 5 13.5 inch,2021-2-21
+0,5,Apple MacBook Pro 14 (2023),2020-2-15
+0,0,Asus X515MA,2013-11-23
+0,4,HP ProBook 450 G5,2020-3-24
+0,10,Dell Vostro 15 5568:,2012-8-11
+0,4,HP ProBook 450 G5,2011-5-13
+0,5,Apple MacBook Pro 16 (2023),2017-3-18
+0,10,Dell Vostro 15 5568:,2011-12-22
+0,4,HP ProBook 450 G5,2011-8-26
+0,5,Apple MacBook Pro 16 (2023),2011-10-13
+0,3,Lenovo ThinkPad Z16 Gen 1,2017-10-25
+0,5,Apple MacBook Pro 14 (2023),2019-10-8
+0,5,Apple MacBook Pro 14 (2023),2013-8-2
+0,4,HP ZBook Firefly 16 G9,2014-11-27
+0,5,Apple MacBook Pro 14 (2023),2023-10-10
+0,5,Apple MacBook Pro 16 (2023),2021-3-23
+0,10,Dell Latitude 15 5530,2016-2-19
+0,5,Apple MacBook Pro 16 (2023),2012-3-9
+0,5,Apple MacBook Pro 14 (2023),2018-1-15
+0,5,Apple MacBook Pro 14 (2023),2011-9-20
+0,10,Dell Latitude 15 5530,2017-11-24
+0,5,Apple MacBook Pro 14 (2023),2014-2-13
+0,5,Apple MacBook Pro 14 (2023),2020-3-22
+0,5,Apple MacBook Pro 16 (2023),2013-1-18
+0,5,Apple MacBook Pro 14 (2023),2018-11-13
+0,5,Apple MacBook Pro 14 (2023),2016-1-28
+0,5,Apple MacBook Pro 14 (2023),2015-11-22
+0,5,Apple MacBook Pro 16 (2023),2014-4-2
+0,5,Apple MacBook Pro 14 (2023),2023-6-1
+0,5,Apple MacBook Pro 14 (2023),2022-7-7
+0,5,Apple MacBook Pro 14 (2023),2016-6-19
+0,5,Apple MacBook Pro 16 (2023),2010-9-22
+0,5,Apple MacBook Pro 16 (2023),2018-6-20
+0,5,Apple MacBook Pro 16 (2023),2013-10-13
+0,5,Apple MacBook Pro 16 (2023),2022-12-21
+0,5,Apple MacBook Pro 16 (2023),2023-10-25
+0,5,Apple MacBook Pro 16 (2023),2019-4-9
+0,5,Apple MacBook Pro 16 (2023),2015-11-18
+0,5,Apple MacBook Pro 16 (2023),2018-2-20
+0,5,Apple MacBook Pro 16 (2023),2020-4-16
+0,5,Apple MacBook Pro 16 (2023),2022-5-25
+0,5,Apple MacBook Pro 16 (2023),2023-5-17
+0,5,Apple MacBook Pro 16 (2023),2023-11-16
+0,5,Apple MacBook Pro 16 (2023),2011-11-28
+0,5,Apple MacBook Pro 16 (2023),2018-11-24
+0,5,Apple MacBook Pro 16 (2023),2022-9-9
+0,5,Apple MacBook Pro 16 (2023),2010-6-12
+0,3,Lenovo ThinkPad Z16 Gen 1,2014-12-15
+0,3,Lenovo ThinkPad Z16 Gen 1,2018-10-5
+0,5,Apple MacBook Pro 16 (2023),2012-8-27
+0,5,Apple MacBook Pro 14 (2023),2017-8-3
+0,5,Apple MacBook Pro 14 (2023),2012-8-12
+0,5,Apple MacBook Pro 14 (2023),2015-2-2
+0,5,Apple MacBook Pro 14 (2023),2014-9-15
+0,5,Apple MacBook Pro 14 (2023),2018-10-14
+0,5,Apple MacBook Pro 14 (2023),2020-9-10
+0,5,Apple MacBook Pro 14 (2023),2015-11-26
+0,5,Apple MacBook Pro 14 (2023),2011-5-13
+0,5,Apple MacBook Pro 14 (2023),2014-6-11
+0,3,Lenovo ThinkPad Z16 Gen 1,2016-10-13
+0,3,Lenovo ThinkPad Z16 Gen 1,2013-2-21
+0,5,Apple MacBook Pro 14 (2023),2010-6-8
+0,5,Apple MacBook Pro 14 (2023),2021-6-10
+0,5,Apple MacBook Pro 14 (2023),2011-1-18
+0,5,Apple MacBook Pro 14 (2023),2020-5-19
+0,5,Apple MacBook Pro 14 (2023),2020-4-5
+0,4,HP ProBook 450 G4,2012-12-13
+0,5,Apple MacBook Pro 14 (2023),2015-7-3
+0,4,HP ProBook 450 G4,2021-9-26
+0,3,Lenovo ThinkPad E14 Gen 3 AMD,2019-12-3
+0,3,Lenovo ThinkPad Z16 Gen 1,2012-2-28
+0,5,Apple MacBook Pro 14 (2023),2012-3-9
+0,5,Apple MacBook Pro 14 (2023),2014-12-4
+0,5,Apple MacBook Pro 14 (2023),2017-11-9
+0,5,Apple MacBook Pro 14 (2023),2017-9-25
+0,8,Dream Machines RT3060-15 GM5RG0O,2019-10-13
+0,2,Acer Aspire 5 A515-57,2015-11-27
+0,2,Acer Aspire 5 A515-57,2011-3-13
+0,2,Acer Swift 3 SF314-512,2013-12-25
+0,8,Dream Machines RT3060-15 GM5RG0O,2018-5-14
+0,8,Dream Machines RG3050Ti-15 GM5AGFV,2011-3-27
+0,8,Dream Machines RG3050Ti-15 GM5AGFV,2010-8-3
+0,8,Dream Machines G1650-15 GM5AG5O,2010-11-7
+0,9,Microsoft Surface Laptop 5 13.5 inch,2022-4-19
+0,9,Microsoft Surface Laptop 5 15 inch,2023-12-23
+0,9,Microsoft Surface Laptop 5 13.5 inch,2010-5-13
+0,9,Microsoft Surface Laptop 5 13.5 inch,2020-11-19
+0,9,Microsoft Surface Laptop 5 13.5 inch,2023-11-22
+0,9,Microsoft Surface Laptop 5 13.5 inch,2011-4-21
+0,9,Microsoft Surface Laptop 5 15 inch,2022-12-2
+0,9,Microsoft Surface Laptop 5 13.5 inch,2010-3-3
+0,8,Dream Machines RS3060-15 PD50PNP,2015-3-11
+0,8,Dream Machines RT3080-15 GM5RGIW,2020-12-2
+0,8,Dream Machines RT3080-15 GM5RGIW,2012-8-2
+0,8,Dream Machines RT3080-15 GM5RGIW,2022-4-7
+0,8,Dream Machines RT3080-15 GM5RGIW,2015-11-13
+0,8,Dream Machines RT3070Ti-15 GM5RG7W,2019-5-15
+0,8,Dream Machines RS3080-17 PD70PNT,2014-3-6
+0,8,Dream Machines RS3080-15 PD50PNT,2022-11-7
+0,8,Dream Machines RS3080-15 PD50PNT,2010-11-5
+0,8,Dream Machines RS3080-15 PD50PNT,2010-6-20
+0,8,Dream Machines RS3070-15 PD50PNN,2011-1-10
+0,8,Dream Machines RS3070-15 PD50PNN,2017-4-9
+0,8,Dream Machines RG3060-17 GS7AG0R,2014-4-6
+0,8,Dream Machines RG3060-17 GS7AG0R,2016-11-21
+0,8,Dream Machines RG3060-15 V155PNPQ,2021-4-10
+0,8,Dream Machines RG3060-15 GS5AG0V,2019-3-6
+0,8,Dream Machines RG3050TI-17 V170PNKQ,2022-9-24
+0,8,Dream Machines RG3050Ti-15 GM5AGFV,2023-5-14
+0,8,Dream Machines RG3050Ti-15 GM5AGFV,2017-3-9
+0,8,Dream Machines RG3050Ti-15 GM5AGFV,2010-1-20
+0,8,Dream Machines RG3050Ti-15 GM5AGFV,2013-3-28
+0,8,Dream Machines RG3050-17 V170PNJQ,2022-11-13
+0,8,Dream Machines RG3050-15 GM5AGEV,2021-4-7
+0,8,Dream Machines RG3050-15 GM5AGEV,2012-12-27
+0,8,Dream Machines RG3050-15 GM5AGEV,2018-9-26
+0,8,Dream Machines G1650-17 V170PNHQ,2018-12-23
+0,8,Dream Machines G1650-17 V170PNHQ,2019-5-5
+0,8,Dream Machines G1650-15 GM5AG5O,2017-12-4
+0,9,Microsoft Surface Laptop 5 13.5 inch,2011-8-25
+0,9,Microsoft Surface Laptop 5 15 inch,2017-6-24
+0,9,Microsoft Surface Laptop 5 15 inch,2023-9-23
+0,9,Microsoft Surface Laptop 5 15 inch,2015-1-8
+0,7,Razer Blade 14 2022,2014-7-24
+0,7,Razer Blade 17 2022,2013-1-19
+0,7,Razer Blade 17 2022,2015-2-4
+0,7,Razer Blade 17 2022,2015-6-3
+0,7,Razer Blade 17 2022,2020-6-6
+0,7,Razer Blade 17 2022,2013-8-5
+0,7,Razer Blade 17 2022,2016-8-26
+0,7,Razer Blade 15 2022,2020-2-11
+0,10,Dell Latitude 15 5530,2015-11-4
+0,9,Microsoft Surface Laptop 5 13.5 inch,2019-2-6
+0,9,Microsoft Surface Laptop 5 13.5 inch,2014-10-7
+0,9,Microsoft Surface Laptop 5 13.5 inch,2020-9-8
+0,9,Microsoft Surface Laptop 5 15 inch,2017-12-12
+0,9,Microsoft Surface Laptop 5 15 inch,2023-6-21
+0,9,Microsoft Surface Laptop 5 13.5 inch,2012-8-10
+0,9,Microsoft Surface Laptop 5 13.5 inch,2023-11-24
+0,9,Microsoft Surface Laptop 5 13.5 inch,2021-3-8
+0,9,Microsoft Surface Laptop 5 13.5 inch,2023-8-12
+0,9,Microsoft Surface Laptop 5 15 inch,2017-12-6
+0,9,Microsoft Surface Laptop 5 15 inch,2016-8-2
+0,9,Microsoft Surface Laptop 5 15 inch,2012-1-11
+0,9,Microsoft Surface Laptop 5 13.5 inch,2017-10-24
+0,9,Microsoft Surface Laptop 5 13.5 inch,2016-11-26
+0,9,Microsoft Surface Laptop 5 13.5 inch,2010-3-10
+0,9,Microsoft Surface Laptop 5 13.5 inch,2015-12-15
+0,9,Microsoft Surface Laptop 5 13.5 inch,2015-1-23
+0,9,Microsoft Surface Laptop 5 13.5 inch,2010-7-22
+0,9,Microsoft Surface Laptop 5 13.5 inch,2012-8-9
+0,9,Microsoft Surface Laptop 5 15 inch,2020-3-8
+0,5,Apple MacBook Pro 16 (2023),2013-4-20
+0,5,Apple MacBook Pro 16 (2023),2011-10-20
+0,5,Apple MacBook Pro 16 (2023),2019-4-7
+0,5,Apple MacBook Pro 16 (2023),2013-5-28
+0,5,Apple MacBook Pro 16 (2023),2015-4-21
+0,5,Apple MacBook Pro 16 (2023),2011-10-25
+0,5,Apple MacBook Pro 16 (2023),2022-6-20
+0,5,Apple MacBook Pro 16 (2023),2019-2-12
+0,5,Apple MacBook Pro 16 (2023),2020-7-18
+0,5,Apple MacBook Pro 16 (2023),2014-8-8
+0,5,Apple MacBook Pro 16 (2023),2015-12-8
+0,5,Apple MacBook Pro 16 (2023),2017-11-23
+0,5,Apple MacBook Pro 16 (2023),2023-5-10
+0,5,Apple MacBook Pro 16 (2023),2019-7-20
+0,5,Apple MacBook Pro 16 (2023),2020-12-19
+0,5,Apple MacBook Pro 16 (2023),2016-6-26
+0,5,Apple MacBook Pro 16 (2023),2016-12-24
+0,5,Apple MacBook Pro 16 (2023),2016-2-18
+0,5,Apple MacBook Pro 16 (2023),2012-9-13
+0,5,Apple MacBook Pro 16 (2023),2012-3-23
+0,5,Apple MacBook Pro 16 (2023),2014-7-23
+0,5,Apple MacBook Pro 16 (2023),2010-10-25
+0,5,Apple MacBook Pro 16 (2023),2015-5-23
+0,5,Apple MacBook Pro 16 (2023),2022-12-23
+0,5,Apple MacBook Pro 16 (2023),2020-6-18
+0,5,Apple MacBook Pro 16 (2023),2010-6-13
+0,5,Apple MacBook Pro 16 (2023),2022-8-18
+0,5,Apple MacBook Pro 16 (2023),2015-7-18
+0,5,Apple MacBook Pro 16 (2023),2021-1-8
+0,5,Apple MacBook Pro 16 (2023),2021-2-18
+0,5,Apple MacBook Pro 16 (2023),2012-10-7
+0,5,Apple MacBook Pro 16 (2023),2023-7-22
+0,5,Apple MacBook Pro 16 (2023),2017-9-28
+0,5,Apple MacBook Pro 16 (2023),2021-2-2
+0,5,Apple MacBook Pro 16 (2023),2021-2-27
+0,5,Apple MacBook Pro 16 (2023),2013-4-1
+0,5,Apple MacBook Pro 16 (2023),2015-4-18
+0,5,Apple MacBook Pro 16 (2023),2022-10-3
+0,5,Apple MacBook Pro 16 (2023),2011-1-21
+0,5,Apple MacBook Pro 16 (2023),2020-3-19
+0,5,Apple MacBook Pro 16 (2023),2011-6-12
+0,5,Apple MacBook Pro 14 (2023),2016-8-8
+0,5,Apple MacBook Pro 14 (2023),2021-10-13
+0,5,Apple MacBook Pro 14 (2023),2019-1-15
+0,5,Apple MacBook Pro 14 (2023),2019-8-21
+0,5,Apple MacBook Pro 14 (2023),2015-6-15
+0,5,Apple MacBook Pro 14 (2023),2016-2-22
+0,5,Apple MacBook Pro 14 (2023),2015-3-7
+0,5,Apple MacBook Pro 14 (2023),2015-5-7
+0,5,Apple MacBook Pro 14 (2023),2013-5-13
+0,5,Apple MacBook Pro 14 (2023),2019-8-14
+0,5,Apple MacBook Pro 14 (2023),2023-5-28
+0,5,Apple MacBook Pro 14 (2023),2018-5-5
+0,5,Apple MacBook Pro 14 (2023),2016-11-13
+0,5,Apple MacBook Pro 14 (2023),2010-10-7
+0,5,Apple MacBook Pro 14 (2023),2011-10-10
+0,5,Apple MacBook Pro 14 (2023),2017-5-22
+0,5,Apple MacBook Pro 14 (2023),2014-11-10
+0,5,Apple MacBook Pro 14 (2023),2022-7-23
+0,5,Apple MacBook Pro 14 (2023),2010-5-26
+0,5,Apple MacBook Pro 14 (2023),2021-7-25
+0,5,Apple MacBook Pro 14 (2023),2013-3-14
+0,5,Apple MacBook Pro 14 (2023),2018-2-12
+0,5,Apple MacBook Pro 14 (2023),2018-12-1
+0,5,Apple MacBook Pro 14 (2023),2019-12-3
+0,5,Apple MacBook Pro 14 (2023),2016-12-18
+0,5,Apple MacBook Pro 14 (2023),2015-3-8
+0,5,Apple MacBook Pro 14 (2023),2011-12-8
+0,5,Apple MacBook Pro 14 (2023),2014-7-21
+0,5,Apple MacBook Pro 14 (2023),2016-9-23
+0,5,Apple MacBook Pro 14 (2023),2020-9-15
+0,5,Apple MacBook Pro 14 (2023),2014-7-26
+0,5,Apple MacBook Pro 14 (2023),2023-6-28
+0,5,Apple MacBook Pro 14 (2023),2017-6-24
+0,5,Apple MacBook Pro 14 (2023),2017-5-25
+0,5,Apple MacBook Pro 14 (2023),2010-5-8
+0,5,Apple MacBook Pro 14 (2023),2013-11-12
+0,5,Apple MacBook Pro 14 (2023),2010-3-6
+0,5,Apple MacBook Pro 14 (2023),2010-6-11
+0,5,Apple MacBook Pro 14 (2023),2023-6-12
+0,5,Apple MacBook Pro 14 (2023),2013-1-16
+0,5,Apple MacBook Pro 14 (2023),2020-6-8
+0,5,Apple MacBook Pro 14 (2023),2019-3-18
+0,5,Apple MacBook Pro 14 (2023),2018-7-13
+0,5,Apple MacBook Pro 14 (2023),2013-12-2
+0,5,Apple MacBook Pro 14 (2023),2021-2-13
+0,5,Apple MacBook Pro 14 (2023),2011-8-11
+0,5,Apple MacBook Pro 14 (2023),2017-9-23
+0,5,Apple MacBook Pro 14 (2023),2019-10-22
+0,5,Apple MacBook Pro 14 (2023),2023-10-16
+0,5,Apple MacBook Pro 14 (2023),2016-11-9
+0,5,Apple MacBook Pro 14 (2023),2014-2-13
+0,5,Apple MacBook Pro 14 (2023),2018-4-7
+0,5,Apple MacBook Pro 14 (2023),2022-5-5
+0,5,Apple MacBook Pro 14 (2023),2022-7-9
+0,5,Apple MacBook Pro 14 (2023),2022-2-2
+0,5,Apple MacBook Pro 14 (2023),2017-5-25
+0,5,Apple MacBook Pro 14 (2023),2023-7-23
+0,5,Apple MacBook Pro 14 (2023),2023-12-24
+0,5,Apple MacBook Pro 14 (2023),2011-7-10
+0,5,Apple MacBook Pro 14 (2023),2012-12-19
+0,5,Apple MacBook Pro 14 (2023),2020-11-17
+0,5,Apple MacBook Pro 14 (2023),2011-6-15
+0,5,Apple MacBook Pro 14 (2023),2013-8-7
+0,5,Apple MacBook Pro 14 (2023),2016-8-2
+0,5,Apple MacBook Pro 14 (2023),2014-6-26
+0,5,Apple MacBook Pro 14 (2023),2018-5-28
+0,5,Apple MacBook Pro 14 (2023),2014-11-24
+0,5,Apple MacBook Pro 14 (2023),2017-5-11
+0,5,Apple MacBook Pro 14 (2023),2017-1-17
+0,5,Apple MacBook Pro 14 (2023),2016-11-21
+0,5,Apple MacBook Pro 14 (2023),2023-2-3
+0,5,Apple MacBook Pro 14 (2023),2021-2-21
+0,5,Apple MacBook Pro 14 (2023),2015-3-10
+0,5,Apple MacBook Pro 14 (2023),2011-5-16
+0,5,Apple MacBook Pro 14 (2023),2016-10-26
+0,5,Apple MacBook Pro 14 (2023),2011-9-26
+0,5,Apple MacBook Pro 14 (2023),2022-5-13
+0,5,Apple MacBook Pro 14 (2023),2020-3-21
+0,5,Apple MacBook Pro 14 (2023),2014-2-8
+0,5,Apple MacBook Pro 14 (2023),2014-11-18
+0,4,HP ProBook 450 G4,2021-2-27
+0,8,Dream Machines RT3060-15 GM5RG0O,2012-10-22
+0,8,Dream Machines RS3070-15 PD50PNN,2015-7-17
+0,0,Asus ROG Strix SCAR 18 (2023) G834JY,2015-11-26
+0,8,Dream Machines RS3070-15 PD50PNN,2012-9-3
+0,0,Asus ROG Strix SCAR 18 (2023) G834JY,2012-12-23
+0,6,MSI Katana 15 B12VFK,2010-12-23
+0,0,Asus ROG Strix SCAR 18 (2023) G834JY,2020-2-7
+0,8,Dream Machines RG3050Ti-15 V155PNKQ,2020-3-22
+0,8,Dream Machines RG3050-15 V155PNJQ,2019-8-8
+0,6,MSI Raider GE78HX 13VH,2014-8-28
+0,7,Razer Blade 18 2023,2014-5-3
+0,7,Razer Blade 18 2023,2020-1-23
+0,4,HP 255 G9,2016-4-10
+0,8,Dream Machines RG3050Ti-15 V155PNKQ,2022-6-17
+0,8,Dream Machines RG3050-15 V155PNJQ,2017-1-1
+0,6,MSI Raider GE78HX 13VH,2021-10-23
+0,7,Razer Blade 18 2023,2011-8-14
+0,7,Razer Blade 18 2023,2014-7-6
+0,4,HP ProBook 450 G9,2020-8-4
+0,4,HP ProBook 450 G9,2012-12-14
+0,7,Razer Blade 18 2023,2013-5-8
+0,7,Razer Blade 16 2023,2021-1-22
+0,0,Asus Zenbook 14X OLED UX3404VA,2014-2-18
+0,8,Dream Machines RG3050Ti-15 V155PNKQ,2023-12-25
+0,8,Dream Machines RG3050-15 V155PNJQ,2023-1-8
+0,6,MSI Raider GE78HX 13VH,2013-2-20
+0,7,Razer Blade 18 2023,2018-10-22
+0,7,Razer Blade 18 2023,2018-9-19
+0,4,HP ProBook 440 G8,2023-2-20
+0,7,Razer Blade 18 2023,2011-1-6
+0,7,Razer Blade 16 2023,2018-7-10
+0,0,Asus ROG Zephyrus G16 (2023) GU603ZU,2022-4-16
+0,4,HP 255 G8,2010-7-28
+0,6,MSI Cyborg 15 A12VE,2013-5-9
+0,4,HP ProBook 450 G9,2016-5-10
+0,4,HP ProBook 450 G9,2019-12-26
+0,4,HP ProBook 450 G9,2020-4-21
+0,2,Acer Aspire 3 A315-24P,2013-8-26
+0,0,Asus TUF Gaming A16 Advantage Edition (2023) FA617NS,2014-12-19
+0,6,MSI Pulse 17 B13VGK,2012-8-4
+0,0,Asus ROG Zephyrus G16 (2023) GU603VV,2012-5-6
+0,4,HP ProBook 440 G8,2020-6-23
+0,4,HP 240 G8,2013-11-17
+0,0,Asus ROG Strix Scar 16 (2023) G634JY,2017-9-5
+0,6,MSI Stealth 17 Studio A13VH,2023-11-3
+0,0,Asus ROG Zephyrus G16 (2023) GU603VV,2017-2-9
+0,6,MSI Raider GE78HX 13VH,2020-4-11
+0,0,Asus ROG Zephyrus M16 (2022) GU603ZM,2023-9-4
+0,0,Asus ROG Strix Scar 16 (2023) G634JZ,2017-4-28
+0,0,Asus ROG Strix Scar 16 (2023) G634JZ,2021-4-7
+0,0,Asus ROG Strix Scar 16 (2023) G634JZ,2019-4-22
+0,0,Asus ROG Strix Scar 16 (2023) G634JZ,2023-12-27
+0,0,Asus ROG Strix Scar 16 (2023) G634JZ,2014-9-11
+0,6,MSI Cyborg 15 A12VE,2018-5-6
+0,0,Asus ROG Strix Scar 16 (2023) G634JZ,2015-8-16
+0,0,Asus ROG Strix Scar 16 (2023) G634JY,2020-11-22
+0,0,Asus ROG Strix Scar 16 (2023) G634JY,2022-10-24
+0,0,Asus ROG Strix Scar 16 (2023) G634JZ,2020-11-10
+0,0,Asus ROG Strix Scar 16 (2023) G634JY,2014-11-26
+0,6,MSI Pulse 15 B13VFK,2011-7-24
+0,4,HP EliteBook 840 G9,2022-2-2
+0,4,HP EliteBook 860 G9,2017-2-18
+0,4,HP ProBook 440 G9,2014-6-2
+0,4,HP 255 G9,2016-11-27
+0,4,HP 255 G9,2014-11-5
+0,4,HP ProBook 450 G9,2015-3-24
+0,4,HP ProBook 450 G9,2012-5-25
+0,4,HP ProBook 450 G9,2023-10-8
+0,4,HP 240 G8,2018-1-27
+0,4,HP ProBook 440 G8,2018-9-24
+0,4,HP ProBook 440 G8,2013-9-6
+0,0,Asus ROG Zephyrus M16 (2023) GU604VZ,2017-8-28
+0,3,Lenovo IdeaPad 1 15AMN7,2010-10-21
+0,0,Asus ROG Zephyrus M16 (2023) GU604VZ,2018-5-2
+0,3,Lenovo IdeaPad 1 15AMN7,2013-9-23
+0,4,HP 250 G9,2012-12-7
+0,0,Asus Zenbook 14X OLED UX3404VC,2017-6-22
+0,2,Acer Aspire 3 A315-24P,2013-5-13
+0,2,Acer Nitro 5 AN515-58,2010-10-27
+0,0,Asus ROG Zephyrus M16 (2023) GU604VZ,2022-8-3
+0,0,Asus ROG Zephyrus M16 (2023) GU604VZ,2017-11-15
+0,3,Lenovo Legion Pro 7 16IRX8H,2014-6-27
+0,0,Asus ROG Zephyrus M16 (2023) GU604VY,2014-5-15
+0,4,HP 250 G9,2020-9-24
+0,3,Lenovo Legion Pro 7 16IRX8H,2021-11-21
+0,0,Asus ROG Zephyrus Duo 16 (2023) GX650PZ,2021-10-25
+0,11,Gigabyte AORUS 15X ASF,2019-8-28
+0,0,Asus ROG Zephyrus M16 (2023) GU604VZ,2020-10-3
+0,0,Asus ROG Zephyrus M16 (2023) GU604VY,2010-7-1
+0,2,Acer Nitro 5 AN515-47,2014-8-7
+0,3,Lenovo Legion Pro 7 16IRX8H,2021-2-28
+0,6,MSI Crosshair 15 C12VG,2017-11-4
+0,0,Asus ROG Zephyrus M16 (2023) GU604VY,2011-11-10
+0,6,MSI Crosshair 15 C12VG,2020-10-22
+0,2,Acer Nitro 5 AN515-58,2012-1-12
+0,0,Asus ROG Zephyrus M16 (2023) GU604VZ,2020-7-7
+0,0,Asus ROG Zephyrus M16 (2023) GU604VZ,2012-5-15
+0,0,Asus ROG Zephyrus M16 (2023) GU604VY,2020-4-28
+0,3,Lenovo Legion Pro 7 16IRX8H,2022-7-3
+0,2,Acer Nitro 5 AN515-47,2023-8-5
+0,0,Asus ROG Strix G17 (2023) G713PI,2020-6-24
+0,7,Razer Blade 18 2023,2015-4-21
+0,7,Razer Blade 16 2023,2021-2-10
+0,0,Asus ROG Zephyrus Duo 16 (2023) GX650PZ,2017-9-21
+0,11,Gigabyte AORUS 15X ASF,2014-10-14
+0,6,MSI Katana 17 B12VEK,2023-7-11
+0,3,Lenovo Legion Pro 7 16IRX8H,2012-4-7
+0,3,Lenovo Legion Pro 7 16IRX8H,2023-2-7
+0,6,MSI Crosshair 15 C12VG,2011-10-6
+0,7,Razer Blade 18 2023,2013-3-25
+0,7,Razer Blade 16 2023,2019-2-2
+0,3,Lenovo ThinkPad Z13 Gen 1,2014-8-27
+0,0,Asus ROG Strix G17 (2023) G713PV,2022-12-3
+0,11,Gigabyte AORUS 15 BSF,2010-1-14
+0,6,MSI Cyborg 15 A12VE,2015-2-28
+0,0,Asus ROG Zephyrus Duo 16 (2023) GX650PY,2020-8-13
+0,0,Asus ROG Zephyrus Duo 16 (2023) GX650PZ,2013-8-28
+0,11,Gigabyte AORUS 15X ASF,2013-4-18
+0,6,MSI Katana 17 B12VEK,2017-1-24
+0,7,Razer Blade 18 2023,2017-2-8
+0,7,Razer Blade 16 2023,2012-11-17
+0,3,Lenovo ThinkPad Z13 Gen 1,2011-9-9
+0,3,Lenovo ThinkPad Z13 Gen 1,2019-5-2
+0,11,Gigabyte AORUS 15 BSF,2017-9-9
+0,6,MSI Cyborg 15 A12VE,2017-7-19
+0,2,Acer Predator Helios 16 PH16-71,2016-3-4
+0,2,Acer Predator Helios 16 PH16-71,2016-3-2
+0,6,MSI Titan GT77HX 13VI,2018-4-11
+0,0,Asus ROG Zephyrus Duo 16 (2023) GX650PZ,2020-2-6
+0,7,Razer Blade 18 2023,2021-10-28
+0,7,Razer Blade 16 2023,2020-1-11
+0,4,HP ProBook 440 G8,2022-4-16
+0,4,HP ProBook 450 G5,2011-10-20
+0,0,Asus ROG Strix G17 (2023) G713PI,2014-10-9
+0,0,Asus ROG Strix G17 (2023) G713PI,2012-5-15
+0,0,Asus ROG Strix G17 (2023) G713PI,2018-3-24
+0,7,Razer Blade 18 2023,2020-11-15
+0,7,Razer Blade 16 2023,2023-1-12
+0,3,Lenovo Legion Pro 7 16IRX8H,2012-11-6
+0,3,Lenovo Legion Pro 7 16IRX8H,2021-9-23
+0,0,Asus ROG Strix G17 (2023) G713PI,2011-6-19
+0,4,HP ProBook 440 G8,2021-8-3
+0,4,HP ProBook 450 G5,2010-5-24
+0,0,Asus ROG Strix G17 (2023) G713PV,2017-10-24
+0,0,Asus ROG Strix G17 (2023) G713PV,2018-2-22
+0,7,Razer Blade 18 2023,2014-5-18
+0,7,Razer Blade 16 2023,2016-10-13
+0,0,Asus ROG Zephyrus M16 (2023) GU604VZ,2019-5-19
+0,0,Asus ROG Zephyrus G16 (2023) GU603ZV,2023-8-18
+0,3,Lenovo ThinkPad Z13 Gen 1,2022-5-5
+0,4,HP ProBook 440 G8,2023-11-28
+0,4,HP ProBook 450 G5,2012-5-13
+0,4,HP ProBook 455 G9,2017-7-3
+0,7,Razer Blade 16 2023,2018-4-10
+0,3,Lenovo ThinkPad Z13 Gen 1,2018-2-23
+0,4,HP ProBook 440 G8,2020-5-1
+0,4,HP ProBook 450 G5,2016-5-24
+0,4,HP ProBook 455 G9,2022-12-16
+0,0,Asus ROG Strix Scar 16 (2023) G634JY,2023-8-13
+0,6,MSI Titan GT77HX 13VI,2010-5-21
+0,2,Acer Aspire 3 A315-24P,2019-10-24
+0,2,Acer Aspire 3 A315-24P,2022-9-27
+0,2,Acer Aspire 3 A315-24P,2022-11-19
+0,2,Acer Aspire 3 A315-24P,2019-8-8
+0,0,Asus ROG Zephyrus M16 (2022) GU603ZE,2015-11-18
+0,0,Asus ROG Zephyrus G16 (2023) GU603VV,2010-5-13
+0,0,Asus ROG Zephyrus G16 (2023) GU603VV,2021-5-17
+0,0,Asus ROG Strix Scar 16 (2023) G634JZ,2019-2-28
+0,0,Asus ROG Strix Scar 16 (2023) G634JZ,2014-7-28
+0,4,HP EliteBook 860 G9,2014-1-23
+0,4,HP ProBook 440 G9,2010-11-2
+0,4,HP ProBook 440 G9,2023-9-1
+0,4,HP ProBook 430 G8,2017-11-1
+0,6,MSI Katana 17 B12VFK,2022-11-16
+0,8,Dream Machines RG4050-17 V170RNCQ,2020-7-13
+0,8,Dream Machines RG4060-17 V170RNDQ,2015-11-6
+0,2,Acer Nitro 5 AN515-47,2010-4-15
+0,2,Acer Nitro 5 AN515-58,2013-6-25
+0,6,MSI Vector GP77 13VG,2021-4-25
+0,2,Acer Nitro 5 AN515-58,2010-3-23
+0,8,Dream Machines RG4060-17 NP70SND,2022-4-22
+0,8,Dream Machines RG4070-17 V170RNEQ,2015-9-6
+0,8,Dream Machines RG4060-17 NP70SND,2023-4-19
+0,8,Dream Machines RX770M-17 X270PTA,2014-10-12
+0,8,Dream Machines RG4060-15 NP50SND,2012-3-23
+0,8,Dream Machines RG4060-17 V170RNDQ,2021-1-21
+0,2,Acer Nitro 5 AN515-47,2021-7-3
+0,3,Lenovo Legion Pro 7 16IRX8H,2017-1-12
+0,10,Dell XPS 15 9520,2022-5-6
+0,8,Dream Machines RG4070-15 NP50SNE,2019-11-22
+0,2,Acer Nitro 5 AN515-47,2014-8-26
+0,0,Asus ROG Strix G17 (2023) G713PI,2016-6-26
+0,0,Asus ROG Strix G17 (2023) G713PI,2021-12-25
+0,0,Asus ROG Strix G17 (2023) G713PV,2020-11-15
+0,0,Asus ROG Strix G17 (2023) G713PV,2010-7-13
+0,3,Lenovo ThinkPad Z13 Gen 1,2010-7-16
+0,3,Lenovo ThinkPad Z13 Gen 1,2022-3-3
+0,3,Lenovo ThinkPad Z13 Gen 1,2013-5-9
+0,2,Acer Nitro 5 AN515-47,2010-12-12
+0,2,Acer Nitro 5 AN515-47,2015-12-5
+0,0,Asus ROG Zephyrus Duo 16 (2023) GX650PZ,2017-7-6
+0,0,Asus ROG Zephyrus Duo 16 (2023) GX650PY,2014-1-2
+0,0,Asus ROG Zephyrus Duo 16 (2023) GX650PY,2014-12-2
+0,10,Dell Latitude 15 5530,2019-7-6
+0,2,Acer Predator Helios 18 PH18-71,2020-11-25
+0,2,Acer Predator Helios 16 PH16-71,2023-12-14
+0,2,Acer Predator Helios 16 PH16-71,2013-10-3
+0,3,Lenovo Legion Pro 7 16IRX8H,2022-4-24
+0,3,Lenovo Legion Pro 7 16IRX8H,2019-3-13
+0,0,Asus ExpertBook B9 B9400CEA,2013-11-9
+0,3,Lenovo Legion Pro 7 16IRX8H,2013-12-10
+0,0,Asus ROG Zephyrus M16 (2023) GU604VY,2020-11-23
+0,0,Asus Vivobook S 15 OLED K5504VN,2023-12-18
+0,0,Asus ROG Zephyrus M16 (2023) GU604VY,2016-1-4
+0,0,Asus ExpertBook B9 B9400CEA,2018-1-27
+0,4,HP ProBook 430 G8,2023-11-7
+0,4,HP EliteBook x360 830 G6,2020-4-26
+0,4,HP EliteBook 640 G9,2020-2-13
+0,10,Dell Vostro 15 3520,2012-3-8
+0,10,Dell Latitude 15 3520,2021-5-14
+0,0,Asus ExpertBook B1 B1500CEAE,2022-9-17
+0,0,Asus ExpertBook B1 B1400CEAE,2022-1-6
+0,10,Dell Vostro 15 3510,2010-4-1
+0,10,Dell Latitude 15 3520,2018-12-17
+1,5,Apple iPhone 14 Pro Max,2017-11-13
+1,5,Apple iPhone 12,2016-12-5
+1,5,Apple iPhone 11,2023-9-9
+1,12,Xiaomi 13,2014-4-11
+1,13,Realme 10,2012-1-25
+1,5,Apple iPhone 13,2023-8-27
+1,15,Infinix Note 12 Pro,2023-5-12
+1,5,Apple iPhone 11,2022-2-8
+1,12,Xiaomi 12,2012-2-14
+1,5,Apple iPhone 14 Pro Max,2016-11-8
+1,5,Apple iPhone 12,2012-7-2
+1,5,Apple iPhone 14 Pro Max,2011-8-6
+1,12,Xiaomi Redmi Note 10 Pro,2021-6-27
+1,16,Poco X4 GT,2011-8-11
+1,17,Samsung Galaxy S20,2023-5-17
+1,5,Apple iPhone 12,2017-7-25
+1,5,Apple iPhone 13 Pro,2021-10-1
+1,12,Xiaomi 11T Pro,2020-2-14
+1,17,Samsung Galaxy A13,2023-2-24
+1,5,Apple iPhone 11 Pro,2022-3-11
+1,5,Apple iPhone 14 Pro,2022-4-2
+1,5,Apple iPhone 13 Pro,2017-9-10
+1,5,Apple iPhone 14 Pro Max,2022-10-5
+1,5,Apple iPhone 13,2012-8-24
+1,12,Xiaomi Redmi 10,2016-7-1
+1,5,Apple iPhone 13 Pro Max,2012-11-4
+1,5,Apple iPhone 14,2011-10-9
+1,5,Apple iPhone 12 Pro Max,2015-6-26
+1,12,Xiaomi Redmi 10C,2016-12-8
+1,5,Apple iPhone 13 Pro,2014-5-18
+1,18,Tecno Pova 4 Pro,2017-11-27
+1,12,Xiaomi Redmi Note 11,2023-1-25
+1,18,Tecno Camon 19 Pro,2015-3-24
+1,17,Samsung Galaxy A53 5G,2023-6-10
+1,19,Honor X8,2013-2-25
+1,17,Samsung Galaxy S22 Ultra,2018-12-4
+1,12,Xiaomi Redmi Note 11 Pro 5G,2015-9-8
+1,17,Samsung Galaxy S22,2021-10-22
+1,16,Poco M4 Pro,2023-12-5
+1,12,Xiaomi Redmi Note 11S,2021-8-22
+1,5,Apple iPhone 12 Pro,2020-12-20
+1,5,Apple iPhone 14 Pro,2017-11-26
+1,17,Samsung Galaxy S21 FE 5G,2015-2-5
+1,18,Tecno Pova 4,2020-9-19
+1,16,Poco F4 GT,2012-6-18
+1,5,Apple iPhone 12 Pro,2013-12-5
+1,16,Poco M5,2019-4-28
+1,20,Google Pixel 6a,2018-8-12
+1,5,Apple iPhone 12 Pro,2017-2-7
+1,5,Apple iPhone 12 mini,2013-8-17
+1,5,Apple iPhone 13 mini,2020-10-27
+1,5,Apple iPhone 11 Pro,2019-4-24
+1,12,Xiaomi Redmi Note 10 Pro,2014-3-14
+1,5,Apple iPhone Xr,2010-7-6
+1,5,Apple iPhone 11 Pro Max,2011-9-18
+1,5,Apple iPhone 12 Pro Max,2018-12-2
+1,12,Xiaomi 12T,2023-9-11
+1,5,Apple iPhone 13 Pro Max,2013-7-24
+1,17,Samsung Galaxy S22,2018-8-3
+1,12,Xiaomi Redmi 10C,2010-8-24
+1,17,Samsung Galaxy A32,2012-6-7
+1,16,Poco M4 Pro 5G,2015-2-12
+1,13,Realme 10 5G,2015-10-7
+1,17,Samsung Galaxy A73 5G,2017-2-16
+1,12,Xiaomi Redmi Note 9 Pro,2018-3-23
+1,1,Huawei Nova 9,2017-12-14
+1,18,Tecno Pova Neo 2,2020-11-23
+1,12,Xiaomi Redmi A1,2014-2-20
+1,12,Xiaomi 11T,2016-5-25
+1,12,Xiaomi 12T Pro,2019-7-5
+1,12,Xiaomi 12T,2013-3-9
+1,17,Samsung Galaxy S22 Ultra,2023-5-12
+1,17,Samsung Galaxy S22 Ultra,2019-11-7
+1,13,Realme C33,2023-3-11
+1,12,Xiaomi Redmi Note 10S,2014-1-11
+1,5,Apple iPhone 13,2022-7-19
+1,16,Poco F3,2015-3-3
+1,17,Samsung Galaxy A73,2012-3-13
+1,12,Xiaomi 12X,2014-3-22
+1,5,Apple iPhone 14,2017-9-24
+1,20,Google Pixel 6,2021-7-3
+1,5,Apple iPhone 12 mini,2015-2-11
+1,16,Poco X4 Pro 5G,2012-7-26
+1,12,Xiaomi 11T,2015-10-7
+1,5,Apple iPhone Xs Max,2017-10-2
+1,1,Huawei P20 Lite,2021-2-2
+1,5,Apple iPhone 12 Pro Max,2010-9-21
+1,16,Poco C40,2016-1-26
+1,5,Apple iPhone 11 Pro,2019-1-27
+1,17,Samsung Galaxy S23 Ultra,2010-10-11
+1,17,Samsung Galaxy S21,2012-4-10
+1,13,Realme GT Master Edition,2011-6-18
+1,16,Poco X4 Pro 5G,2018-1-28
+1,20,Google Pixel 4a,2018-12-14
+1,15,Infinix Hot 12 Pro,2011-6-10
+1,5,Apple iPhone 13 Pro Max,2013-11-5
+1,12,Xiaomi 11 Lite 5G NE,2014-1-8
+1,12,Xiaomi 12 Pro,2011-9-5
+1,18,Tecno Pova 3,2019-2-16
+1,16,Poco M4 Pro,2018-6-6
+1,13,Realme Narzo 50A,2020-6-13
+1,21,OnePlus Nord,2014-10-8
+1,12,Xiaomi 12 Lite,2015-8-4
+1,16,Poco X5 Pro,2016-7-16
+1,1,Huawei Nova 9 SE,2014-5-12
+1,15,Infinix Note 12 2023,2014-10-9
+1,16,Poco M5s,2023-11-1
+1,13,Realme C35,2015-2-6
+1,13,Realme 10 5G,2017-6-12
+1,22,Nothing Phone 1,2021-9-5
+1,5,Apple iPhone 13 Pro,2010-6-27
+1,13,Realme Narzo,2017-11-21
+1,21,OnePlus 10 Pro,2015-9-8
+1,17,Samsung Galaxy Fold4,2015-6-17
+1,13,Realme GT Master Edition,2012-9-23
+1,21,OnePlus 10 Pro,2020-2-4
+1,13,Realme 10,2014-10-1
+1,17,Samsung Galaxy S23,2019-8-7
+1,19,Honor 50,2015-2-15
+1,5,Apple iPhone 14 Plus,2019-5-15
+1,16,Poco M4 Pro 5G,2022-11-10
+1,17,Samsung Galaxy A40,2011-4-27
+1,12,Xiaomi Redmi 9A,2019-5-1
+1,12,Xiaomi Redmi 10 2022,2020-6-3
+1,5,Apple iPhone 14 Pro,2017-10-2
+1,23,OPPO A17,2010-1-15
+1,13,Realme C33,2015-4-11
+1,1,Huawei Mate 50 Pro,2019-8-20
+1,12,Xiaomi Redmi Note 11 Pro,2011-5-8
+1,23,OPPO A57s,2022-6-24
+1,16,Poco M4 5G,2023-11-27
+1,21,OnePlus 8,2012-2-13
+1,16,Poco X5 Pro,2023-5-3
+1,24,Vivo V25e,2022-2-24
+1,16,Poco F4 GT,2022-7-9
+1,5,Apple iPhone 13 Pro Max,2010-3-6
+1,15,Infinix Hot 20i,2011-1-11
+1,13,Realme C25s,2010-2-25
+1,12,Xiaomi Redmi 9C,2012-12-16
+1,5,Apple iPhone 14 Pro,2014-10-15
+1,5,Apple iPhone SE 2022,2011-11-2
+1,5,Apple iPhone 13 mini,2019-7-26
+1,12,Xiaomi Redmi Note 11S 5G,2012-4-21
+1,5,Apple iPhone SE 2022,2019-8-25
+1,21,OnePlus Ace Pro,2019-7-16
+1,5,Apple iPhone SE 2020,2018-12-3
+1,1,Huawei P50 Pro,2013-11-27
+1,12,Xiaomi Redmi Note 11T Pro Plus,2011-12-11
+1,5,Apple iPhone 12 mini,2013-5-13
+1,16,Poco X5,2018-12-13
+1,20,Google Pixel 7 Pro,2023-1-6
+1,1,Huawei Nova 10 Pro,2010-7-4
+1,17,Samsung Galaxy S23 Ultra,2022-6-25
+1,12,Xiaomi Redmi 9C,2022-10-17
+1,16,Poco C40,2015-1-2
+1,17,Samsung Galaxy A13,2019-11-2
+1,15,Infinix Note 12 2023,2017-4-25
+1,20,Google Pixel 6,2017-6-1
+1,17,Samsung Galaxy S23,2023-2-24
+1,24,Vivo Y35,2011-9-14
+1,17,Samsung Galaxy J2 Core,2012-11-13
+1,17,Samsung Galaxy S23 Ultra,2022-12-1
+1,25,Sony Xperia 10 IV,2016-9-3
+1,13,Realme Narzo 30,2011-10-4
+1,19,Honor X8 5G,2018-3-9
+1,20,Google Pixel 7,2012-8-28
+1,13,Realme C25s,2018-1-17
+1,18,Tecno Camon 18P,2016-12-14
+1,1,Huawei Mate 50,2019-10-4
+1,15,Infinix Hot 12 Play,2014-8-6
+1,15,Infinix Hot 12 Play,2019-11-1
+1,5,Apple iPhone 14 Plus,2019-11-16
+1,17,Samsung Galaxy A03,2021-4-26
+1,23,OPPO Reno8 T,2021-4-4
+1,15,Infinix Hot 20,2023-2-15
+1,0,Asus Zenfone 9,2014-4-12
+1,12,Xiaomi 13 Pro,2021-11-26
+1,5,Apple iPhone SE 2020,2020-4-26
+1,15,Infinix Note 11,2015-8-15
+1,21,OnePlus Nord 2T,2013-2-23
+1,23,OPPO A74,2020-9-21
+1,15,Infinix Zero 20,2015-9-26
+1,13,Realme C55,2022-7-8
+1,21,OnePlus 7,2020-6-22
+1,26,Doogee S98,2021-7-16
+1,21,OnePlus Nord,2014-6-23
+1,21,OnePlus 8 Pro,2022-1-26
+1,20,Google Pixel 7 Pro,2022-2-13
+1,5,Apple iPhone 14,2020-4-12
+1,17,Samsung Galaxy A22 4G,2017-3-13
+1,13,Realme GT 3,2011-9-17
+1,17,Samsung Galaxy A01,2014-11-26
+1,17,Samsung Galaxy S22 Plus,2020-12-26
+1,23,OPPO A57s,2023-2-28
+1,17,Samsung Galaxy Note20,2013-8-13
+1,17,Samsung Galaxy A12,2020-11-9
+1,17,Samsung Galaxy A04s,2015-12-2
+1,27,Nokia X10,2019-10-6
+1,18,Tecno Spark Go 2022,2015-8-27
+1,18,Tecno Phantom X2,2023-2-7
+1,12,Xiaomi Redmi Note 7 Pro,2010-2-13
+1,17,Samsung Galaxy S23 Plus,2013-8-24
+1,23,OPPO A17k,2016-12-20
+1,21,OnePlus 10T,2013-3-27
+1,17,Samsung Galaxy A41,2019-8-12
+1,27,Nokia 2.2,2013-2-17
+1,12,Xiaomi 13 Lite,2010-10-3
+1,12,Xiaomi Redmi 6,2012-3-23
+1,5,Apple iPhone 13 mini,2010-6-5
+1,17,Samsung Galaxy Flip4,2022-3-24
+1,12,Xiaomi Redmi Note 12,2019-3-23
+1,12,Xiaomi Redmi 9C,2015-11-14
+1,18,Tecno Pop 6 Pro,2023-11-20
+1,18,Tecno Camon 18,2013-12-12
+1,28,Blackview A100,2016-9-13
+1,16,Poco M3 Pro,2017-10-15
+1,17,Samsung Galaxy Flip,2019-8-28
+1,13,Realme C21Y,2010-4-22
+1,12,Xiaomi Redmi Note 9 Pro,2012-11-25
+1,17,Samsung Galaxy Fold4,2014-4-26
+1,12,Xiaomi Redmi Note 8 Pro,2012-2-1
+1,5,Apple iPhone 11 Pro Max,2012-8-23
+1,20,Google Pixel 6 Pro,2011-7-5
+1,28,Blackview BV6600,2014-9-25
+1,15,Infinix Hot 12i,2010-6-13
+1,15,Infinix Hot 20i,2016-6-1
+1,13,Realme C33,2014-9-11
+1,5,Apple iPhone 11 Pro Max,2013-8-6
+1,21,OnePlus Nord CE 5G,2015-8-18
+1,29,TCL 30 Plus,2021-8-7
+1,29,TCL 30 Plus,2022-4-13
+1,5,Apple iPhone 14 Plus,2016-3-20
+1,21,OnePlus Nord N20 SE,2020-10-9
+1,12,Xiaomi Redmi 9C,2018-1-11
+1,17,Samsung Galaxy A03,2012-8-9
+1,12,Xiaomi Redmi 10A,2011-10-2
+1,18,Tecno Spark 8P,2014-9-11
+1,23,OPPO A55,2010-4-26
+1,20,Google Pixel 7,2016-1-28
+1,30,ZTE Blade A31,2021-11-26
+1,24,Vivo V21e,2013-3-11
+1,15,Infinix Hot 11S,2011-3-4
+1,23,OPPO Reno8 T 5G,2014-9-8
+1,24,Vivo V23e,2015-5-3
+1,17,Samsung Galaxy Flip4,2016-8-4
+1,15,Infinix Smart 6,2022-9-11
+1,17,Samsung Galaxy Fold3 5G,2012-11-2
+1,17,Samsung Galaxy Fold4,2020-11-3
+1,27,Nokia 6,2013-3-24
+1,26,Doogee S61 Pro,2017-2-23
+1,26,Doogee S61 Pro,2021-11-28
+1,29,TCL 30,2022-2-8
+1,31,Oukitel WP10,2023-10-9
+1,17,Samsung Galaxy S23 Plus,2022-3-10
+1,13,Realme C25Y,2015-1-17
+1,17,Samsung Galaxy A14,2011-4-8
+1,31,Oukitel C25,2019-7-8
+1,28,Blackview BV6600 Pro,2021-3-21
+1,28,Blackview BV9900E,2023-12-7
+1,30,ZTE Blade A3 2020,2010-8-20
+1,30,ZTE Blade A3 2020,2015-3-4
+1,23,OPPO Reno8,2018-4-7
+1,17,Samsung Galaxy A02,2010-6-23
+1,17,Samsung Galaxy A14,2020-6-24
+1,28,Blackview BL5000 5G,2016-10-2
+1,24,Vivo V25 Pro,2015-11-26
+1,32,Motorola Edge 30,2022-11-28
+1,24,Vivo Y33s,2015-8-19
+1,21,OnePlus Ace Pro,2012-9-12
+1,13,Realme C11 2021,2017-9-1
+1,13,Realme C11 2021,2021-6-13
+1,18,Tecno Pova Neo 5G,2022-8-24
+1,1,Huawei Mate Xs,2016-1-17
+1,33,BQ BQ-5745L Clever,2011-11-23
+1,31,Oukitel WP12 Pro,2018-9-23
+1,15,Infinix Smart 6 Plus,2015-10-6
+1,30,ZTE Blade A51,2016-9-21
+1,15,Infinix Zero X Pro,2022-9-10
+1,25,Sony Xperia 5,2015-1-27
+1,17,Samsung Galaxy A50,2012-7-3
+1,17,Samsung Galaxy A14 5G,2021-3-24
+1,18,Tecno Spark 6,2020-1-15
+1,24,Vivo Y21,2010-2-13
+1,21,OnePlus 8 Pro,2018-10-4
+1,21,OnePlus 8,2019-6-8
+1,17,Samsung Galaxy Flip4,2018-7-15
+1,29,TCL 30SE,2020-1-16
+1,26,Doogee S89 Pro,2010-7-10
+1,31,Oukitel C21 Pro,2017-6-9
+1,17,Samsung Galaxy A12,2010-3-25
+1,21,OnePlus 11,2017-11-28
+1,34,UleFone Armor 17 Pro,2014-9-2
+1,28,Blackview BV4900,2015-9-18
+1,13,Realme C30s,2021-3-12
+1,29,TCL 306,2010-3-23
+1,24,Vivo V27e,2012-10-19
+1,12,Xiaomi Redmi 12C,2023-2-7
+1,35,Texet TM-B319,2017-4-15
+1,28,Blackview BV4900 Pro,2019-4-21
+1,31,Oukitel WP16,2018-3-7
+1,31,Oukitel WP17,2016-3-1
+1,24,Vivo V23 5G,2010-12-15
+1,17,Samsung Galaxy Fold,2016-3-21
+1,26,Doogee S35,2023-6-4
+1,31,Oukitel WP9,2014-12-18
+1,17,Samsung Galaxy S21 Plus,2021-5-17
+1,24,Vivo Y22,2011-7-12
+1,31,Oukitel K15 Plus,2012-10-4
+1,31,Oukitel WP15,2018-10-28
+1,21,OnePlus Ace,2011-7-18
+1,15,Infinix Hot 11 Play,2021-6-23
+1,34,UleFone Armor 11 5G,2011-7-1
+1,19,Honor X6,2022-5-17
+1,26,Doogee S61,2013-7-8
+1,15,Infinix Hot 20 5G,2012-4-8
+1,28,Blackview BL6000 Pro,2012-3-10
+1,36,Philips Xenium E111,2019-4-21
+1,28,Blackview BV6600E,2011-11-8
+1,36,Philips Xenium E185,2012-9-23
+1,15,Infinix Hot 11,2017-9-15
+1,27,Nokia 7.1,2015-6-15
+1,21,OnePlus Nord CE 3 Lite 5G,2011-7-7
+1,34,UleFone Armor 12,2023-6-5
+1,27,Nokia 105 2019,2017-11-22
+1,17,Samsung Galaxy A31,2022-5-16
+1,37,iiiF150 Air1 Ultra,2018-12-24
+1,23,OPPO Reno8,2011-4-15
+1,34,UleFone Power Armor 16 Pro,2021-2-12
+1,36,Philips Xenium E255,2023-2-23
+1,1,Huawei GT3,2016-5-2
+1,29,TCL 30SE,2013-11-27
+1,12,Xiaomi 12S,2010-3-14
+1,24,Vivo Y02,2010-11-6
+1,17,Samsung Galaxy A04s,2013-5-19
+1,18,Tecno Phantom X2 Pro,2012-6-5
+1,38,Vertex M114,2012-1-13
+1,36,Philips Xenium E172,2022-9-21
+1,15,Infinix Zero Ultra,2014-9-9
+1,26,Doogee S96 GT,2010-7-28
+1,12,Xiaomi Redmi 7,2011-2-1
+1,12,Xiaomi Redmi 7,2014-7-21
+1,15,Infinix Hot 30,2013-4-23
+1,17,Samsung Galaxy A34,2023-3-19
+1,19,Honor X5,2016-7-10
+1,17,Samsung Galaxy A04,2022-7-26
+1,26,Doogee S96 Pro,2015-12-10
+1,32,Motorola Moto E32s,2011-7-7
+1,34,UleFone Armor 15,2023-1-15
+1,17,Samsung Galaxy A11,2015-6-21
+1,34,UleFone Power Armor 13,2013-1-8
+1,17,Samsung Galaxy Flip3 5G,2019-3-2
+1,33,BQ BQ-5031G Fun,2018-7-1
+1,12,Xiaomi Redmi Note 12 Pro 4G,2019-5-24
+1,26,Doogee S59 Pro,2022-11-6
+1,17,Samsung Galaxy Flip3 5G,2013-12-18
+1,31,Oukitel WP5 Pro,2015-4-3
+1,34,UleFone Power Armor 14,2021-6-13
+1,17,Samsung Galaxy Fold3 5G,2017-4-8
+1,18,Tecno Spark 10 Pro,2017-8-15
+1,28,Blackview BV6300 Pro,2016-8-28
+1,21,OnePlus Nord CE 3 Lite 5G,2012-11-11
+1,27,Nokia 3.1,2010-3-2
+1,18,Tecno Pop 5,2011-8-18
+1,28,Blackview BV9800 Pro,2017-1-12
+1,27,Nokia 105 2019,2019-12-5
+1,31,Oukitel WP13,2018-1-25
+1,36,Philips Xenium E169,2010-9-2
+1,26,Doogee S86,2023-5-28
+1,35,Texet TM-123,2015-12-1
+1,35,Texet TM-521R,2010-8-25
+1,35,Texet TM-D424,2020-2-22
+1,34,UleFone Power Armor 14 Pro,2012-1-3
+1,36,Philips Xenium E218,2010-6-13
+1,17,Samsung Galaxy A20s,2021-11-1
+1,27,Nokia 150 2020,2022-7-6
+1,31,Oukitel WP5,2016-3-6
+1,27,Nokia 150 2020,2020-2-15
+1,1,Huawei Y6p,2010-4-9
+1,36,Philips Xenium E2301,2015-2-22
+1,29,TCL 305i,2013-12-15
+1,36,Philips Xenium E2301,2011-11-18
+1,29,TCL 305i,2021-4-18
+1,35,Texet TM-D324,2014-2-22
+1,17,Samsung Galaxy A21s,2019-7-9
+1,26,Doogee N40 Pro,2012-5-25
+1,35,Texet TM-D426,2020-6-1
+1,34,UleFone Armor X5,2021-5-11
+1,35,Texet TM-B418,2014-5-6
+1,21,OnePlus 10T,2022-7-20
+1,31,Oukitel WP8 Pro,2020-5-3
+1,35,Texet TM-321,2023-10-26
+1,26,Doogee S88 Plus,2015-5-22
+1,26,Doogee V10,2019-8-18
+1,39,UMIDIGI Power,2010-1-28
+1,26,Doogee S97 Pro,2014-1-1
+1,13,Realme C55,2015-8-23
+1,28,Blackview BV9200,2015-4-13
+1,18,Tecno Pop 2,2015-5-9
+1,33,BQ BQ-5533G Fresh,2020-6-11
+1,34,UleFone Armor 8,2022-10-26
+1,33,BQ BQ-5533G Fresh,2022-7-18
+1,15,Infinix Smart 7,2019-1-14
+1,36,Philips Xenium E207,2019-1-2
+1,31,Oukitel WP7,2018-3-24
+1,40,OLMIO M22,2016-5-1
+1,40,OLMIO A02,2011-6-21
+1,26,Doogee V20,2016-12-4
+1,26,Doogee X93,2017-3-2
+1,35,Texet TM-405,2011-5-15
+1,28,Blackview BV5200,2020-4-13
+1,28,Blackview BV7100,2013-6-8
+1,28,Blackview BV5200,2010-8-8
+1,28,Blackview BL8800 Pro,2012-3-22
+1,35,Texet TM-405,2014-8-17
+1,34,UleFone Armor 10 5G,2020-12-22
+1,31,Oukitel WP18 Pro,2019-9-4
+1,34,UleFone Armor X5 Pro,2020-4-17
+1,31,Oukitel WP20,2021-9-23
+1,35,Texet TM-302,2014-3-10
+1,18,Tecno Pova Neo,2018-9-4
+1,18,Tecno Pova Neo,2016-7-28
+1,28,Blackview BL8800,2023-2-14
+1,25,Sony Xperia 1 IV,2017-9-25
+1,34,UleFone Armor X6,2019-2-10
+1,35,Texet TM-130,2019-4-17
+1,15,Infinix Hot 30i,2020-9-6
+1,17,Samsung Galaxy A03s,2017-1-9
+1,35,Texet TM-B419,2020-8-12
+1,35,Texet TM-122,2017-8-19
+1,35,Texet TM-530R,2019-8-7
+1,35,Texet TM-122,2018-10-1
+1,28,Blackview A70,2014-10-3
+1,26,Doogee X98 Pro,2023-11-22
+1,18,Tecno Phantom V Fold,2015-1-8
+1,35,Texet TM-513R,2016-8-23
+1,28,Blackview BV4900S,2022-8-17
+1,18,Tecno Spark 10,2020-6-5
+1,35,Texet TM-B227,2020-4-17
+1,35,Texet TM-B322,2015-10-23
+1,31,Oukitel C23 Pro,2022-11-27
+1,35,Texet TM-117,2021-8-9
+1,28,Blackview A70 Pro,2020-12-2
+1,17,Samsung Galaxy M14,2019-1-9
+1,28,Blackview A55,2018-4-23
+1,28,Blackview BV7200,2017-9-24
+1,15,Infinix Hot 10 Lite,2013-6-2
+1,28,Blackview A90,2019-8-26
+1,31,Oukitel WP18,2022-11-20
+1,34,UleFone Armor 9E,2018-7-22
+1,17,Samsung Galaxy M14,2016-12-9
+1,28,Blackview BV7200,2016-8-25
+1,35,Texet TM-317,2023-8-2
+1,12,Xiaomi Mi 3,2023-5-26
+1,36,Philips Xenium E2601,2018-5-15
+1,33,BQ BQ-2432 Tank SE,2015-2-5
+1,41,Wiko T10,2019-5-17
+1,29,TCL 405,2015-1-15
+1,35,Texet TM-519R,2018-2-3
+1,35,Texet TM-D411,2021-4-22
+1,35,Texet TM-308,2017-3-19
+1,35,Texet TM-D411,2018-6-27
+1,35,Texet TM-308,2015-4-21
+1,35,Texet TM-216,2023-1-5
+1,29,TCL 408,2019-11-1
+1,35,Texet TM-B226,2018-11-7
+1,35,Texet TM-520R,2013-4-12
+1,35,Texet TM-422,2023-11-12
+1,12,Xiaomi Redmi Note 10 5G,2010-4-24
+1,15,Infinix Note 12i,2010-12-5
+1,35,Texet TM-408,2013-9-26
+1,35,Texet TM-D428,2010-4-24
+1,35,Texet TM-408,2019-11-12
+1,35,Texet TM-B208,2016-7-26
+1,35,Texet TM-B316,2013-1-2
+1,35,Texet TM-B307,2018-9-27
+1,28,Blackview A85,2019-4-20
+1,35,Texet TM-128,2021-2-4
+1,35,Texet TM-B323,2012-6-21
+1,26,Doogee X95,2016-3-25
+1,35,Texet TM-404,2018-6-19
+1,26,Doogee X95,2013-12-14
+1,31,Oukitel C32,2012-7-10
+1,35,Texet TM-404,2015-4-13
+1,42,Itel IT2173,2014-8-27
+1,42,Itel IT5029,2023-5-23
+1,42,Itel IT5615,2017-11-11
+1,1,Huawei Mate X3,2020-5-25
+1,18,Tecno Pop 7,2013-2-28
+1,5,Apple iPhone 11,2017-11-16
+1,12,Xiaomi Redmi Note 11 Pro 5G,2017-5-27
+1,12,Xiaomi 13,2013-12-2
+1,12,Xiaomi 12,2015-9-16
+1,12,Xiaomi Redmi Note 10 Pro,2018-8-11
+1,12,Xiaomi 13,2021-10-2
+1,16,Poco X3 Pro,2014-11-20
+1,18,Tecno Camon 19 Pro,2013-10-11
+1,12,Xiaomi 12,2013-2-2
+1,12,Xiaomi Redmi Note 10 Pro,2011-11-3
+1,13,Realme 10,2022-4-1
+1,18,Tecno Pova Neo 2,2016-9-17
+1,12,Xiaomi Redmi 10,2017-8-27
+1,17,Samsung Galaxy A13,2014-9-27
+1,5,Apple iPhone 11,2011-10-24
+1,12,Xiaomi 11T Pro,2010-1-17
+1,16,Poco X3 Pro,2018-11-21
+1,12,Xiaomi Redmi Note 11S,2012-8-24
+1,16,Poco M4 Pro,2015-7-25
+1,12,Xiaomi 11T Pro,2019-7-1
+1,12,Xiaomi Redmi Note 11,2018-5-20
+1,16,Poco M5,2018-3-24
+1,16,Poco M5,2012-2-23
+1,12,Xiaomi Redmi Note 10S,2023-9-28
+1,12,Xiaomi Redmi Note 11,2021-4-24
+1,12,Xiaomi Redmi Note 11S,2019-4-17
+1,18,Tecno Pova Neo 2,2022-7-17
+1,16,Poco M5s,2017-2-8
+1,12,Xiaomi 12T Pro,2022-4-27
+1,13,Realme 10,2015-2-28
+1,21,OnePlus 10 Pro,2017-4-14
+1,17,Samsung Galaxy A32,2019-2-1
+1,17,Samsung Galaxy A52 4G,2015-12-20
+1,17,Samsung Galaxy A53 5G,2015-3-16
+1,13,Realme 10,2015-7-27
+1,19,Honor X7,2012-9-23
+1,17,Samsung Galaxy S21 FE 5G,2017-3-23
+1,12,Xiaomi 12T Pro,2022-9-19
+1,16,Poco M5s,2023-11-28
+1,12,Xiaomi Redmi Note 12 Pro Plus,2022-7-19
+1,16,Poco M4 Pro 5G,2017-10-21
+1,12,Xiaomi Redmi 10 2022,2022-10-21
+1,0,Asus ROG Phone 6D Ultimate,2015-10-6
+1,17,Samsung Galaxy S20 Plus,2020-8-5
+1,22,Nothing Phone 1,2010-5-12
+1,12,Xiaomi Redmi Note 10S,2022-10-22
+1,21,OnePlus 9 Pro,2010-3-24
+1,21,OnePlus 10 Pro,2012-6-26
+1,19,Honor 50,2023-9-9
+1,1,Huawei P50,2023-12-19
+1,12,Xiaomi Black Shark 5 Pro,2015-5-8
+1,13,Realme C30,2022-5-8
+1,12,Xiaomi Redmi Note 11 Pro,2010-5-7
+1,15,Infinix Note 11 Pro,2019-2-24
+1,12,Xiaomi Black Shark 5 Pro,2016-4-1
+1,12,Xiaomi 12X,2023-3-8
+1,27,Nokia G21,2016-4-9
+1,3,Lenovo Legion Y70,2011-10-16
+1,22,Nothing Phone 1,2022-6-15
+1,12,Xiaomi 11 Lite 5G NE,2023-11-4
+1,12,Xiaomi Redmi 10,2017-9-4
+1,17,Samsung Galaxy A73 5G,2012-10-4
+1,17,Samsung Galaxy A73 5G,2019-8-18
+1,0,Asus ROG Phone 6D,2010-3-16
+1,12,Xiaomi 12 Lite,2017-1-24
+1,12,Xiaomi Redmi Note 11 Pro,2014-3-6
+1,12,Xiaomi 12X,2016-6-20
+1,12,Xiaomi Black Shark 5,2017-11-11
+1,23,OPPO Reno7,2021-11-13
+1,0,Asus ROG Phone 5 Pro,2019-1-21
+1,13,Realme 10 Pro Plus,2013-6-2
+1,20,Google Pixel 7 Pro,2020-4-19
+1,20,Google Pixel 7 Pro,2013-11-23
+1,21,OnePlus 9RT,2018-5-8
+1,12,Xiaomi 11 Lite 5G NE,2013-3-18
+1,17,Samsung Galaxy A33 5G,2022-7-18
+1,12,Xiaomi Redmi 10C,2022-9-8
+1,21,OnePlus 10T,2019-8-25
+1,12,Xiaomi 12 Pro,2022-6-21
+1,12,Xiaomi Redmi Note 12 Pro Plus,2011-9-23
+1,12,Xiaomi 12 Lite,2017-7-14
+1,13,Realme 9 Pro Plus,2013-2-3
+1,24,Vivo V25e,2019-5-16
+1,24,Vivo Y35,2023-12-13
+1,13,Realme 9 Pro,2014-2-17
+1,21,OnePlus 9RT,2023-10-16
+1,5,Apple iPhone 11 Pro,2014-4-4
+1,0,Asus Zenfone 9,2020-9-15
+1,24,Vivo Y35,2016-10-20
+1,12,Xiaomi Redmi Note 11 Pro Plus,2022-6-17
+1,19,Honor 9X,2019-8-3
+1,3,Lenovo Legion Y90,2012-7-10
+1,13,Realme 9i 5G,2015-12-15
+1,30,ZTE Nubia Red Magic 7S Pro,2019-3-3
+1,5,Apple iPhone SE 2022,2014-8-22
+1,25,Sony Xperia 1 IV Gaming Edition,2022-1-20
+1,16,Poco M3 Pro,2019-6-15
+1,23,OPPO Reno5 Lite,2019-9-17
+1,12,Xiaomi Redmi Note 8 Pro,2021-6-10
+1,17,Samsung Galaxy A22 4G,2011-12-25
+1,19,Honor X7,2020-4-3
+1,16,Poco X5,2013-11-16
+1,0,Asus ROG Phone 6D,2017-6-8
+1,24,Vivo Y35,2013-1-17
+1,19,Honor 10 GT,2013-9-26
+1,13,Realme GT Neo3T,2018-1-14
+1,17,Samsung Galaxy S23 Ultra,2017-10-6
+1,13,Realme C35,2020-12-3
+1,0,Asus Zenfone 9,2013-10-9
+1,12,Xiaomi Redmi Note 11 Pro Plus,2023-10-6
+1,13,Realme GT 2 Pro,2020-10-22
+1,13,Realme 10 Pro Plus,2023-11-13
+1,13,Realme 10 Pro Plus,2019-7-18
+1,12,Xiaomi Mi 11 Ultra,2018-4-8
+1,13,Realme 8,2020-8-10
+1,17,Samsung Galaxy A23,2023-8-21
+1,19,Honor Magic4 Pro,2012-12-27
+1,27,Nokia 215 4G,2013-5-11
+1,1,Huawei Nova 10 Pro,2011-5-17
+1,27,Nokia 110 4G,2016-4-18
+1,43,Oscal C20 Pro,2010-7-7
+1,12,Xiaomi Redmi Note 12 Racing,2011-4-24
+1,17,Samsung Galaxy A51,2020-12-6
+1,12,Xiaomi Redmi Note 11 4G,2018-2-19
+1,19,Honor Magic4 Pro,2019-7-13
+1,13,Realme GT Neo2,2018-2-9
+1,12,Xiaomi Mi 10T,2014-10-20
+1,12,Xiaomi Redmi Note 10 Pro Max,2012-8-12
+1,12,Xiaomi 13 Pro,2011-10-23
+1,18,Tecno Spark 8C,2023-6-13
+1,21,OnePlus 9RT,2021-2-9
+1,25,Sony Xperia 5 II,2013-4-10
+1,17,Samsung Galaxy S10 Plus,2019-7-26
+1,12,Xiaomi Redmi 10A,2023-6-3
+1,12,Xiaomi Redmi Note 10T,2016-1-1
+1,13,Realme C30,2017-1-4
+1,13,Realme 10 Pro,2021-10-16
+1,17,Samsung Galaxy A53 5G,2023-9-12
+1,13,Realme 10 Pro Plus,2023-9-27
+1,39,UMIDIGI A13,2012-1-21
+1,25,Sony Xperia 5 IV,2019-11-22
+1,3,Lenovo Legion Y90,2017-4-21
+1,23,OPPO Reno8 T,2010-7-21
+1,20,Google Pixel 3,2017-10-10
+1,30,ZTE Nubia Z40S Pro,2015-6-28
+1,12,Xiaomi Redmi Note 12 Pro,2017-11-28
+1,12,Xiaomi 13 Lite,2018-6-25
+1,44,FiGi Note 1 Pro,2015-10-27
+1,16,Poco F4,2021-11-10
+1,13,Realme GT 3,2010-3-19
+1,21,OnePlus Ace,2019-12-8
+1,16,Poco X3 GT,2020-2-26
+1,17,Samsung Galaxy S23 Ultra,2014-5-23
+1,1,Huawei Nova Y90,2012-6-23
+1,21,OnePlus Nord 2T,2013-7-17
+1,12,Xiaomi Mi 11 Ultra,2018-7-5
+1,3,Lenovo Legion Y90,2018-7-16
+1,23,OPPO A96,2015-2-2
+1,16,Poco X3,2016-4-14
+1,27,Nokia G11,2014-6-23
+1,30,ZTE Nubia Red Magic 7S Pro,2010-5-23
+1,1,Huawei Nova 10 Pro,2020-10-6
+1,12,Xiaomi Redmi Note 12,2013-10-2
+1,17,Samsung Galaxy S23 Ultra,2015-7-27
+1,43,Oscal C60,2017-5-13
+1,21,OnePlus 1,2018-11-21
+1,13,Realme Q5 Pro,2011-2-18
+1,13,Realme C30,2013-12-24
+1,45,BlackBerry KEY2 LE,2019-3-3
+1,13,Realme 9 Pro Plus,2021-12-8
+1,18,Tecno Spark 9 Pro,2011-10-19
+1,18,Tecno Spark 8C,2021-2-22
+1,30,ZTE Nubia Red Magic 7S Pro,2015-10-7
+1,25,Sony Xperia 5 IV,2022-11-27
+1,24,Vivo V27e,2023-2-3
+1,12,Xiaomi Redmi Note 11T Pro,2016-3-27
+1,12,Xiaomi Redmi 11 Prime,2015-12-3
+1,12,Xiaomi 13 Pro,2013-7-24
+1,17,Samsung Galaxy A23,2015-7-23
+1,17,Samsung Galaxy S20 FE,2020-3-1
+1,30,ZTE Nubia Red Magic 7S Pro,2015-8-21
+1,43,Oscal C20,2015-1-2
+1,12,Xiaomi Redmi 10A,2011-7-2
+1,21,OnePlus 8T,2018-7-7
+1,12,Xiaomi 13 Lite,2014-12-9
+1,12,Xiaomi 12S Ultra,2010-11-10
+1,13,Realme C30,2018-8-15
+1,32,Motorola Moto G32,2014-9-6
+1,12,Xiaomi Black Shark 4 Pro,2021-8-9
+1,12,Xiaomi Redmi Note 11 Pro Plus,2020-7-19
+1,0,Asus Zenfone 8,2013-11-19
+1,17,Samsung Galaxy A32 5G,2016-7-24
+1,17,Samsung Galaxy A32 5G,2011-1-24
+1,30,ZTE Nubia Red Magic 7 Pro,2020-7-15
+1,24,Vivo Y33s,2011-1-4
+1,12,Xiaomi Redmi Note 9,2012-3-12
+1,17,Samsung Galaxy A14 5G,2012-6-25
+1,12,Xiaomi Redmi Note 12 Pro,2010-3-8
+1,1,Huawei Nova 9 Pro,2020-6-19
+1,12,Xiaomi Mi 11 Ultra,2020-1-3
+1,12,Xiaomi Redmi Note 10,2020-1-3
+1,17,Samsung Galaxy A51,2020-2-22
+1,1,Huawei Nova Y90,2013-4-16
+1,13,Realme 10 Pro,2023-12-17
+1,12,Xiaomi Mi 11 Ultra,2022-3-28
+1,13,Realme 9 Pro,2014-8-5
+1,32,Motorola Edge 30 Fusion,2022-12-12
+1,17,Samsung Galaxy S20 FE,2022-1-19
+1,18,Tecno Spark 8C,2022-8-17
+1,32,Motorola Edge 30 Ultra,2014-10-17
+1,12,Xiaomi Redmi 11 Prime 5G,2016-2-12
+1,12,Xiaomi Redmi 12C,2022-2-5
+1,46,LG Velvet,2012-12-9
+1,12,Xiaomi 13 Pro,2017-2-21
+1,23,OPPO A96,2013-2-23
+1,26,Doogee S35T,2016-9-24
+1,12,Xiaomi Redmi 12C,2011-5-25
+1,3,Lenovo Legion Y70,2018-3-26
+1,47,Sigma mobile X-style S3502,2011-10-9
+1,33,BQ BQ-6042L Magic E,2015-2-4
+1,47,Sigma mobile X-style S5502,2018-8-25
+1,13,Realme 9,2014-2-11
+1,16,Poco M3,2010-4-23
+1,13,Realme Narzo 50A,2012-12-2
+1,3,Lenovo Legion Y70,2020-8-11
+1,18,Tecno Phantom X2,2012-9-4
+1,30,ZTE Nubia Red Magic 7 Pro,2015-8-18
+1,20,Google Pixel 2 XL,2021-7-7
+1,13,Realme GT Neo2,2014-11-22
+1,1,Huawei Nova 10 SE,2018-10-21
+1,15,Infinix Zero X Pro,2010-12-25
+1,12,Xiaomi Redmi K50i,2011-11-2
+1,32,Motorola Edge 30 Fusion,2019-6-13
+1,17,Samsung Galaxy A33 5G,2019-11-8
+1,12,Xiaomi Mi 11 Pro,2020-3-20
+1,16,Poco F2 Pro,2016-4-11
+1,13,Realme GT 3,2017-10-3
+1,27,Nokia 230,2012-10-16
+1,34,UleFone Armor 11T 5G,2011-1-13
+1,12,Xiaomi Mi 11 Lite,2016-2-17
+1,18,Tecno Phantom X2,2014-1-15
+1,26,Doogee S40 Pro,2019-8-8
+1,24,Vivo V25 Pro,2017-2-18
+1,13,Realme GT 3,2012-5-15
+1,32,Motorola Edge 30 Neo,2016-9-25
+1,17,Samsung Galaxy A52 5G,2016-6-5
+1,19,Honor Magic4 Pro,2015-3-25
+1,13,Realme GT 3,2021-12-13
+1,43,Oscal S60,2014-10-8
+1,24,Vivo V23 5G,2010-11-22
+1,21,OnePlus 8T,2022-4-25
+1,12,Xiaomi Redmi 12C,2010-12-11
+1,24,Vivo V27e,2019-12-17
+1,19,Honor X9a,2021-10-15
+1,25,Sony Xperia L3,2019-8-12
+1,13,Realme 9,2018-7-24
+1,48,CATerpillar S53,2022-3-24
+1,33,BQ BQ-5046L Choice LTE,2015-3-14
+1,32,Motorola Moto E32s,2013-11-9
+1,24,Vivo Y53s,2011-2-9
+1,21,OnePlus 11,2013-5-18
+1,39,UMIDIGI Bison X10S,2016-3-21
+1,39,UMIDIGI Bison X10S,2022-2-2
+1,19,Honor X9a,2023-3-26
+1,26,Doogee S86 Pro,2020-1-1
+1,1,Huawei Mate 50E,2018-2-9
+1,27,Nokia G11 Plus,2012-5-2
+1,13,Realme Narzo 50,2021-3-18
+1,32,Motorola Edge 30 Fusion,2012-2-6
+1,1,Huawei Nova 10 SE,2010-8-2
+1,12,Xiaomi Redmi Note 12 Pro,2017-7-16
+1,16,Poco X5,2017-8-4
+1,32,Motorola Edge 30 Fusion,2014-7-28
+1,16,Poco X5,2011-3-20
+1,12,Xiaomi Redmi Note 12 Pro,2014-10-15
+1,49,AGM M6,2010-4-4
+1,18,Tecno Pova 2,2021-7-28
+1,27,Nokia 5.4,2016-7-5
+1,1,Huawei Mate 40 Pro,2010-6-9
+1,27,Nokia XR20,2015-5-3
+1,49,AGM H5 Pro,2020-9-16
+1,17,Samsung Galaxy A54,2019-11-4
+1,23,OPPO Reno8 T 5G,2013-12-1
+1,33,BQ BQ-6051G Soul,2018-6-13
+1,13,Realme 9i 5G,2013-2-20
+1,21,OnePlus Ace Pro,2014-11-21
+1,50,CUBOT J10,2014-1-14
+1,17,Samsung Galaxy A14 5G,2012-10-7
+1,19,Honor Magic4,2011-4-1
+1,19,Honor Magic4,2014-3-1
+1,35,Texet TM-D314,2017-11-26
+1,32,Motorola Edge 30 Neo,2013-4-7
+1,32,Motorola Edge 30 Neo,2016-4-19
+1,39,UMIDIGI Power 7S,2014-9-26
+1,51,Hotwav Cyber 9 Pro,2021-11-20
+1,12,Xiaomi Redmi K40,2015-11-15
+1,17,Samsung Galaxy Note20 Ultra,2011-3-27
+1,32,Motorola Edge 30 Ultra,2020-1-19
+1,18,Tecno Camon 17P,2017-1-25
+1,50,CUBOT Note 8,2023-5-20
+1,24,Vivo Y22,2019-11-20
+1,32,Motorola Edge 30 Ultra,2018-5-14
+1,18,Tecno Spark 8P,2023-3-10
+1,30,ZTE Nubia Z40S Pro,2021-12-15
+1,49,AGM Glory G1 Pro,2022-3-22
+1,39,UMIDIGI F3S,2011-4-24
+1,13,Realme 6 Pro,2014-5-2
+1,17,Samsung Galaxy A04,2023-11-19
+1,25,Sony Xperia 10 Plus,2017-7-16
+1,52,Meizu 20 Pro,2016-2-4
+1,30,ZTE Nubia Red Magic 8 Pro Plus,2012-3-3
+1,12,Xiaomi Mix Fold 2,2021-8-6
+1,30,ZTE Nubia Red Magic 7,2013-1-24
+1,36,Philips Xenium 9@9s,2013-3-14
+1,5,Apple iPhone 11 Pro Max,2013-8-20
+1,0,Asus ROG Phone 7 Ultimate,2023-3-8
+1,21,OnePlus 11,2016-11-7
+1,12,Xiaomi Redmi 11 Prime,2018-4-20
+1,12,Xiaomi Mix Fold 2,2014-3-19
+1,35,Texet TM-301,2015-3-21
+1,13,Realme 9i,2016-9-1
+1,49,AGM Glory G1 SE,2011-7-6
+1,30,ZTE Nubia Z40S Pro,2016-1-22
+1,23,OPPO Reno8 Pro,2011-2-5
+1,25,Sony Xperia 10 II,2022-8-27
+1,21,OnePlus 9R,2023-7-16
+1,26,Doogee V30,2010-5-16
+1,12,Xiaomi Mi 8,2013-1-25
+1,17,Samsung Galaxy A71,2017-6-23
+1,32,Motorola Edge 30 Ultra,2016-12-18
+1,12,Xiaomi 12S Ultra,2014-4-6
+1,12,Xiaomi Redmi 11 Prime 5G,2022-1-18
+1,51,Hotwav W10,2022-10-22
+1,27,Nokia 8000 4G,2022-2-25
+1,13,Realme Q3s,2019-3-23
+1,24,Vivo Y53s,2023-4-24
+1,13,Realme GT Neo2T,2022-5-20
+1,13,Realme GT Neo3T,2012-3-14
+1,51,Hotwav Note 12,2011-1-9
+1,49,AGM A9,2021-4-27
+1,33,BQ BQ-6645L Element,2015-9-12
+1,36,Philips E120,2012-3-22
+1,43,Oscal C80,2010-10-12
+1,27,Nokia G11 Plus,2015-1-5
+1,33,BQ BQ-6022G Aura,2016-12-22
+1,36,Philips E120,2021-11-22
+1,32,Motorola Edge 30 Ultra,2018-2-27
+1,13,Realme GT,2010-1-13
+1,53,Vsmart Joy 4,2017-7-2
+1,1,Huawei Nova 10 SE,2022-5-12
+1,27,Nokia G11 Plus,2022-3-2
+1,34,UleFone Armor 9,2016-2-2
+1,30,ZTE Nubia Z40S Pro,2012-11-19
+1,50,CUBOT X30,2014-10-21
+1,27,Nokia 125,2014-8-12
+1,1,Huawei Nova 10 SE,2011-7-16
+1,21,OnePlus Nord2,2011-9-15
+1,21,OnePlus Nord CE 2 Lite 5G,2012-12-4
+1,33,BQ BQ-5565L Fest,2017-1-27
+1,50,CUBOT P60,2023-1-12
+1,19,Honor Magic4,2017-5-14
+1,39,UMIDIGI Bison 2 Pro,2023-10-10
+1,19,Honor 9 Lite,2014-4-13
+1,19,Honor 6C,2022-3-14
+1,16,Poco M3 Pro 5G,2014-1-19
+1,19,Honor X40 GT,2021-6-26
+1,17,Samsung Galaxy Note20 Ultra,2015-5-24
+1,12,Xiaomi Mi 10T Lite,2018-11-3
+1,1,Huawei Nova Y70 Plus,2023-8-26
+1,54,Uniwa F40,2014-5-15
+1,19,Honor Magic4,2015-2-12
+1,12,Xiaomi Redmi 8A,2010-8-8
+1,51,Hotwav T5 Pro,2019-8-20
+1,50,CUBOT Pocket,2019-6-9
+1,24,Vivo X90 Pro Plus,2022-12-24
+1,17,Samsung Galaxy A8 2018,2022-1-13
+1,17,Samsung Galaxy A34,2010-1-24
+1,13,Realme 8,2016-11-26
+1,12,Xiaomi Redmi 9AT,2023-3-3
+1,12,Xiaomi Redmi K50i,2011-10-10
+1,44,FiGi Note 1,2011-2-16
+1,49,AGM Glory G1,2021-5-20
+1,27,Nokia 125,2015-5-21
+1,12,Xiaomi Redmi 8A Pro,2018-10-17
+1,17,Samsung Galaxy A04,2020-8-17
+1,17,Samsung Galaxy Note10 Plus,2013-6-18
+1,33,BQ BQ-6051G Soul,2014-6-6
+1,27,Nokia 9 PureView,2021-8-17
+1,32,Motorola Edge 30 Neo,2015-1-14
+1,13,Realme 8,2016-12-7
+1,17,Samsung Galaxy A54,2019-8-10
+1,17,Samsung Galaxy A34,2019-8-3
+1,17,Samsung Galaxy A34,2021-12-26
+1,54,Uniwa V909T,2013-10-12
+1,23,OPPO Find X3 Pro,2015-1-7
+1,51,Hotwav Cyber 8,2014-10-25
+1,32,Motorola Moto G32,2022-1-28
+1,39,UMIDIGI Bison X10S,2016-12-11
+1,30,ZTE Axon 30S,2022-1-13
+1,12,Xiaomi Redmi A1 Plus,2014-10-22
+1,34,UleFone Armor X9,2015-7-28
+1,30,ZTE Nubia Red Magic 8 Pro Plus,2022-5-13
+1,13,Realme C30s,2020-3-23
+1,12,Xiaomi Civi 2,2015-4-10
+1,30,ZTE Nubia Red Magic 8 Pro Plus,2020-8-25
+1,19,Honor X9a,2020-7-25
+1,19,Honor Magic4 Ultimate,2020-9-8
+1,36,Philips Xenium E117,2013-8-22
+1,54,Uniwa F50,2015-10-27
+1,19,Honor X10,2016-7-18
+1,17,Samsung Galaxy A04,2019-9-14
+1,3,Lenovo K11,2010-10-5
+1,17,Samsung Galaxy A10 32GB,2023-9-4
+1,55,BLU G52L,2014-12-26
+1,32,Motorola Moto E32s,2010-3-20
+1,17,Samsung Galaxy A12 Nacho,2022-8-11
+1,17,Samsung Galaxy S20 Plus 5G,2016-4-5
+1,30,ZTE Nubia Red Magic 7,2014-2-7
+1,1,Huawei Nova Y70 Plus,2016-2-28
+1,30,ZTE Nubia Red Magic 6s Pro,2015-4-22
+1,33,BQ BQ-5016G Choice,2023-1-1
+1,49,AGM H3,2018-10-8
+1,24,Vivo iQOO Neo 6,2022-11-21
+1,50,CUBOT Max 3,2023-12-14
+1,13,Realme GT,2018-9-7
+1,17,Samsung Galaxy A54,2012-6-22
+1,13,Realme 9,2012-2-2
+1,35,Texet TM-516R,2022-10-7
+1,12,Xiaomi Redmi Note 9T,2019-2-7
+1,13,Realme GT Neo 5,2022-9-19
+1,34,UleFone Armor X7 Pro,2018-9-2
+1,17,Samsung Galaxy A71 5G,2015-8-8
+1,12,Xiaomi Civi,2021-7-17
+1,24,Vivo X80 Pro,2012-4-26
+1,25,Sony Xperia XZ2,2019-6-8
+1,34,UleFone Armor X10,2018-2-16
+1,13,Realme GT Neo 5,2013-5-14
+1,17,Samsung Galaxy A54,2019-3-7
+1,39,UMIDIGI Bison X10G,2017-8-22
+1,3,Lenovo K12,2022-11-4
+1,12,Xiaomi 12S Ultra,2014-11-13
+1,26,Doogee S58 Pro,2017-5-20
+1,13,Realme C30s,2013-2-27
+1,12,Xiaomi 12S Ultra,2014-10-6
+1,26,Doogee S58 Pro,2012-4-7
+1,31,Oukitel K9 Pro,2021-3-12
+1,17,Samsung Galaxy M13 India,2022-11-1
+1,13,Realme 10s,2010-5-11
+1,23,OPPO Find X5 Lite 5G,2023-11-13
+1,35,Texet TM-316,2015-4-1
+1,35,Texet TM-213,2023-3-25
+1,50,CUBOT Note 30,2020-12-14
+1,50,CUBOT Note 30,2017-3-13
+1,12,Xiaomi Mi 4c,2020-5-19
+1,17,Samsung Galaxy Xcover6 Pro,2010-7-16
+1,50,CUBOT KingKong 7,2013-9-3
+1,13,Realme 10s,2022-7-20
+1,13,Realme Narzo 50,2016-5-15
+1,13,Realme C55,2020-2-7
+1,19,Honor X8a,2012-2-16
+1,25,Sony Xperia 10 III,2023-2-27
+1,51,Hotwav Cyber 7,2011-5-23
+1,51,Hotwav Cyber 7,2022-2-3
+1,31,Oukitel K15 Pro,2022-11-18
+1,39,UMIDIGI Bison X10G,2018-8-20
+1,47,Sigma mobile Comfort 50 Grace,2022-5-23
+1,12,Xiaomi Redmi 10X Pro,2020-10-11
+1,34,UleFone Armor X9,2015-11-26
+1,25,Sony Xperia XA2 Plus,2014-2-19
+1,3,Lenovo A5000,2021-10-19
+1,31,Oukitel WP21,2016-5-12
+1,50,CUBOT X50,2019-5-7
+1,13,Realme GT Neo Flash,2017-12-19
+1,52,Meizu M10,2010-9-17
+1,15,Infinix Zero 5G 2023,2022-10-16
+1,13,Realme 7 Pro,2010-7-12
+1,31,Oukitel WP15S,2013-12-17
+1,17,Samsung Galaxy A04,2011-7-16
+1,13,Realme X2 Pro,2016-6-25
+1,13,Realme XT,2023-6-9
+1,17,Samsung Galaxy A10s 32GB,2023-10-18
+1,18,Tecno Spark 10 Pro,2020-11-1
+1,23,OPPO Find N2,2022-9-16
+1,34,UleFone Armor X10 Pro,2013-2-1
+1,21,OnePlus Nord2,2013-9-17
+1,17,Samsung Galaxy A34,2018-2-25
+1,12,Xiaomi Mi 11 Lite 5G,2023-6-22
+1,24,Vivo iQOO 10 Pro,2017-5-16
+1,13,Realme GT Neo 5,2019-9-5
+1,24,Vivo X Fold Plus,2022-3-8
+1,12,Xiaomi Redmi K60,2023-2-26
+1,12,Xiaomi Redmi Note 12 Pro 4G,2018-10-24
+1,18,Tecno Pova 2,2023-5-19
+1,12,Xiaomi Redmi K60,2022-9-23
+1,24,Vivo V21,2010-6-12
+1,30,ZTE Nubia Red Magic 7,2010-10-28
+1,12,Xiaomi Mi 11 Lite,2011-8-7
+1,23,OPPO Find X6 Pro,2023-1-1
+1,34,UleFone Note 13P,2020-9-26
+1,34,UleFone Note 6P,2020-12-25
+1,23,OPPO Reno8 Pro,2022-10-10
+1,17,Samsung Galaxy A90 128GB,2018-8-27
+1,25,Sony Xperia XA2 Dual,2018-3-25
+1,19,Honor V10,2017-6-11
+1,19,Honor 7X,2013-12-4
+1,13,Realme GT,2022-3-7
+1,13,Realme GT,2021-4-21
+1,30,ZTE Nubia Red Magic 6R,2022-10-7
+1,32,Motorola Moto G72,2016-4-1
+1,12,Xiaomi Redmi 12C,2019-6-4
+1,12,Xiaomi Black Shark 5 Pro,2010-10-5
+1,56,Fly FF301,2014-4-21
+1,30,ZTE Nubia Red Magic 8 Pro Plus,2013-12-25
+1,12,Xiaomi Redmi K50i,2016-10-13
+1,21,OnePlus Ace,2016-2-21
+1,26,Doogee S41,2019-9-24
+1,13,Realme 9i,2022-12-19
+1,16,Poco M2 Pro,2020-9-1
+1,19,Honor X40,2012-10-4
+1,16,Poco X2,2014-12-24
+1,1,Huawei Nova 5 Pro,2010-8-18
+1,27,Nokia 8110 4G,2017-7-15
+1,27,Nokia 8110 4G,2014-2-6
+1,24,Vivo iQOO 8 Pro,2023-2-28
+1,13,Realme GT,2010-6-15
+1,19,Honor X40,2015-10-28
+1,24,Vivo Y16,2020-10-22
+1,27,Nokia E90,2010-9-3
+1,18,Tecno Phantom V Fold,2011-8-12
+1,34,UleFone Armor X8i,2011-5-26
+1,24,Vivo iQOO 10 Pro,2018-2-24
+1,17,Samsung Galaxy A20 32GB,2016-8-23
+1,32,Motorola Moto G13,2015-5-7
+1,27,Nokia 3310 2017 Dual Sim,2013-2-6
+1,56,Fly FF242,2010-2-19
+1,23,OPPO Find N2 Flip,2012-10-22
+1,30,ZTE Nubia Red Magic 6R,2019-7-11
+1,26,Doogee S51,2012-11-17
+1,36,Philips 855,2012-7-19
+1,33,BQ BQ-2824 Tank T,2014-10-5
+1,21,OnePlus Ace,2016-9-13
+1,18,Tecno Spark Go 2023,2023-2-17
+1,12,Xiaomi Civi 2,2018-11-19
+1,17,Samsung Galaxy A02s,2015-1-1
+1,17,Samsung Galaxy A04e,2016-1-12
+1,1,Huawei Mate 50 RS Porsche Design,2023-10-13
+1,30,ZTE Nubia Red Magic 8 Pro,2022-9-4
+1,24,Vivo Y16,2016-11-14
+1,13,Realme X3,2022-12-5
+1,24,Vivo X80 Pro,2017-9-24
+1,1,Huawei Enjoy 50z,2018-7-21
+1,21,OnePlus Nord CE 2 Lite 5G,2016-4-23
+1,17,Samsung Galaxy A02s,2013-12-22
+1,18,Tecno Spark 7,2018-7-4
+1,27,Nokia 130,2010-8-13
+1,12,Xiaomi Redmi Note 11R,2012-5-13
+1,12,Xiaomi Redmi Note 11R,2019-10-25
+1,21,OnePlus Nord CE 2 Lite 5G,2016-6-25
+1,24,Vivo X Fold Plus,2010-4-19
+1,19,Honor X6,2014-1-8
+1,19,Honor X8a,2010-3-18
+1,30,ZTE Axon 30S,2018-6-1
+1,18,Tecno Spark 9T,2019-10-25
+1,24,Vivo iQOO 7,2014-1-16
+1,24,Vivo X90 Pro Plus,2014-10-17
+1,30,ZTE Axon 40 Ultra,2020-6-24
+1,17,Samsung Galaxy A50s,2015-7-5
+1,32,Motorola Moto Z4 128GB,2019-4-5
+1,17,Samsung Galaxy A30,2013-9-22
+1,20,Google Pixel 3 XL,2019-7-27
+1,23,OPPO A53,2015-10-2
+1,27,Nokia 6310 2021,2017-8-19
+1,27,Nokia 6310 2021,2019-3-24
+1,12,Xiaomi Mix Fold 2,2021-4-5
+1,30,ZTE Axon 40 Ultra,2020-12-3
+1,15,Infinix Hot 20 Play,2013-5-25
+1,19,Honor X40 GT,2013-4-24
+1,1,Huawei Enjoy 50z,2022-1-16
+1,12,Xiaomi Redmi Note 11R,2022-11-5
+1,13,Realme Q3 Pro,2010-12-24
+1,21,OnePlus 11R,2020-1-10
+1,13,Realme GT Neo,2021-4-15
+1,12,Xiaomi Mi Mix Fold,2015-7-10
+1,18,Tecno Spark Go 2023,2015-4-21
+1,21,OnePlus Nord N300,2017-10-3
+1,12,Xiaomi Redmi K60 Pro,2021-2-14
+1,24,Vivo iQOO 10 Pro,2012-10-21
+1,30,ZTE Nubia Z50,2015-4-28
+1,35,Texet TM-208,2015-1-20
+1,18,Tecno Phantom X2 Pro,2017-8-22
+1,19,Honor X7a,2022-12-19
+1,19,Honor X7a,2023-3-3
+1,12,Xiaomi Redmi K60 Pro,2018-6-10
+1,19,Honor X7a,2023-9-28
+1,30,ZTE Nubia Z50,2012-1-25
+1,27,Nokia Lumia 1520,2021-7-19
+1,27,Nokia Lumia 1020,2013-10-7
+1,1,Huawei Discovery Expedition,2018-9-23
+1,30,ZTE Nubia Red Magic 8 Pro,2012-3-1
+1,34,UleFone Power Armor 18T,2012-6-14
+1,26,Doogee X96 Pro,2019-10-11
+1,13,Realme GT Neo 5,2020-1-5
+1,34,UleFone Power Armor 18T,2012-3-6
+1,12,Xiaomi Civi 2,2020-1-18
+1,12,Xiaomi Redmi Note 12 4G,2021-8-15
+1,18,Tecno Spark 9T,2020-3-4
+1,21,OnePlus Nord N10 5G,2020-7-6
+1,27,Nokia 2780 Flip,2013-10-25
+1,17,Samsung Galaxy A04e,2016-4-23
+1,13,Realme X7 Pro,2022-8-28
+1,39,UMIDIGI F3 SE,2016-7-5
+1,17,Samsung Galaxy M13 India,2017-7-4
+1,12,Xiaomi Redmi K60E,2015-7-26
+1,26,Doogee S68 Pro,2023-12-14
+1,12,Xiaomi Redmi 6 Pro,2020-12-8
+1,32,Motorola Moto G53,2017-8-19
+1,27,Nokia Lumia 1320,2013-6-21
+1,27,Nokia Lumia 920,2018-2-7
+1,27,Nokia E62,2010-6-24
+1,26,Doogee V11,2015-8-24
+1,17,Samsung Galaxy A04e,2019-3-26
+1,17,Samsung Galaxy A04e,2014-12-23
+1,17,Samsung Galaxy A04e,2018-1-25
+1,12,Xiaomi Mi Mix Fold,2015-8-20
+1,24,Vivo V25,2017-2-10
+1,19,Honor X40,2015-1-16
+1,24,Vivo iQOO Z6 Lite,2019-11-18
+1,24,Vivo iQOO Z6 Lite,2016-11-8
+1,13,Realme GT Neo 5 240W,2018-10-20
+1,27,Nokia 2720 Flip,2010-7-23
+1,12,Xiaomi Redmi K60,2016-7-22
+1,23,OPPO Reno9,2018-12-17
+1,27,Nokia 225 4G,2014-11-18
+1,23,OPPO Reno9,2019-8-16
+1,19,Honor Magic4 Lite,2012-9-10
+1,31,Oukitel F150 R2022,2013-11-3
+1,12,Xiaomi Redmi K60,2020-2-24
+1,23,OPPO K5,2012-12-23
+1,24,Vivo X80 Pro,2022-1-3
+1,27,Nokia 4.2,2010-10-3
+1,15,Infinix Zero X Neo,2017-5-24
+1,25,Sony Xperia XZ3,2020-12-25
+1,27,Nokia 4.2,2022-1-21
+1,15,Infinix Zero X Neo,2020-1-13
+1,25,Sony Xperia XZ3,2018-12-19
+1,27,Nokia 8 Sirocco,2017-9-4
+1,39,UMIDIGI Bison GT2 Pro,2019-3-25
+1,25,Sony Xperia M5,2013-12-18
+1,12,Xiaomi Redmi K60,2019-1-4
+1,27,Nokia Lumia 930,2013-2-10
+1,27,Nokia XL Dual Sim,2016-7-23
+1,18,Tecno Spark 7,2019-2-2
+1,12,Xiaomi Redmi K60,2019-3-19
+1,13,Realme GT Neo 5 240W,2021-11-4
+1,24,Vivo Y16,2011-7-18
+1,23,OPPO F21 Pro,2017-9-12
+1,23,OPPO K10X,2018-1-19
+1,32,Motorola Moto G53,2021-9-17
+1,13,Realme Narzo 50,2018-11-16
+1,19,Honor X40,2019-3-16
+1,26,Doogee S41 Pro,2011-10-4
+1,30,ZTE Nubia Z50 Ultra,2019-2-8
+1,24,Vivo iQOO Z5,2013-12-13
+1,19,Honor 80 Pro,2017-7-11
+1,39,UMIDIGI X,2017-8-20
+1,35,Texet TM-B209,2018-9-18
+1,24,Vivo Y76s,2021-6-3
+1,17,Samsung Galaxy M30,2023-8-23
+1,24,Vivo S16,2010-4-5
+1,27,Nokia 106 2018,2015-1-12
+1,27,Nokia 5.1 Plus,2016-6-24
+1,26,Doogee X97 Pro,2019-6-14
+1,26,Doogee X97 Pro,2017-2-4
+1,34,UleFone Power,2018-12-1
+1,17,Samsung Galaxy A12 Nacho,2023-12-7
+1,27,Nokia Lumia 830,2023-1-10
+1,27,Nokia Lumia 735,2013-2-12
+1,32,Motorola Moto G23,2014-12-27
+1,27,Nokia 7650,2018-10-28
+1,19,Honor X40,2022-12-21
+1,18,Tecno Pova,2014-8-16
+1,18,Tecno Camon 16SE,2018-7-7
+1,1,Huawei Pocket S,2023-10-16
+1,27,Nokia G60,2020-4-7
+1,23,OPPO Find X6,2012-11-8
+1,13,Realme GT Neo 5 240W,2013-6-24
+1,29,TCL 408,2021-5-5
+1,29,TCL 408,2013-12-11
+1,57,LAVA Yuva 2 Pro,2016-3-25
+1,24,Vivo iQOO 10,2021-2-11
+1,28,Blackview BV9800,2011-7-21
+1,13,Realme X50 5G,2013-3-18
+1,24,Vivo iQOO 10,2017-11-26
+1,23,OPPO Find X6 Pro,2017-8-19
+1,13,Realme GT Neo 5,2019-1-25
+1,28,Blackview BV9800,2021-5-28
+1,13,Realme X50 5G,2023-9-27
+1,13,Realme 5i,2022-3-20
+1,18,Tecno Spark 4,2022-4-5
+1,34,UleFone Armor 7,2011-8-11
+1,13,Realme GT Neo 5 240W,2022-4-16
+1,12,Xiaomi Redmi K60 Pro,2014-5-12
+1,39,UMIDIGI Bison Pro,2019-12-5
+1,28,Blackview BV9600 Pro,2020-10-27
+1,12,Xiaomi Redmi K60 Pro,2023-12-28
+1,12,Xiaomi Redmi K60 Pro,2011-3-27
+1,24,Vivo iQOO 8,2023-4-3
+1,13,Realme GT Neo 5 240W,2011-3-28
+1,27,Nokia Lumia 730 Dual Sim,2013-12-18
+1,16,Poco C50,2019-7-18
+1,27,Nokia 6760 Slide,2015-9-28
+1,16,Poco C55,2012-5-2
+1,27,Nokia 6760 Slide,2016-11-3
+1,15,Infinix Hot 12 Play,2021-4-14
+1,32,Motorola Razr 2022,2021-1-25
+1,16,Poco C50,2014-6-14
+1,17,Samsung Galaxy A04e,2018-7-26
+1,23,OPPO Find N2 Flip,2022-11-5
+1,24,Vivo S16,2016-7-2
+1,16,Poco C55,2015-11-24
+1,23,OPPO K10X,2017-2-12
+1,23,OPPO A95 5G,2012-3-1
+1,23,OPPO A54,2016-10-18
+1,24,Vivo iQOO 9T,2013-4-14
+1,18,Tecno Spark 7,2015-6-13
+1,24,Vivo V25,2016-12-13
+1,24,Vivo S16e,2023-11-7
+1,13,Realme C21,2023-2-2
+1,1,Huawei Pocket S,2023-8-19
+1,27,Nokia G60,2012-3-26
+1,23,OPPO A15,2017-10-13
+1,30,ZTE Nubia Z50,2010-2-20
+1,27,Nokia G60,2019-8-27
+1,23,OPPO A15,2021-1-27
+1,24,Vivo S16e,2010-8-6
+1,30,ZTE Nubia Z50,2016-3-24
+1,24,Vivo X90,2018-8-6
+1,17,Samsung Galaxy M04,2023-5-19
+1,17,Samsung Galaxy M04,2019-10-13
+1,32,Motorola Moto X40,2019-9-22
+1,19,Honor Magic5 Pro,2022-7-17
+1,23,OPPO A36,2021-10-24
+1,13,Realme Narzo 20 Pro,2022-4-25
+1,24,Vivo iQOO 10,2017-11-1
+1,29,TCL 405,2021-1-8
+1,17,Samsung Galaxy A42,2016-10-6
+1,29,TCL 403,2013-3-17
+1,24,Vivo S16e,2021-2-23
+1,18,Tecno Spark 5 Pro,2012-1-6
+1,19,Honor Magic5 Pro,2023-4-1
+1,23,OPPO A92s,2022-6-8
+1,31,Oukitel F150 R2022,2014-8-12
+1,29,TCL 405,2021-4-19
+1,29,TCL 403,2013-9-26
+1,23,OPPO A92s,2016-5-5
+1,24,Vivo S16e,2023-9-23
+1,31,Oukitel F150 R2022,2013-5-9
+1,28,Blackview BV5900,2014-12-9
+1,24,Vivo Y76s,2013-10-23
+1,17,Samsung Galaxy M20,2016-11-3
+1,21,OnePlus Ace 2V,2011-6-21
+1,27,Nokia 215,2010-5-9
+1,23,OPPO N1,2013-12-28
+1,27,Nokia Asha 210,2020-11-3
+1,27,Nokia E6,2021-12-18
+1,27,Nokia C3-01,2014-8-14
+1,27,Nokia 1800,2016-11-27
+1,27,Nokia 6720 Classic,2017-3-9
+1,27,Nokia E75,2020-3-1
+1,27,Nokia 6700 Classic,2010-12-13
+1,27,Nokia E61,2014-8-5
+1,27,Nokia 3500 Classic,2021-3-15
+1,27,Nokia E61,2016-12-10
+1,27,Nokia 3500 Classic,2023-5-24
+1,27,Nokia 8600 Luna,2021-2-27
+1,17,Samsung Galaxy A04e,2012-4-10
+1,35,Texet TM-425,2014-4-23
+1,21,OnePlus Ace 2,2013-7-4
+1,21,OnePlus 11R,2013-10-5
+1,32,Motorola Moto E13,2019-11-27
+1,24,Vivo iQOO Neo 7,2021-11-5
+1,15,Infinix Hot 20 Play,2011-11-2
+1,15,Infinix Hot 20 Play,2021-4-28
+1,21,OnePlus Ace 2V,2018-9-21
+1,24,Vivo Y73t,2019-3-13
+1,24,Vivo V25,2022-9-27
+1,18,Tecno Spark 7,2019-11-1
+1,15,Infinix Hot 10i G25,2013-3-15
+1,1,Huawei Pocket S,2023-8-12
+1,32,Motorola Moto G13,2018-11-7
+1,32,Motorola Moto G23,2010-1-20
+1,12,Xiaomi Mi 11 Lite,2015-11-20
+1,32,Motorola Moto G23,2011-2-26
+1,32,Motorola Moto G42,2015-6-13
+1,23,OPPO A56s,2013-6-11
+1,30,ZTE Blade V41 Vita,2012-8-4
+1,24,Vivo Y02s,2021-8-15
+1,24,Vivo Y02s,2013-5-12
+1,23,OPPO A77s,2010-8-5
+1,23,OPPO Reno9 Pro,2016-4-19
+1,23,OPPO Reno9,2013-11-9
+1,24,Vivo iQOO 9 Pro,2012-7-22
+1,23,OPPO Reno9,2011-1-21
+1,24,Vivo iQOO 9,2023-4-18
+1,23,OPPO A53s,2015-1-18
+1,24,Vivo X90 Pro,2016-2-5
+1,1,Huawei Y7 Pro 2019,2017-6-17
+1,19,Honor Play 40 Plus,2015-12-11
+1,19,Honor Play 40 Plus,2023-9-27
+1,24,Vivo X90,2015-2-16
+1,19,Honor Play 40 Plus,2020-3-3
+1,23,OPPO A1 Pro,2019-10-28
+1,24,Vivo iQOO 10,2011-10-11
+1,23,OPPO A58,2012-7-13
+1,23,OPPO A58,2019-10-1
+1,32,Motorola Razr 2022,2021-5-16
+1,32,Motorola Moto G13,2015-1-16
+1,33,BQ BQ-1852 One,2014-6-11
+1,12,Xiaomi Mi 8 Explorer,2014-11-13
+1,24,Vivo V27,2018-3-4
+1,21,OnePlus Ace 2V,2017-7-10
+1,32,Motorola Moto G23,2019-12-24
+1,12,Xiaomi Mi 8 Explorer,2013-2-7
+1,35,Texet TM-207,2022-2-15
+1,24,Vivo V27,2015-11-11
+1,21,OnePlus Ace 2V,2014-3-14
+1,26,Doogee S88 Pro,2012-8-23
+1,39,UMIDIGI A7 Pro,2022-5-17
+1,18,Tecno Pop 3,2020-11-15
+1,18,Tecno Spark 9,2016-5-6
+1,34,UleFone Armor X7,2022-6-10
+1,24,Vivo Y15s,2022-12-20
+1,18,Tecno Spark 9,2022-4-6
+1,34,UleFone Armor X7,2013-5-25
+1,24,Vivo Y15s,2017-3-23
+1,27,Nokia 5310 2020 Dual Sim,2018-2-10
+1,28,Blackview A80 Pro,2020-7-3
+1,24,Vivo IQOO Neo 7 SE,2014-6-6
+1,31,Oukitel F150 Air1 Pro,2018-12-5
+1,26,Doogee S95 Pro,2010-2-21
+1,34,UleFone P6000 Plus,2019-8-21
+1,34,UleFone Note 7,2015-11-12
+1,34,UleFone P6000 Plus,2015-9-5
+1,34,UleFone Note 7,2011-11-26
+1,24,Vivo Y73,2020-1-11
+1,39,UMIDIGI A3,2010-5-23
+1,21,OnePlus Ace 2V,2021-6-20
+1,39,UMIDIGI Z2 Pro,2015-3-24
+1,27,Nokia 210,2020-8-23
+1,33,BQ BQ-5206L Balance,2022-5-12
+1,24,Vivo Y76 5G,2020-6-9
+1,33,BQ BQ-5507L Iron Max,2020-5-16
+1,39,UMIDIGI Z2 Pro,2019-3-25
+1,27,Nokia 210,2011-2-8
+1,33,BQ BQ-5206L Balance,2021-10-3
+1,24,Vivo Y76 5G,2015-1-24
+1,33,BQ BQ-5507L Iron Max,2021-1-13
+1,33,BQ BQ-5591 Jeans,2012-2-4
+1,27,Nokia 105 2017,2021-11-19
+1,28,Blackview BV5100,2019-8-2
+1,31,Oukitel C5,2010-1-1
+1,21,OnePlus Ace 2V,2012-12-24
+1,33,BQ BQ-5060 Slim,2015-4-13
+1,24,Vivo V27,2015-1-28
+1,26,Doogee Y6,2011-2-4
+1,27,Nokia 150,2012-8-22
+1,27,Nokia 225,2020-5-15
+1,24,Vivo S16,2011-8-9
+1,27,Nokia 600,2017-6-5
+1,27,Nokia C6-01,2021-1-14
+1,24,Vivo S16e,2015-12-17
+1,27,Nokia 3710 Fold,2014-5-19
+1,24,Vivo V27,2020-1-19
+1,27,Nokia 9500,2019-8-3
+1,23,OPPO A58x,2022-11-14
+1,27,Nokia E50,2021-11-10
+1,24,Vivo S16 Pro,2020-6-4
+1,27,Nokia 2650,2012-8-27
+1,21,OnePlus Ace 2V,2013-1-14
+1,24,Vivo S16e,2017-4-26
+1,24,Vivo S16,2018-12-24
+1,32,Motorola ThinkPhone,2017-9-23
+1,24,Vivo S16 Pro,2021-10-4
+1,24,Vivo iQOO Neo 7,2015-9-14
+1,24,Vivo iQOO Neo 7,2012-2-3
+1,24,Vivo iQOO Neo 7,2016-12-27
+1,52,Meizu 20,2015-9-9
+1,26,Doogee S59,2019-12-6
+1,15,Infinix Hot 10S,2016-9-7
+1,24,Vivo Y73t,2019-11-26
+1,23,OPPO K10X,2023-10-6
+1,24,Vivo iQOO 9T,2023-9-26
+1,24,Vivo iQOO Neo5,2014-11-9
+1,33,BQ BQ-2820 Step XL Plus,2018-10-27
+1,33,BQ BQ-1848 Step Plus,2019-4-26
+1,34,UleFone Note 10P,2023-7-13
+1,28,Blackview A80 Plus,2014-1-3
+1,28,Blackview A80s,2010-5-7
+1,15,Infinix Hot 10 Play,2019-5-22
+1,33,BQ BQ-5047L Like,2022-4-13
+1,33,BQ BQ-6631G Surf,2010-3-6
+1,18,Tecno Spark 6 Go,2013-1-19
+1,18,Tecno Spark 9T India,2021-8-16
+1,32,Motorola Moto G52,2013-8-27
+1,30,ZTE Nubia Z50,2017-8-21
+1,26,Doogee N20 Pro,2021-10-28
+1,30,ZTE Voyage 40 Pro Plus,2011-1-25
+1,23,OPPO Find N2 Flip,2016-7-27
+1,24,Vivo Y02s,2017-1-12
+1,23,OPPO Reno9 Pro,2019-8-15
+1,24,Vivo X90,2020-5-13
+1,23,OPPO A1 Pro,2022-9-26
+1,23,OPPO A1 Pro,2022-1-1
+1,27,Nokia 2.4,2013-5-18
+1,33,BQ BQ-6030G Practic,2017-3-28
+1,23,OPPO A32,2011-2-13
+1,34,UleFone Note 8,2013-1-27
+1,32,Motorola Razr 2022,2015-4-27
+1,24,Vivo iQOO 5 Pro,2011-1-19
+1,31,Oukitel C31 Pro,2016-4-14
+1,39,UMIDIGI A7,2023-4-23
+1,24,Vivo Y1s,2012-9-13
+1,31,Oukitel C31 Pro,2015-3-1
+1,39,UMIDIGI A7,2010-5-2
+1,24,Vivo Y1s,2021-2-13
+1,34,UleFone Note 6,2010-11-18
+1,23,OPPO A56s,2015-1-2
+1,30,ZTE Blade V40 Design,2019-9-13
+1,23,OPPO A78 5G,2019-1-16
+1,32,Motorola Moto G23,2014-5-28
+1,28,Blackview A80,2022-10-2
+1,21,OnePlus 11R,2012-3-20
+1,21,OnePlus 11R,2017-3-3
+1,21,OnePlus Ace 2,2016-11-8
+1,34,UleFone Note 8P,2013-6-7
+1,21,OnePlus Ace 2,2016-5-12
+1,28,Blackview BV9600E,2016-11-21
+1,24,Vivo S16 Pro,2022-4-5
+1,31,Oukitel WP6,2011-12-19
+1,19,Honor Magic4 Lite,2011-6-12
+1,18,Tecno Spark 9,2020-5-19
+1,15,Infinix Note 12i 2022,2016-12-25
+1,34,UleFone Power Armor 18,2018-6-14
+1,24,Vivo Y35 5G,2014-5-23
+1,13,Realme X50m 5G,2022-2-23
+1,24,Vivo IQOO Neo 7 SE,2021-4-11
+1,19,Honor Play 30,2020-2-7
+1,19,Honor Play 30,2014-2-11
+1,34,UleFone Armor 7E,2013-6-14
+1,24,Vivo iQOO 11,2011-8-27
+1,24,Vivo iQOO 11,2020-5-27
+1,24,Vivo iQOO 11,2012-3-22
+1,24,Vivo iQOO 11,2018-3-17
+1,24,Vivo iQOO 11,2010-4-12
+1,24,Vivo iQOO 11,2023-4-28
+1,19,Honor Magic VS,2015-9-4
+1,24,Vivo Y100,2017-7-25
+1,24,Vivo V27,2015-3-15
+1,1,Huawei Nova 10 Youth,2019-10-20
+1,30,ZTE Nubia Z50 Ultra,2021-7-22
+1,12,Xiaomi Redmi A1,2012-11-27
+1,19,Honor 80,2017-5-17
+1,31,Oukitel F150 Air1 Pro,2019-2-4
+1,34,UleFone Armor 3WT,2021-4-14
+1,18,Tecno Pouvoir 3 Air,2010-5-14
+1,24,Vivo iQOO,2010-5-5
+1,27,Nokia 3.1 Plus,2014-4-24
+1,34,UleFone X,2017-5-26
+1,35,Texet TM-D328,2012-7-18
+1,27,Nokia 130 2017,2014-6-21
+1,35,Texet TM-204,2018-6-1
+1,23,OPPO A57,2022-7-5
+1,35,Texet TM-204,2016-7-2
+1,23,OPPO A57,2012-3-4
+1,39,UMIDIGI Bison GT2,2019-10-7
+1,27,Nokia 208,2016-1-25
+1,15,Infinix Hot 10i G25,2022-2-1
+1,27,Nokia 207,2016-6-7
+1,27,Nokia N97 mini,2013-6-26
+1,27,Nokia 6650,2023-2-9
+1,27,Nokia 7310 Supernova,2011-8-20
+1,27,Nokia E61i,2018-3-6
+1,27,Nokia 7310 Supernova,2012-10-16
+1,27,Nokia E61i,2017-9-23
+1,27,Nokia 6267,2015-11-25
+1,27,Nokia 1200,2012-7-27
+1,27,Nokia 5700,2013-1-15
+1,27,Nokia N93i,2023-9-21
+1,27,Nokia 7390,2021-4-2
+1,27,Nokia 8800 Sirocco,2020-6-6
+1,27,Nokia 2310,2023-8-2
+1,27,Nokia N80,2023-6-23
+1,27,Nokia N91,2020-8-9
+1,27,Nokia 6681,2011-4-19
+1,27,Nokia 6822,2014-1-21
+1,27,Nokia 7710,2020-8-14
+1,27,Nokia 3230,2018-8-8
+1,27,Nokia 9300,2019-9-21
+1,27,Nokia 6170,2023-11-19
+1,27,Nokia 7200,2010-9-19
+1,27,Nokia 6820,2022-12-11
+1,27,Nokia 3660,2022-2-19
+1,27,Nokia 9300,2012-10-19
+1,27,Nokia 6170,2023-10-6
+1,27,Nokia 7200,2019-7-20
+1,27,Nokia 6820,2023-3-14
+1,27,Nokia 3660,2019-1-24
+1,27,Nokia 5140,2014-4-16
+1,27,Nokia 7600,2010-4-14
+1,27,Nokia 1100,2011-5-8
+1,27,Nokia 3300,2018-4-16
+1,31,Oukitel C31,2010-4-17
+1,27,Nokia 5210,2019-6-18
+1,27,Nokia C31,2016-11-6
+1,19,Honor Magic5 Pro,2012-2-19
+1,27,Nokia C31,2019-5-3
+1,27,Nokia C31,2013-1-25
+1,39,UMIDIGI Power 5,2017-5-20
+1,24,Vivo Y73t,2020-7-10
+1,34,UleFone Note 10,2018-2-22
+1,33,BQ BQ-2440 Step L Plus,2017-11-27
+1,34,UleFone Power Armor X11 Pro,2010-4-9
+1,39,UMIDIGI A9,2021-9-2
+1,39,UMIDIGI Bison GT,2017-2-17
+1,24,Vivo Y55 5G,2019-6-17
+1,34,UleFone Note 11P,2016-7-26
+1,32,Motorola Moto G22,2017-3-21
+1,18,Tecno Pop 5 LTE,2015-12-1
+1,28,Blackview A55 Pro,2013-12-24
+1,39,UMIDIGI A9 Pro,2023-1-22
+1,34,UleFone Note 14,2015-1-8
+1,34,UleFone Note 14,2015-11-6
+1,34,UleFone Armor X8,2020-9-7
+1,39,UMIDIGI Bison,2014-7-22
+1,30,ZTE Nubia Z50,2016-2-10
+1,30,ZTE Nubia Z50,2018-6-16
+1,18,Tecno Pop 4 Pro,2012-4-11
+1,26,Doogee N30,2017-11-25
+1,35,Texet TM-D326,2019-6-23
+1,24,Vivo Y12s,2022-4-17
+1,32,Motorola Moto X40,2021-6-21
+1,31,Oukitel C22,2011-12-8
+1,24,Vivo X90 Pro,2011-3-21
+1,24,Vivo X90 Pro,2020-10-7
+1,17,Samsung Galaxy A04 Core 32GB,2021-4-5
+1,32,Motorola Moto G82,2023-5-27
+1,18,Tecno Spark 4,2011-6-9
+1,18,Tecno Camon 12,2019-6-8
+1,35,Texet TM-212,2018-6-22
+1,35,Texet TM-B217,2019-6-15
+1,32,Motorola Moto G82,2022-8-18
+1,24,Vivo iQOO 5,2023-11-12
+1,34,UleFone Note 9P,2010-4-18
+1,18,Tecno Spark 5 Pro,2010-8-24
+1,19,Honor Magic 5 Lite,2015-12-26
+1,18,Tecno Pop 7 Pro,2017-1-18
+1,21,OnePlus 11R,2019-12-19
+1,24,Vivo Y70s,2018-6-13
+1,24,Vivo S16 Pro,2021-6-18
+1,34,UleFone Power Armor 19,2014-10-19
+1,24,Vivo Y35 5G,2011-4-11
+1,27,Nokia C12,2012-2-12
+1,24,Vivo IQOO Neo 7 SE,2019-1-14
+1,24,Vivo IQOO Neo 7 SE,2010-4-8
+1,24,Vivo IQOO Neo 7 SE,2023-8-11
+1,16,Poco C50,2021-1-18
+1,32,Motorola Moto G Play (2023),2012-12-24
+1,24,Vivo iQOO 11 Pro,2018-2-25
+1,24,Vivo iQOO 11 Pro,2012-9-9
+1,27,Nokia 5.3,2018-12-15
+1,24,Vivo iQOO 11,2022-1-26
+1,12,Xiaomi Redmi K60E,2010-7-26
+1,39,UMIDIGI Bison X10,2016-1-1
+1,19,Honor 80,2012-4-28
+1,34,UleFone Armor 3W,2015-6-12
+1,27,Nokia 110 2019,2012-11-9
+1,34,UleFone Armor X3,2013-12-3
+1,1,Huawei Nova 10 Youth,2018-1-3
+1,18,Tecno Camon 12 Air,2010-12-23
+1,18,Tecno Pop 2F,2017-6-21
+1,12,Xiaomi Redmi A2,2023-3-28
+1,32,Motorola Edge 40 Pro,2023-2-21
+1,19,Honor Magic5 Pro,2014-7-12
+1,27,Nokia G22,2011-7-10
+1,27,Nokia G22,2022-1-18
+1,37,iiiF150 Air1 Ultra Plus,2016-5-26
+1,24,Vivo iQOO Z7,2011-8-28
+1,13,Realme C33 2023,2023-12-5
+1,29,TCL 40 SE,2022-8-16
+1,12,Xiaomi Redmi A2 Plus,2014-11-20
+1,34,UleFone Note 12P,2022-8-22
+1,27,Nokia 5730 XpressMusic,2011-2-21
+1,27,Nokia 5730 XpressMusic,2014-11-4
+1,39,UMIDIGI A11,2018-2-25
+1,27,Nokia 5630 XpressMusic,2012-10-1
+1,27,Nokia N97,2015-12-21
+1,27,Nokia 8800 Sapphire Arte,2018-5-17
+1,27,Nokia 7500 Prism,2018-10-11
+1,27,Nokia N75,2014-8-3
+1,27,Nokia 6270,2011-1-27
+1,27,Nokia N90,2013-2-11
+1,27,Nokia 6680,2011-8-28
+1,27,Nokia 7270,2021-7-24
+1,27,Nokia N-Gage QD,2023-6-5
+1,27,Nokia 7110,2020-11-13
+1,24,Vivo Y01,2020-1-16
+1,32,Motorola Moto E32 India,2020-3-8
+1,34,UleFone Armor 8 Pro,2010-3-12
+1,23,OPPO A54,2021-10-28
+1,23,OPPO A58,2015-1-27
+1,36,Philips Xenium E109,2020-2-22
+1,30,ZTE Blade V40s,2017-9-5
+1,24,Vivo iQOO 11 Pro,2019-1-19
+1,19,Honor Magic VS Ultimate,2015-10-17
+1,1,Huawei P60,2018-3-23
+1,19,Honor 80 GT,2012-7-17
+1,19,Honor 80 SE,2016-2-13
+1,19,Honor 80 SE,2019-12-2
+1,28,Blackview A53 Pro,2018-2-8
+1,30,ZTE Nubia Z50 Ultra,2015-11-28
+1,30,ZTE Nubia Z50 Ultra,2016-10-15
+1,19,Honor Magic5 Ultimate,2011-5-4
+1,32,Motorola Edge 40 Pro,2022-11-10
+1,17,Samsung Galaxy M54,2016-7-11
+1,1,Huawei Enjoy 60,2020-10-19
+1,17,Samsung Galaxy A24,2010-10-26
+1,27,Nokia C32,2022-9-24
+1,27,Nokia C32,2017-10-12
+1,17,Samsung Galaxy A24,2013-8-25
+1,27,Nokia C22,2018-8-14
+1,27,Nokia C22,2014-2-16
+1,26,Doogee S100,2023-2-26
+1,1,Huawei Mate X3,2010-7-9
+1,1,Huawei Mate X3,2010-5-6
+1,1,Huawei P60,2010-7-14
+1,1,Huawei Enjoy 60,2016-2-24
+1,17,Samsung Galaxy M54,2012-2-23
+1,49,AGM G2,2014-12-11
+1,24,Vivo X Flip,2013-9-4
+1,24,Vivo Y78 Plus,2014-5-27
+1,34,UleFone Armor 20WT,2022-5-5
+1,17,Samsung Galaxy A24,2016-9-4
+1,19,Honor 80 Pro,2016-11-8
+1,19,Honor Magic5 Pro,2021-9-16
+1,16,Poco C55,2012-10-19
+1,26,Doogee S100 Pro,2010-7-14
+1,23,OPPO A1,2017-5-2
+1,13,Realme GT Neo5 SE,2012-9-5
+1,12,Xiaomi Redmi A2 Plus,2019-4-27
+1,17,Samsung Galaxy F14,2020-7-8
+1,1,Huawei P60 Art,2019-10-18
+1,1,Huawei P60 Art,2020-6-2
+1,12,Xiaomi Redmi A2 Plus,2018-3-20
+1,17,Samsung Galaxy F14,2011-10-13
+1,1,Huawei P60 Art,2023-1-17
+1,1,Huawei P60 Art,2022-3-21
+1,1,Huawei P60,2019-8-14
+1,12,Xiaomi Redmi Note 12 Turbo,2012-12-25
+1,13,Realme C33 2023,2017-11-11
+1,17,Samsung Galaxy F14,2012-6-11
+1,17,Samsung Galaxy F14,2023-6-3
+1,17,Samsung Galaxy A24,2012-3-13
+1,17,Samsung Galaxy F14,2016-10-4
+1,17,Samsung Galaxy A24,2023-8-21
+1,15,Infinix Hot 12,2016-12-3
+1,31,Oukitel WP22,2010-8-20
+1,27,Nokia 8210 4G,2012-5-17
+1,27,Nokia 2660 Flip,2017-2-2
+1,17,Samsung Galaxy F54,2019-4-10
+1,24,Vivo X Flip,2012-11-24
+1,24,Vivo Y78 Plus,2022-6-7
+1,24,Vivo X Fold2,2019-8-24
+1,17,Samsung Galaxy F54,2020-3-28
+1,24,Vivo X Flip,2023-12-27
+1,24,Vivo Y78 Plus,2015-8-12
+1,24,Vivo X Fold2,2022-12-17
+1,24,Vivo X Fold2,2014-3-19
+1,24,Vivo V27 Pro,2018-1-11
+1,24,Vivo V27 Pro,2021-1-21
+1,24,Vivo V27 Pro,2012-1-28
+1,15,Infinix Smart 7 India,2020-5-7
+1,29,TCL 40 XE,2019-7-27
+1,29,TCL 40 XL,2023-3-26
+1,29,TCL 40 X,2015-3-16
+1,24,Vivo Y56 5G,2019-7-18
+1,24,Vivo Y56 5G,2021-2-10
+1,16,Poco C3,2011-3-3
+1,23,OPPO Find X6,2016-6-25
+1,16,Poco C51,2023-2-11
+1,16,Poco C51,2020-7-13
+1,23,OPPO Find X6,2014-7-28
+1,1,Huawei P60,2020-1-10
+1,1,Huawei Enjoy 60,2021-8-21
+1,24,Vivo iQOO Z7 China,2019-1-6
+1,24,Vivo iQOO Z7 China,2014-3-4
+1,24,Vivo iQOO Z7 China,2012-4-10
+1,35,Texet TM-D421,2022-4-2
+1,42,Itel Power 900 CX01,2021-5-1
+1,30,ZTE Nubia Red Magic 6 Pro,2022-2-27
+1,30,ZTE Nubia Red Magic 6,2017-5-12
+1,42,Itel IT2163,2011-2-17
+1,12,Xiaomi Mi 11 Lite 5G,2016-1-8
+1,49,AGM G2 Guardian,2015-12-9
+1,24,Vivo Y78 Plus,2011-5-2
+1,41,Wiko 10,2014-12-21
+1,27,Nokia 105 4G,2020-6-9
+1,13,Realme Narzo 55,2018-4-20
+1,13,Realme Narzo 55,2013-2-15
+1,41,Wiko 10,2018-6-15
+1,27,Nokia N-Gage,2017-3-24
+1,27,Nokia 6630,2020-3-7
+1,27,Nokia 3650,2015-9-14
+2,5,Apple AirPods 3,2021-4-23
+2,5,Apple AirPods Pro 2nd generation,2013-4-23
+2,5,Apple AirPods Pro,2012-8-23
+2,5,Apple AirPods Pro MagSafe,2015-4-12
+2,58,Logitech G435,2022-9-18
+2,12,Xiaomi Redmi Buds 4 Pro,2020-1-24
+2,12,Xiaomi Buds 3,2021-2-15
+2,59,HyperX CloudX,2017-11-11
+2,12,Xiaomi Redmi Buds 3 Lite,2017-4-28
+2,60,JBL Tune 130NC,2015-6-14
+2,5,Apple AirPods 2 with Charging Case,2022-9-1
+2,60,JBL Tune 510BT,2010-6-3
+2,7,Razer BlackShark V2,2022-3-21
+2,21,OnePlus Buds Pro 2,2013-11-26
+2,17,Samsung Galaxy Buds2,2012-9-15
+2,5,Apple AirPods Max,2014-4-19
+2,12,Xiaomi Redmi Buds 3,2014-6-11
+2,17,Samsung Galaxy Buds2 Pro,2011-12-7
+2,60,JBL Tune 500BT,2020-7-21
+2,12,Xiaomi Buds 3T Pro,2022-9-8
+2,13,Realme Buds Air 3,2022-3-2
+2,61,Hoco S21,2019-12-19
+2,62,Crown CMH-209T,2022-4-27
+2,58,Logitech G733,2019-9-21
+2,12,Xiaomi True Wireless Earphones 2 Pro,2021-6-27
+2,59,HyperX Cloud Alpha S,2020-9-16
+2,12,Xiaomi Redmi Buds 4,2010-6-2
+2,60,JBL T110,2019-8-5
+2,7,Razer Kaira X for Xbox,2018-7-12
+2,59,HyperX Cloud Flight,2017-7-5
+2,19,Honor Choice TWS,2012-9-20
+2,1,Huawei FreeBuds Pro 2,2014-7-24
+2,13,Realme Buds T100,2015-7-4
+2,60,JBL Tune 230NC,2013-2-24
+2,60,JBL Live Pro+,2017-12-16
+2,1,Huawei FreeBuds Pro,2017-6-13
+2,12,Xiaomi Redmi Buds 3 Pro,2016-3-23
+2,1,Huawei FreeBuds 4,2014-3-23
+2,17,Samsung Galaxy Buds Live,2022-1-6
+2,60,JBL Tune 225TWS,2016-3-1
+2,63,Defender FreeMotion B565,2020-4-8
+2,19,Honor Choice Earbuds X,2020-8-18
+2,64,Ritmix RH-888BTH,2012-6-12
+2,25,Sony WH-1000XM5,2016-5-28
+2,60,JBL Tune 710BT,2021-5-20
+2,7,Razer Opus X,2015-1-19
+2,7,Razer Kraken X Lite,2014-6-7
+2,25,Sony WH-1000XM4,2015-10-25
+2,65,A4Tech Bloody MR710,2020-8-15
+2,17,Samsung Galaxy Buds+,2016-12-9
+2,25,Sony WF-1000XM4,2014-2-18
+2,1,Huawei FreeBuds SE,2019-5-8
+2,60,JBL Live Free NC+,2013-8-24
+2,3,Lenovo HQ08,2012-5-19
+2,58,Logitech G Pro X,2015-8-24
+2,21,OnePlus Buds Pro,2012-8-4
+2,7,Razer Barracuda X,2011-10-28
+2,7,Razer Blackshark V2 X,2021-12-19
+2,5,Apple EarPods with Remote and Mic,2022-8-5
+2,63,Defender Pulse 427,2012-8-5
+2,63,Defender Pulse 427,2011-6-1
+2,12,Xiaomi Mi True Wireless Earphones 2 Basic,2018-3-19
+2,59,HyperX Cloud Alpha,2017-8-11
+2,1,Huawei FreeBuds 4i,2011-11-15
+2,7,Razer Kraken X,2014-5-22
+2,13,Realme Buds Air 3 Neo,2013-11-3
+2,61,Hoco W25,2019-6-14
+2,60,JBL Wave 200TWS,2023-1-14
+2,66,BASEUS Bowie M2,2021-5-6
+2,65,A4Tech Bloody M70,2017-4-1
+2,67,Edifier W820NB,2022-5-11
+2,68,QCY HT05,2020-6-10
+2,58,Logitech G335,2022-7-21
+2,63,Defender Aura 102,2016-7-6
+2,63,Defender Gryphon 750,2023-6-12
+2,69,AccesStyle Denim,2013-6-27
+2,65,A4Tech Bloody G521,2018-1-19
+2,3,Lenovo HT38,2011-2-17
+2,70,Denon AH-D9200,2014-7-4
+2,25,Sony WH-CH510,2010-2-22
+2,25,Sony WH-CH510,2012-7-23
+2,17,Samsung Galaxy Buds Pro,2017-4-6
+2,71,ANKER SoundCore Life Note 3,2010-4-24
+2,13,Realme Buds Air 3S,2010-5-25
+2,72,Pioneer SE-E8TW,2018-9-15
+2,0,Asus ROG Fusion II 300,2011-9-18
+2,63,Defender Pulse 428,2014-11-23
+2,59,HyperX Cloud II Wireless,2022-12-28
+2,58,Logitech G332,2021-10-17
+2,25,Sony WH-XB910N,2016-4-19
+2,25,Sony MDR-XB55AP,2016-12-1
+2,73,Tronsmart Sparkle,2018-1-24
+2,74,Koss SB42,2018-1-15
+2,60,JBL Wave 300TWS,2021-4-15
+2,75,Audio-Technica ATH-M50x,2012-8-10
+2,60,JBL Tune 125TWS,2015-11-28
+2,68,QCY T13,2020-3-14
+2,25,Sony WF-C500,2021-4-20
+2,19,Honor Earbuds X2,2017-11-17
+2,1,Huawei FreeBuds 3i,2019-3-19
+2,76,Beyerdynamic DT 770 PRO 250 Ohm,2012-3-8
+2,1,Huawei FreeBuds 3i,2018-4-4
+2,7,Razer Kraken V3 Pro,2022-6-23
+2,77,Westone Pro X20,2016-9-8
+2,75,Audio-Technica ATH-SQ1TW,2019-7-12
+2,76,Beyerdynamic DT 770 PRO 80 Ohm,2010-1-12
+2,73,Tronsmart Apollo Q10,2014-5-17
+2,67,Edifier W800BT Plus,2014-10-25
+2,78,SteelSeries Arctis 1,2020-4-18
+2,59,HyperX Cloud II,2021-3-27
+2,79,Marshall Major IV,2019-4-26
+2,61,Hoco M40,2014-1-15
+2,73,Tronsmart Apollo Q10,2022-7-28
+2,76,Beyerdynamic DT 770 PRO 32 Ohm,2013-10-10
+2,80,Audeze LCD-2,2018-9-11
+2,65,A4Tech Bloody G570,2012-1-18
+2,79,Marshall Mode II,2011-11-24
+2,25,Sony WI-XB400,2017-6-9
+2,7,Razer Kaira Pro for Xbox,2021-3-13
+2,64,Ritmix RH-802BTH,2020-5-5
+2,64,Ritmix RH-802BTH,2019-9-3
+2,7,Razer Kaira Pro for Xbox,2017-8-2
+2,73,Tronsmart Battle,2010-3-13
+2,81,Urbanista Lisbon,2011-3-28
+2,82,Haylou W1,2020-10-21
+2,7,Razer Kaira for Xbox,2010-4-13
+2,36,Philips TAUH202,2012-12-23
+2,5,Apple EarPods with Lightning Connector,2013-3-28
+2,69,AccesStyle Indigo,2021-8-25
+2,64,Ritmix RH-512M,2011-11-4
+2,25,Sony WI-C310,2021-6-5
+2,83,Gravastar Sirius Pro,2018-2-18
+2,17,Samsung EO-IC100,2019-10-10
+2,65,A4Tech Bloody M30,2017-1-21
+2,58,Logitech G535 Lightspeed,2022-6-17
+2,84,Sennheiser Adapt 130T II USB-C,2020-5-21
+2,85,1More ComfoBuds Pro,2019-11-10
+2,63,Defender Warhead G-160,2021-4-13
+2,86,Yamaha TW-E3B,2015-3-9
+2,63,Defender Warhead G-160,2012-1-21
+2,86,Yamaha TW-E3B,2020-10-14
+2,87,Redragon Siren 2,2015-5-16
+2,88,Thermaltake Riing Pro,2019-9-20
+2,13,Realme Buds Air 2 Neo,2011-4-23
+2,2,Acer Nitro Headset,2022-11-15
+2,89,Stax SR-009,2021-6-13
+2,21,OnePlus Buds Z2,2018-7-6
+2,65,A4Tech Bloody G220S,2013-9-17
+2,90,Mpow T6,2012-2-10
+2,65,A4Tech Bloody M90,2022-6-6
+2,90,Mpow T6,2023-12-14
+2,91,Skullcandy Indy Evo,2015-9-11
+2,3,Lenovo HT18,2019-8-24
+2,21,OnePlus Buds,2011-2-16
+2,60,JBL Wave 100TWS,2016-9-6
+2,64,Ritmix RH-885BTH,2017-6-12
+2,7,Razer Blackshark V2 Pro,2021-9-19
+2,90,Mpow EG10,2017-2-14
+2,67,Edifier W600BT,2019-1-12
+2,67,Edifier W600BT,2016-6-16
+2,36,Philips TAT2236,2022-9-18
+2,92,Beats Powerbeats Pro,2021-6-18
+2,12,Xiaomi Redmi AirDots 3,2018-6-9
+2,93,Sven AP-G1000MV,2023-9-18
+2,76,Beyerdynamic DT 990 250 Ohm,2022-9-21
+2,66,BASEUS Bowie H1,2023-4-23
+2,85,1More ColorBuds,2014-6-1
+2,0,Asus ROG Delta S,2021-3-2
+2,59,HyperX Cloud Chat,2020-6-13
+2,59,HyperX Cloud Chat,2013-9-15
+2,13,Realme Air Buds 2,2021-2-19
+2,3,Lenovo HT05,2021-12-11
+2,20,Google Pixel Buds Pro,2018-1-23
+2,58,Logitech G432,2021-10-5
+2,92,Beats Studio Buds,2011-11-27
+2,85,1More Quad Driver,2011-12-21
+2,87,Redragon Scylla,2020-8-27
+2,94,Jabra Elite 3,2013-10-9
+2,68,QCY T16,2013-2-21
+2,22,Nothing Ear (stick),2012-5-8
+2,95,PreSonus HD7,2010-11-28
+2,68,QCY T16,2015-4-17
+2,80,Audeze EUCLID,2020-10-7
+2,60,JBL Quantum 50,2020-5-15
+2,96,Creative Sound BlasterX H6,2013-8-24
+2,66,BASEUS Bowie E8,2022-4-21
+2,61,Hoco W28,2010-6-22
+2,97,Behringer BH480NC,2023-8-17
+2,17,Samsung Galaxy Buds,2010-4-21
+2,66,BASEUS Simu S2,2010-2-19
+2,96,Creative Sound BlasterX H6,2020-2-26
+2,93,Sven AP-U840MV,2019-6-2
+2,85,1More AirFree,2012-5-2
+2,85,1More Piston Fit,2023-5-12
+2,92,Beats Studio 3 Wireless,2020-8-15
+2,66,BASEUS Bowie E9,2022-6-28
+2,0,Asus ROG Cetra II Core,2022-12-21
+2,68,QCY T11,2012-9-6
+2,76,Beyerdynamic DT 990 PRO,2017-4-10
+2,65,A4Tech Bloody G575 Punk,2015-7-15
+2,96,Creative Sound Blaster Jam V2,2010-6-5
+2,63,Defender Basic 609,2020-2-15
+2,98,Kinera Odin,2016-7-9
+2,66,BASEUS Simu S1,2018-11-5
+2,36,Philips SHP9600,2022-4-12
+2,99,Ugreen HiTune X5,2015-11-14
+2,63,Defender Warhead G-120,2014-5-4
+2,67,Edifier X6,2023-4-6
+2,100,Gembird MHS-G100,2019-9-2
+2,100,Gembird MHS-G100,2012-5-6
+2,66,BASEUS Encok WM01,2017-11-19
+2,60,JBL Quantum 100,2022-2-15
+2,101,Bose Sport Earbuds,2010-2-6
+2,66,BASEUS Encok W05,2022-4-4
+2,102,ELARI EarDrops,2020-11-1
+2,69,AccesStyle Tangerine,2011-5-13
+2,84,Sennheiser CX Plus,2010-7-5
+2,102,ELARI NanoPods,2014-9-7
+2,82,Haylou GT5,2022-12-5
+2,82,Haylou GT5,2016-2-5
+2,58,Logitech H150,2016-10-1
+2,103,SOUL S-Nano,2011-9-13
+2,67,Edifier TWS NB2 Pro,2015-5-10
+2,103,SOUL S-Gear,2018-11-1
+2,84,Sennheiser Momentum True Wireless 2,2014-4-23
+2,61,Hoco W102,2019-4-1
+2,25,Sony WF-XB700,2019-2-25
+2,75,Audio-Technica ATH-M40x,2015-2-16
+2,75,Audio-Technica ATH-M40x,2010-11-13
+2,63,Defender Pulse 420,2010-5-15
+2,1,Huawei FreeBuds,2016-5-26
+2,104,FiiO FDX,2010-11-5
+2,93,Sven AP-G858MV,2016-2-6
+2,100,Gembird MHS-G30,2015-4-22
+2,88,Thermaltake Tt eSports Isurus,2022-11-13
+2,67,Edifier GT4,2023-10-4
+2,68,QCY T18,2017-9-16
+2,104,FiiO FA9,2023-5-2
+2,68,QCY T18,2021-1-5
+2,91,Skullcandy Jib+ Active Wireless,2021-5-21
+2,104,FiiO FA9,2019-11-23
+2,65,A4Tech HS-28,2013-2-14
+2,65,A4Tech HS-30,2015-3-7
+2,60,JBL Tune 660NC,2010-8-3
+2,105,Hiper TWS Pull,2013-1-28
+2,96,Creative Sound Blaster Blaze,2023-6-14
+2,104,FiiO FD1,2023-9-12
+2,64,Ritmix RH-870BTH TWS,2019-9-3
+2,102,ELARI BeatBand,2013-5-17
+2,60,JBL Tune 660NC,2021-6-14
+2,104,FiiO FH3,2010-5-28
+2,64,Ritmix RH-870BTH TWS,2014-8-10
+2,96,Creative Sound Blaster Blaze,2019-6-5
+2,7,Razer Kraken V3,2017-11-14
+2,46,LG TONE Free FN7,2012-5-6
+2,104,FiiO FD1,2023-10-2
+2,83,Gravastar Sirius,2012-6-17
+2,58,Logitech G635,2017-6-24
+2,106,WiWU Airbuds Pro,2016-5-22
+2,12,Xiaomi Piston Fresh Bloom,2017-11-13
+2,68,QCY G1,2013-12-10
+2,82,Haylou GT7,2021-11-2
+2,62,Crown CMGH-20,2018-3-19
+2,0,Asus ROG Strix Go 2.4,2020-4-9
+2,93,Sven AP-G300MV,2016-1-4
+2,84,Sennheiser HD 206,2015-9-19
+2,90,Mpow X3 ANC,2016-12-14
+2,107,Axelvox HD271,2015-8-7
+2,93,Sven AP-G300MV,2023-5-14
+2,107,Axelvox HD271,2017-9-14
+2,96,Creative SXFI Gamer,2019-1-24
+2,108,HARPER HB-518,2022-12-12
+2,75,Audio-Technica ATH-WP900,2019-3-10
+2,90,Mpow X3 ANC,2018-11-17
+2,109,Shanling MTW200,2016-5-26
+2,104,FiiO FD3,2018-5-16
+2,92,Beats Solo3 Wireless,2023-10-9
+2,84,Sennheiser Momentum,2013-11-13
+2,92,Beats Solo3 Wireless,2017-1-16
+2,84,Sennheiser Momentum,2010-9-19
+2,93,Sven AP-B545MV,2012-12-17
+2,88,Thermaltake Argent H5,2014-10-10
+2,84,Sennheiser HD 560S,2013-12-5
+2,110,Audix A145,2016-11-12
+2,104,FiiO FD5,2011-11-23
+2,68,QCY T17,2011-12-15
+2,101,Bose QuietComfort Earbuds,2022-1-12
+2,46,LG TONE Free FN4,2019-10-8
+2,111,JVC HA-KD9BT,2019-2-2
+2,84,Sennheiser HD 560S,2015-5-3
+2,62,Crown CME-253,2016-6-1
+2,62,Crown CME-252,2022-12-9
+2,4,HP G2,2015-9-8
+2,112,A-Data EMIX H20,2016-7-5
+2,1,Huawei FreeBuds 2 Pro,2013-1-11
+2,82,Haylou GT1 Pro,2018-3-21
+2,36,Philips TAUE100,2022-2-25
+2,61,Hoco ES56,2013-3-16
+2,36,Philips TAUE100,2016-9-17
+2,61,Hoco ES56,2023-4-11
+2,107,Axelvox HD242,2017-9-4
+2,113,Mackie MC-450,2021-1-14
+2,76,Beyerdynamic DT 240 Pro,2015-6-12
+2,85,1More Stylish Dual Dynamic,2010-5-21
+2,0,Asus TUF Gaming H3,2021-7-12
+2,1,Huawei FreeBuds 2 Pro,2010-12-5
+2,13,Realme Buds Air Pro,2012-6-4
+2,78,SteelSeries Arctis Pro + GameDAC,2012-7-3
+2,36,Philips TAUE100,2023-6-24
+2,60,JBL Live 660NC,2010-7-2
+2,67,Edifier X3s,2013-6-24
+2,114,Epos GTW 270,2010-9-15
+2,3,Lenovo HD200,2014-2-26
+2,104,FiiO JH3,2012-1-15
+2,76,Beyerdynamic DT 880 PRO,2018-11-18
+2,12,Xiaomi Mi Air 2 Pro,2017-4-19
+2,64,Ritmix RH-566M,2013-11-19
+2,91,Skullcandy Dime,2013-3-27
+2,91,Skullcandy Dime,2010-2-14
+2,114,Epos GTW 270,2018-8-28
+2,12,Xiaomi Mi Air 2 Pro,2018-3-7
+2,7,Razer Kraken V3 HyperSense,2021-5-2
+2,109,Shanling Myryad Music 1,2017-9-10
+2,87,Redragon Minos,2017-12-25
+2,59,HyperX Cloud Stinger S,2013-10-21
+2,70,Denon AH-D7200,2016-6-26
+2,115,Nobby Practic T-101,2012-4-23
+2,116,Geozon Space,2021-4-14
+2,59,HyperX Cloud Stinger Core,2014-5-27
+2,116,Geozon Space,2011-4-11
+2,117,Panasonic RP-HJE118,2011-1-27
+2,61,Hoco ES60,2019-10-8
+2,70,Denon AH-D7200,2018-11-15
+2,116,Geozon Cube,2022-10-14
+2,65,A4Tech Bloody G200S,2016-5-9
+2,108,HARPER HV-107,2010-5-2
+2,40,OLMIO TWE-10,2022-12-16
+2,115,Nobby Practic T-101,2017-6-12
+2,108,HARPER HV-107,2018-7-28
+2,116,Geozon Space,2017-1-14
+2,116,Geozon Cube,2022-6-10
+2,65,A4Tech Bloody G200S,2018-1-14
+2,1,Huawei AM115,2020-2-8
+2,113,Mackie CR-Buds+,2016-6-12
+2,30,ZTE LiveBuds,2023-4-3
+2,74,Koss CS-295 USB,2010-5-9
+2,108,HARPER HB-513,2022-4-15
+2,105,Hiper TWS Samun,2015-6-13
+2,105,Hiper TWS Samun,2023-8-18
+2,111,JVC HA-FW01,2011-4-7
+2,74,Koss CS-295 USB,2015-3-23
+2,7,Razer Kraken V3 X,2016-7-13
+2,111,JVC HA-FD02,2020-6-21
+2,118,Yealink WH62 Mono UC,2020-4-5
+2,75,Audio-Technica ATH-M50xBT2,2010-1-5
+2,119,Genius HS-04SU,2017-2-3
+2,108,HARPER HV-106,2015-10-15
+2,91,Skullcandy Riff Wireless,2019-2-21
+2,108,HARPER HB-513,2022-9-17
+2,118,Yealink WH62 Mono UC,2021-10-18
+2,78,SteelSeries Arctis 3 2019 Edition,2023-11-24
+2,60,JBL Tune 215BT,2012-8-22
+2,93,Sven AP-U996MV,2021-6-23
+2,100,Gembird MHS-G50,2010-5-2
+2,85,1More Triple Driver,2017-5-28
+2,116,Geozon Tube,2019-7-9
+2,120,Klipsch T5 II True Wireless Sport,2020-1-12
+2,121,SOUNDPEATS TrueAir,2012-5-21
+2,105,Hiper TWS Elit,2020-1-15
+2,121,SOUNDPEATS TrueAir,2020-6-3
+2,122,Digma TWS-10,2018-2-9
+2,110,Audix A140,2022-4-25
+2,91,Skullcandy Indy,2017-9-23
+2,68,QCY T5,2013-9-16
+2,123,Borofone BO4,2019-3-1
+2,124,Canyon EPM-01,2012-10-12
+2,74,Koss TWS150i,2022-11-9
+2,117,Panasonic RP-HS34E,2017-10-23
+2,120,Klipsch T5 II True Wireless Sport,2022-7-6
+2,67,Edifier G2 II,2023-11-19
+2,117,Panasonic RP-HS34E,2014-6-9
+2,67,Edifier G2,2015-4-28
+2,74,Koss UR40,2011-7-17
+2,76,Beyerdynamic DT 250 250 Ohm,2017-1-21
+2,68,QCY T5,2014-3-21
+2,124,Canyon EPM-01,2010-12-9
+2,36,Philips Fidelio X3,2016-2-21
+2,100,Gembird MHS-G10,2020-5-14
+2,111,JVC HA-FW02,2017-11-17
+2,6,MSI Immerse GH50,2018-9-26
+2,13,Realme Buds 2,2010-10-9
+2,121,SOUNDPEATS MAC,2021-3-7
+2,100,Gembird MHS-G10,2013-3-26
+2,84,Sennheiser HD 350BT,2020-6-16
+2,85,1More PistonBuds TWS,2013-8-14
+2,0,Asus ROG Strix Go Core,2015-5-11
+2,125,HIDIZS MS4,2011-12-21
+2,116,Geozon Wave,2012-6-5
+2,117,Panasonic RZ-S300WGE,2018-4-17
+2,36,Philips Fidelio X3,2015-12-1
+2,0,Asus ROG Strix Go Core,2022-5-9
+2,111,JVC HA-FW02,2019-3-21
+2,85,1More PistonBuds TWS,2013-5-5
+2,126,Maono AU-MH601,2014-11-1
+2,9,Microsoft LifeChat LX-3000,2019-9-16
+2,64,Ritmix RH-555M,2010-4-11
+2,84,Sennheiser HD 350BT,2018-1-22
+2,63,Defender HN-101,2012-4-18
+2,95,PreSonus HD10BT,2012-10-11
+2,127,Takstar Shade,2017-4-10
+2,25,Sony WH-H910N,2015-12-22
+2,100,Gembird MHS-901,2012-4-17
+2,76,Beyerdynamic DT 900 Pro X,2013-4-23
+2,119,Genius HS-400A,2012-10-10
+2,28,Blackview AirBuds 1,2011-10-18
+2,36,Philips TAT3216,2018-12-13
+2,6,MSI Immerse GH30,2023-12-22
+2,7,Razer Hammerhead,2018-4-2
+2,128,Oklick HS-L550G,2021-9-11
+2,129,Rombica MySound BH-11,2010-11-3
+2,95,PreSonus HD10BT,2014-3-12
+2,100,Gembird MHS-901,2020-2-16
+2,75,Audio-Technica ATH-M30x,2014-6-28
+2,7,Razer Kraken Kitty Edition,2017-2-12
+2,17,Samsung EO-IA500,2014-11-17
+2,130,Monster Clarity 510 AirLinks,2012-4-1
+2,25,Sony Pulse 3D,2023-1-16
+2,61,Hoco ES53,2015-3-25
+2,25,Sony Pulse 3D,2013-2-26
+2,61,Hoco ES53,2012-10-3
+2,127,Takstar Flit,2013-8-27
+2,60,JBL Live 300TWS,2023-6-10
+2,131,Accutone UB610,2012-7-10
+2,121,SOUNDPEATS TrueFree+,2014-6-12
+2,121,SOUNDPEATS Sonic,2013-1-12
+2,60,JBL Tune 215TWS,2020-10-2
+2,82,Haylou GT1,2021-4-9
+2,78,SteelSeries Arctis Prime,2018-2-27
+2,113,Mackie MC-250,2010-8-20
+2,91,Skullcandy Indy Fuel,2013-9-2
+2,97,Behringer HPX2000,2012-9-14
+2,100,Gembird BHS-100,2022-2-3
+2,13,Realme Buds Q,2020-2-15
+2,132,Superlux HD688,2015-7-23
+2,133,SIMGOT MTW5,2011-9-12
+2,68,QCY HT03,2010-10-11
+2,60,JBL Live 300TWS,2023-4-19
+2,82,Haylou GT1,2016-9-7
+2,133,SIMGOT MTW5,2023-9-24
+2,129,Rombica MySound Free,2023-7-23
+2,7,Razer BlackShark V2 X USB,2014-8-5
+2,108,HARPER Kids HK-39,2020-12-28
+2,134,VT VT9500 BT,2010-7-27
+2,6,MSI Immerse GH20,2022-1-4
+2,60,JBL Tune 215TWS,2014-2-20
+2,105,Hiper Cross,2021-6-8
+2,135,Hyundai H-EP200,2010-11-15
+2,127,Takstar TS 450M,2020-9-21
+2,121,SOUNDPEATS TrueFree2,2018-6-10
+2,36,Philips TAT1215,2012-11-6
+2,25,Sony MDR-EX155AP,2017-8-25
+2,64,Ritmix RH-886BTH,2012-8-7
+2,111,JVC HA-FD01,2014-10-2
+2,119,Genius HS-02B,2014-7-7
+2,135,Hyundai H-EP200,2016-10-12
+2,100,Gembird MHS-G220,2019-11-12
+2,59,HyperX Cloud Core 7.1,2011-10-14
+2,46,LG TONE Free FN6,2014-4-13
+2,67,Edifier K815,2021-4-5
+2,91,Skullcandy Cassette,2021-7-12
+2,67,Edifier G5BT,2013-4-26
+2,136,Belkin SoundForm Mini,2017-6-21
+2,46,LG TONE Free FN6,2016-4-5
+2,70,Denon AH-D5200,2021-11-28
+2,60,JBL Tune 115TWS,2012-10-16
+2,66,BASEUS Encok D02,2021-4-13
+2,40,OLMIO TWE-06,2012-2-25
+2,100,Gembird MHS-780,2022-2-26
+2,108,HARPER HB-515,2017-7-3
+2,137,Soundcore Life Note,2015-11-2
+2,60,JBL Tour ONE,2015-8-3
+2,84,Sennheiser HD 200 PRO,2022-12-28
+2,100,Gembird MHS-780,2014-5-5
+2,93,Sven AP-010MV,2010-1-26
+2,66,BASEUS Encok D02,2016-6-20
+2,75,Audio-Technica ATH-M20x,2021-3-23
+2,0,Asus ROG Delta Core,2020-4-8
+2,0,Asus ROG Theta Electret,2015-12-24
+2,108,HARPER HB-515,2018-8-26
+2,75,Audio-Technica ATH-M20x,2018-8-24
+2,0,Asus ROG Theta Electret,2016-3-7
+2,12,Xiaomi Redmi Buds 4 Lite,2021-11-13
+2,64,Ritmix RH-840BTH TWS,2012-10-14
+2,60,JBL T210,2022-3-22
+2,117,Panasonic RP-HJE125,2011-8-21
+2,118,Yealink WH66 Mono UC,2012-3-14
+2,97,Behringer HPM1000,2018-6-2
+2,93,Sven AP-010MV,2023-5-1
+3,17,Samsung Odyssey G5 27,2010-6-7
+3,12,Xiaomi Mi Desktop Monitor 1C,2011-4-26
+3,6,MSI Optix G24C4,2019-2-27
+3,17,Samsung Odyssey G5 32,2011-1-10
+3,2,Acer Nitro RG241YPbiipx,2017-12-14
+3,138,AOC 24G2SU,2018-5-9
+3,46,LG 27MP400,2020-2-19
+3,46,LG 24MP400,2016-1-14
+3,6,MSI Optix G273QF,2020-4-12
+3,1,Huawei MateView GT Standard Edition 34,2016-3-28
+3,6,MSI PRO MP271,2023-8-25
+3,138,AOC Q27G2U,2022-6-15
+3,138,AOC 24B1H,2016-7-11
+3,139,Cooler Master GM238-FFS,2012-3-16
+3,138,AOC 24G2SAE,2013-4-22
+3,2,Acer Nitro VG270Sbmiipx,2013-9-12
+3,138,AOC G2490VXA,2012-2-17
+3,6,MSI Optix G273,2010-11-9
+3,138,AOC E2270Swn,2011-3-17
+3,11,Gigabyte G24F,2019-9-4
+3,0,Asus TUF Gaming VG249Q,2020-4-20
+3,46,LG UltraGear 27GN600,2017-7-26
+3,12,Xiaomi Mi Desktop Monitor 27,2019-6-13
+3,36,Philips 27E1N5600AE,2010-6-21
+3,138,AOC C24G2AE,2010-3-19
+3,11,Gigabyte G27F,2014-7-21
+3,36,Philips 223V5LSB2,2010-7-22
+3,138,AOC CQ27G2U,2023-4-19
+3,17,Samsung F24T352FHI,2019-7-24
+3,0,Asus VS197DE,2010-4-2
+3,36,Philips 24M1N3200VS,2017-1-19
+3,36,Philips 275E1S,2012-9-11
+3,138,AOC 24V2Q,2016-11-22
+3,0,Asus VZ24EHE,2016-4-16
+3,36,Philips 322E1C,2020-10-5
+3,17,Samsung S34J550WQI,2019-7-23
+3,36,Philips 243V7QSB,2011-7-28
+3,139,Cooler Master GM32-FQ,2021-9-2
+3,11,Gigabyte Aorus FO48U,2015-4-13
+3,36,Philips 242E1GAEZ,2015-1-10
+3,12,Xiaomi Mi Surface Display 34,2021-11-21
+3,138,AOC CQ32G2SE,2015-8-21
+3,0,Asus TUF Gaming VG259QR,2013-12-17
+3,12,Xiaomi Mi Gaming Display 27,2016-3-6
+3,6,MSI Optix G24C6,2016-3-5
+3,46,LG UltraGear 27GP750,2019-11-16
+3,6,MSI Modern MD271P,2022-8-9
+3,138,AOC C27G2ZU,2019-7-25
+3,17,Samsung Odyssey G3 24,2021-6-25
+3,6,MSI Optix MAG251RX,2010-12-26
+3,2,Acer KG272Sbmiipx,2023-10-16
+3,36,Philips 245E1S,2010-5-5
+3,46,LG 22MP410,2018-12-13
+3,36,Philips 273V7QSB,2018-1-9
+3,17,Samsung F24T350FHI,2022-8-24
+3,140,BenQ Zowie XL2411K,2016-10-6
+3,2,Acer EK240YCbi,2011-12-18
+3,0,Asus VP228DE,2012-12-15
+3,11,Gigabyte M32U,2022-8-7
+3,17,Samsung S27A600NWI,2015-4-15
+3,0,Asus TUF Gaming VG279QM,2014-8-5
+3,36,Philips 27E1N3300A,2010-1-2
+3,138,AOC C24G2U,2019-6-20
+3,0,Asus TUF Gaming VG32AQL1A,2017-11-16
+3,141,Hikvision DS-D5024FN,2013-8-12
+3,11,Gigabyte G27QC,2012-12-5
+3,36,Philips 275V8LA,2014-8-3
+3,11,Gigabyte M27Q,2018-2-22
+3,6,MSI PRO MP271P,2018-8-2
+3,6,MSI Modern MD241P,2023-10-26
+3,0,Asus ROG Strix XG49VQ,2011-9-3
+3,138,AOC 24G2ZU,2019-3-27
+3,1,Huawei MateView GT Standard Edition 27,2021-8-3
+3,138,AOC 24G2SPU,2014-12-11
+3,11,Gigabyte Aorus FV43U,2022-6-24
+3,0,Asus ROG Swift 360Hz PG259QN,2023-12-14
+3,46,LG 27UL500,2016-7-9
+3,138,AOC 27V2Q,2012-9-23
+3,0,Asus TUF Gaming VG27AQ1A,2011-8-3
+3,46,LG UltraWide 29WP500,2016-1-5
+3,138,AOC 24B2XH,2021-3-22
+3,0,Asus TUF Gaming VG259QM,2021-1-22
+3,0,Asus ProArt PA27UCX,2019-8-5
+3,0,Asus VA247HE,2011-8-15
+3,141,Hikvision DS-D5022FN,2021-8-24
+3,140,BenQ Zowie XL2546K,2022-8-12
+3,2,Acer SA270Abi,2012-6-16
+3,6,MSI Modern MD271CP,2011-1-7
+3,2,Acer Nitro XV282KKVbmiipruzx,2023-7-11
+3,138,AOC 22B2H,2019-8-27
+3,36,Philips 27M1N3200VS,2012-2-26
+3,11,Gigabyte M27F,2013-10-17
+3,142,Iiyama ProLite XU2793HSU-B4,2010-5-24
+3,141,Hikvision DS-D5027FN,2011-1-12
+3,138,AOC 24G2ZE,2015-5-10
+3,17,Samsung F27T350FHI,2014-3-8
+3,6,MSI PRO MP242P,2014-9-4
+3,11,Gigabyte Aorus FI32Q,2013-8-16
+3,17,Samsung S27A800NM,2015-9-12
+3,4,HP 24f,2016-9-5
+3,11,Gigabyte G27FC,2023-1-10
+3,2,Acer Nitro XZ273UXbmiiphx,2017-1-11
+3,4,HP P24q G4,2017-5-19
+3,2,Acer Nitro QG241YPbmiipx,2017-7-16
+3,2,Acer Nitro XV253QPBMIIPRZX,2020-9-18
+3,4,HP P22 G4,2012-2-4
+3,2,Acer V247Ybip,2015-5-1
+3,138,AOC AGON AG274QS,2023-2-26
+3,0,Asus VP32UQ,2010-6-12
+3,36,Philips 24E1N5300AE,2015-5-26
+3,36,Philips Momentum 27M1C5500VL,2021-6-23
+3,138,AOC AGON AG493UCX,2019-12-21
+3,142,Iiyama ProLite XU2493HS-B4,2022-6-14
+3,46,LG 27MP60G,2020-3-16
+3,0,Asus ProArt PA348CGV,2013-7-26
+3,36,Philips 27M1N3200ZA,2023-4-12
+3,46,LG 27UP650,2020-3-8
+3,140,BenQ Mobiuz EX3210R,2020-11-6
+3,140,BenQ PD3420Q,2023-3-3
+3,143,Vestel PDU43UF82,2022-6-7
+3,143,Vestel PDU43UF82,2016-12-13
+3,138,AOC Q32E2N,2016-9-14
+3,138,AOC Q27V5C,2010-4-20
+3,3,Lenovo L27e-30,2021-6-27
+3,142,Iiyama G-Master GB3466WQSU-B1,2023-8-20
+3,11,Gigabyte M32UC,2013-2-17
+3,140,BenQ PD3220U,2020-3-15
+3,140,BenQ Mobiuz EX2710R,2015-1-12
+3,46,LG 27QN600,2012-8-10
+3,138,AOC E2270Swhn,2017-3-15
+4,144,Indesit BWSB 51051,2020-5-3
+4,46,LG F2M5HS6S,2010-2-1
+4,46,LG F2M5HS6W,2015-8-17
+4,145,Lex WFS 61002 WH,2011-2-6
+4,146,Beko WRS 5512 BWW,2020-11-24
+4,17,Samsung WW60A4S00CE,2010-10-15
+4,46,LG F2J3NS0W,2016-12-3
+4,17,Samsung WW70A5S21KE,2016-6-11
+4,17,Samsung WW80A6S24AN,2018-9-28
+4,144,Indesit IWUB 4105,2020-8-2
+4,17,Samsung WW70A4S21CE,2023-3-12
+4,17,Samsung WW70AAS22AX,2015-9-15
+4,144,Indesit BWUA 51051,2018-12-12
+4,17,Samsung WW65A4S21CX,2015-8-26
+4,146,Beko WRE 6512 BWW,2012-3-2
+4,46,LG F2J3HS2W,2016-5-1
+4,17,Samsung WW70A5S21KX,2011-5-8
+4,17,Samsung WW80A6S24AW,2014-4-20
+4,46,LG F1296HDS4,2015-12-26
+4,147,Bosch WGA 242XV,2023-2-12
+4,146,Beko WRS 5511 BWW,2022-6-26
+4,46,LG F2J3HS4L,2021-3-26
+4,17,Samsung WW80AAS22AX,2014-2-10
+4,144,Indesit BWSE 61051,2015-1-23
+4,147,Bosch WAJ 20180,2015-12-24
+4,17,Samsung WW70AAS22AE,2010-6-15
+4,17,Samsung AddWash WD80T554CBT,2012-9-22
+4,46,LG F4M5VS6W,2011-6-26
+4,17,Samsung WW80A6S28AE,2012-1-7
+4,148,Schaub Lorenz SLW MG5133,2022-10-26
+4,149,Miele WTD 163 WCS,2021-5-5
+4,46,LG F1296WDS3,2016-9-6
+4,146,Beko WSRE 6512 ZSS,2018-3-24
+4,150,Hansa WHV6103T0,2015-2-2
+4,146,Beko WSRE 7612 XWW,2016-5-27
+4,17,Samsung WW70J52E04W,2016-5-25
+4,46,LG F1296HDS0,2020-8-28
+4,151,Midea MFH180 G802DS,2017-1-1
+4,152,Renova WS-35E,2023-4-5
+4,17,Samsung WW80AAS22AE,2012-3-20
+4,152,Renova WS-35E,2015-11-22
+4,144,Indesit BWSA 61051,2018-5-21
+4,144,Indesit MSD 615,2022-1-15
+4,153,Daewoo WMC-HWF12SP,2023-11-27
+4,46,LG F10B8ND,2012-10-9
+4,144,Indesit IWSC 5105,2011-1-8
+4,148,Schaub Lorenz SLW MG6133,2018-4-27
+4,149,Miele WSA 023 WCS,2017-9-23
+4,144,Indesit BWUE 51051,2019-10-22
+4,17,Samsung AddWash WD80T554CBX,2012-4-5
+4,152,Renova WS-60PET,2016-11-10
+4,17,Samsung AddWash WD80T554CBX,2022-1-19
+4,146,Beko WRE 6511 BWW,2015-6-19
+4,152,Renova WS-50PET,2022-7-3
+4,148,Schaub Lorenz SLW T1621,2019-2-14
+4,152,Renova WS-70PET,2012-5-2
+4,146,Beko WSRE 7512 XAAI,2014-10-26
+4,154,Winia WMD-R912D1BW,2016-9-13
+4,149,Miele WWV 980 WPS,2023-6-9
+4,155,Kuppersbusch WA 1920.0,2016-10-28
